@@ -125,7 +125,7 @@
     <color name="settingslib_text_color_secondary_device_default">@*android:color/system_on_surface_variant_light</color>
     <color name="settingslib_thumb_off_color">@*android:color/system_neutral2_500</color>
     <color name="settingslib_track_off_color">@*android:color/system_surface_container_highest_light</color>
-    <color name="settingslib_track_on_color">@*android:color/system_accent1_600</color>
+    <color name="settingslib_track_on_color">@*android:color/accent_material_dark</color>
     <color name="sud_color_on_surface">@*android:color/system_on_surface_light</color>
     <color name="sud_color_surface_container_highest">@*android:color/system_surface_container_highest_light</color>
     <color name="sud_system_background_dark">@*android:color/system_background_dark</color>

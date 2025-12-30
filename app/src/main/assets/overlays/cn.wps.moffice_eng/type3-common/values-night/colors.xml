@@ -101,7 +101,7 @@
     <color name="cloud_sign_ink_editor_title_bar_color">@*android:color/background_dark</color>
     <color name="cloud_sign_list_dialog_title_color">#b3ffffff</color>
     <color name="colorActivated">@*android:color/accent_material_dark</color>
-    <color name="colorAiBG">#ff262626</color>
+    <color name="colorAiBG">@*android:color/background_leanback_dark</color>
     <color name="colorAiBorderLine">#ff756f8c</color>
     <color name="colorAiDivider">#ff625572</color>
     <color name="colorAiNormal">#ff8857f2</color>
@@ -231,7 +231,7 @@
     <color name="homeTipsBgColor">#14ffffff</color>
     <color name="homeTipsBgColorV1">#1a8eb4ff</color>
     <color name="home_pay_member_yellow">#e6ff980f</color>
-    <color name="honorWidgetBgColor">#ff262626</color>
+    <color name="honorWidgetBgColor">@*android:color/background_leanback_dark</color>
     <color name="icon_01">#e6f5f9ff</color>
     <color name="icon_02">#ccf5f9ff</color>
     <color name="icon_03">#99f5f9ff</color>
@@ -275,7 +275,7 @@
     <color name="kd_color_azure_8">#ff3ac4d5</color>
     <color name="kd_color_azure_9">#ff75ddea</color>
     <color name="kd_color_background_base">@*android:color/background_dark</color>
-    <color name="kd_color_background_bottom">#ff262626</color>
+    <color name="kd_color_background_bottom">@*android:color/background_leanback_dark</color>
     <color name="kd_color_background_frame">#7a0d0d0d</color>
     <color name="kd_color_background_middle">#ff2d2d2d</color>
     <color name="kd_color_background_middle_pdf">#ffffffff</color>

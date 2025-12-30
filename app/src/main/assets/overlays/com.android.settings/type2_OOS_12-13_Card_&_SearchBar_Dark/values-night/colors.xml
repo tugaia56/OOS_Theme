@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	        <color name="coui_color_card_background">@*android:color/background_dark</color>
-    <color name="coui_searchview_hint_bg_color_normal">@*android:color/button_material_dark</color>
-    <color name="coui_searchview_hint_bg_color_normal_dark">@*android:color/button_material_dark</color>
-    <color name="search_bar_background">@*android:color/button_material_dark</color>
-</resources>

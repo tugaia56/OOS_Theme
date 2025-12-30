@@ -21,11 +21,9 @@
     <color name="circle_to_search_title_color">#e5ffffff</color>
     <color name="classic_panel_dodge_color">#4d525252</color>
     <color name="classic_panel_lum_color">#73262626</color>
-    <color name="clear_all_bg_color">@*android:color/accent_material_dark</color>
-    <color name="close_all_bg_color">@*android:color/accent_material_dark</color>
     <color name="close_all_text_color">#d9ffffff</color>
     <color name="color_dialog_root_view_background">@*android:color/background_dark</color>
-    <color name="color_effect_anim_view_background">#ff101010</color>
+    <color name="color_effect_anim_view_background">@*android:color/background_dark</color>
     <color name="couiBlueColorDisableNormal">@*android:color/accent_material_dark</color>
     <color name="couiBlueColorFocusNormal">#3300bfc0</color>
     <color name="couiBlueColorFocusOutlineNormal">#6600bfc0</color>
@@ -405,10 +403,8 @@
     <color name="nav_bar_background_opaque">@*android:color/background_dark</color>
     <color name="no_notification_text_color">#4dffffff</color>
     <color name="notification_action_rounded_bg_color">#0affffff</color>
-    <color name="notification_card_mixed_color_bottom_layer">@*android:color/transparent</color>
     <color name="notification_card_mixed_color_bottom_layer_first_stack">#ff8c8c8c</color>
     <color name="notification_card_mixed_color_bottom_layer_second_stack">#ff999999</color>
-    <color name="notification_card_mixed_color_top_layer">@*android:color/transparent</color>
     <color name="notification_card_mixed_color_top_layer_first_stack">#b32b2b2b</color>
     <color name="notification_card_mixed_color_top_layer_second_stack">#b32b2b2b</color>
     <color name="notification_close_black">#d9ffffff</color>

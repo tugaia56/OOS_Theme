@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ThemeChangelog">
-    <item>Version 6.2.0</item>
-    <item>ADDED:</item>
-    <item>Truecaller v16.5.6</item>
-    <item>Spotifuck v1.6.3</item>
-    <item>UPDATED:</item>
-    <item>Fuck for VIP v5.0.8r307  </item>
-    <item>Hide My Applist v3.6.1-142  </item>
-    <item>Franco Kernel Manager v7.0.2 </item>
-    <item>WPS Office v18.22.1 </item>
+        <item>Versione 6.2.0</item>
+        <item>AGGIUNTO:</item>
+        <item>Truecaller v16.5.6</item>
+        <item>Spotifuck v1.6.3</item>
+        <item>MODIFICATO:</item>
+        <item>UI Sistema Tutte le Sovrapposizioni v16.00.9</item>
+        <item>Fuck for VIP v5.0.8r307</item>
+        <item>Hide My Applist v3.6.1-142</item>
+        <item>Franco Kernel Manager v7.0.2</item>
+        <item>WPS Office v18.22.1</item>
+        <item>WA Enhancer v1.5.3-DEV (01ccfe7)</item>
+        <item>RIMOSSO:</item>
+        <item>OxygenOS 12-13-14</item>
+        <item>Android OS 13-14-15</item>
     </string-array>
 </resources>

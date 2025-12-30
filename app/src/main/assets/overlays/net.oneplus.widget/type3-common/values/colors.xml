@@ -210,7 +210,7 @@
     <color name="op_control_icon_color_disable_light">#2d000000</color>
     <color name="op_control_icon_color_inactive_dark">#89ffffff</color>
     <color name="op_control_icon_color_inactive_light">#66000000</color>
-    <color name="op_control_navigation_bg_color_dark">#ff101010</color>
+    <color name="op_control_navigation_bg_color_dark">@*android:color/background_dark</color>
     <color name="op_control_navigation_bg_color_light">#ffebebeb</color>
     <color name="op_control_state_color_error_dark">#fffe4743</color>
     <color name="op_control_state_color_error_light">#fffc1b2a</color>

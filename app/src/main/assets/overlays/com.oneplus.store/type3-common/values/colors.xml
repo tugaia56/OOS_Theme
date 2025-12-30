@@ -3385,11 +3385,11 @@
     <color name="nx_search_view_hint_text_color">#d1000000</color>
     <color name="nx_search_view_linear_divider">#1a000000</color>
     <color name="nx_searchview_cancel_text_color">@*android:color/background_dark</color>
-    <color name="nx_security_keyboard_bg_bottom_color">#ff101010</color>
+    <color name="nx_security_keyboard_bg_bottom_color">@*android:color/background_dark</color>
     <color name="nx_security_keyboard_bg_bottom_color_dark">#ff1f1f1f</color>
     <color name="nx_security_keyboard_bg_middle_color">#ff202020</color>
     <color name="nx_security_keyboard_bg_middle_color_dark">#ff1f1f1f</color>
-    <color name="nx_security_keyboard_bg_top_color">#ff101010</color>
+    <color name="nx_security_keyboard_bg_top_color">@*android:color/background_dark</color>
     <color name="nx_security_keyboard_go_label_text_color_normal">#fff1f1f1</color>
     <color name="nx_security_keyboard_go_label_text_color_pressed">#66f1f1f1</color>
     <color name="nx_security_keyboard_special_key_bg_color">#ff474747</color>

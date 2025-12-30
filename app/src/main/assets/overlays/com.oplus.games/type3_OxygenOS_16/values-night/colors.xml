@@ -511,7 +511,7 @@
     <color name="gc_gs_desktop_download_err">#ffed4040</color>
     <color name="gc_gs_recently_visit_board_item_icon_color">#1affffff</color>
     <color name="gc_gs_submit_normal_bg">#fffe7848</color>
-    <color name="gc_gs_subscribe_tab_select_text">#ff262626</color>
+    <color name="gc_gs_subscribe_tab_select_text">@*android:color/background_leanback_dark</color>
     <color name="gc_panel_negative_btn_bg_color">#26ffffff</color>
     <color name="gc_search_view_selector_color">#26ffffff</color>
     <color name="gc_secondary_text_color_custom">#66ffffff</color>

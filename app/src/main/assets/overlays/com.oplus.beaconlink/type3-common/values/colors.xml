@@ -1113,7 +1113,7 @@
     <color name="coui_dialog_content_text_color_large">@*android:color/background_dark</color>
     <color name="coui_dialog_content_text_color_small">#ff898989</color>
     <color name="coui_dialog_follow_hand_spot_shadow_color">#52000000</color>
-    <color name="coui_dialog_list_background_color_above_blur">@android:color/transparent</color>
+    <color name="coui_dialog_list_background_color_above_blur">@*android:color/transparent</color>
     <color name="coui_dialog_list_background_color_no_blur">#ffffffff</color>
     <color name="coui_dialog_list_blend_blur">#ff4d4d4d</color>
     <color name="coui_dialog_list_blend_blur_dark">#ff7a7a7a</color>
@@ -1154,7 +1154,7 @@
     <color name="coui_jump_preference_normal_color">@*android:color/background_dark</color>
     <color name="coui_light_btn_drawable_color_disabled">#ffe5e5e5</color>
     <color name="coui_list_color_pressed">@*android:color/background_dark</color>
-    <color name="coui_list_dialog_background_color_above_blur">@android:color/transparent</color>
+    <color name="coui_list_dialog_background_color_above_blur">@*android:color/transparent</color>
     <color name="coui_list_dialog_background_color_no_blur">#ffffffff</color>
     <color name="coui_list_overscroll_background_color">#ffffffff</color>
     <color name="coui_list_selector_color_disabled">#00000000</color>

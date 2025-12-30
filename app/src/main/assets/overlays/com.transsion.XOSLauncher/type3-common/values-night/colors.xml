@@ -27,7 +27,7 @@
     <color name="cicle_indicator_normal">#33ffffff</color>
     <color name="cicle_indicator_select">#d9ffffff</color>
     <color name="clean_reminder_text_color">#ffdedede</color>
-    <color name="clock_widget_font_color">#ff262626</color>
+    <color name="clock_widget_font_color">@*android:color/background_leanback_dark</color>
     <color name="clock_widget_islsetting_bgcolor">@*android:color/background_dark</color>
     <color name="clock_widget_islsetting_content_selected_text_color">#87dedede</color>
     <color name="clock_widget_islsetting_content_text_color">#ffdedede</color>
@@ -37,7 +37,7 @@
     <color name="clock_widget_islsetting_popwin_bgcolor">#ff2c2c2c</color>
     <color name="clock_widget_islsetting_popwin_text_color">#ffdedede</color>
     <color name="clock_widget_islsetting_statusbar_background">@*android:color/background_dark</color>
-    <color name="clock_widget_shadow_color">#ff262626</color>
+    <color name="clock_widget_shadow_color">@*android:color/background_leanback_dark</color>
     <color name="colorClock7">#ffdedede</color>
     <color name="colorClock8">#99dedede</color>
     <color name="color_bg_01">#ff1c1e21</color>
@@ -410,7 +410,7 @@
     <color name="th_rank_normal_bg_color">@*android:color/button_material_dark</color>
     <color name="th_rank_normal_stroke_color">@*android:color/button_material_dark</color>
     <color name="th_res_name_color">#ffdedede</color>
-    <color name="th_search_bar_bg_color">#ff262626</color>
+    <color name="th_search_bar_bg_color">@*android:color/background_leanback_dark</color>
     <color name="th_search_hint_color">#66dedede</color>
     <color name="th_search_tag_text_color">#99dedede</color>
     <color name="th_search_type_bg_color">#ff2c2c2c</color>

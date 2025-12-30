@@ -1,6 +1,16 @@
-OOS Numero Tiles Barra Quick Setting Chiusa\n
-A13-14 Sfondo Tiles\n
-OOS Numero Tiles Pannello Quick Setting\n\n\n
-OOS Number of Tiles Quick Setting Bar Closed\n
-A13-14 BG Tiles\n
-OOS Number Tiles Quick Setting Panel
+Icona Faceunlock
+(Predefinito: Nascosto)\n
+Colore Icone Statusbar e Navbar
+(Predefinito: Stock)\n
+Barra Progresso Volume
+(Predefinito: Stock)\n
+Pulsante Volume Rotondo (quello sotto la barra)
+(Predefinito: Stock)\n\n\n
+Faceunlock Icon
+(Default: Hidden)\n
+Statusbar and Navbar Icons Color
+(Default: Stock)\n
+Volume Progress Bar
+(Default: Stock)\n
+Round Volume Button (the one below the bar)
+(Default: Stock)

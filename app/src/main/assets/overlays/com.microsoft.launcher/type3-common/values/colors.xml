@@ -818,7 +818,7 @@
     <color name="warning_color">#ffcd3c3c</color>
     <color name="weather_dialog_button_text_color">#ff0f6cbd</color>
     <color name="weather_dialog_content_text_color">@*android:color/background_dark</color>
-    <color name="weather_dialog_title_text_color">#ff101010</color>
+    <color name="weather_dialog_title_text_color">@*android:color/background_dark</color>
     <color name="webview_color_filter">#ff007aff</color>
     <color name="white">#ffffffff</color>
     <color name="white04percent">#0affffff</color>

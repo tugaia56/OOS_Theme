@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item type="drawable" name="forced_resizable_background">#59000000</item>
-    <item type="drawable" name="heads_up_notification_bg_pressed">@*android:color/accent_material_dark</item>
-    <item type="drawable" name="notification_number_text_color">#ffffffff</item>
-    <item type="drawable" name="notification_template_icon_bg">@*android:color/keyguard_avatar_frame_pressed_color</item>
-    <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
-    <item type="drawable" name="system_bar_background">@*android:color/transparent</item>
-</resources>

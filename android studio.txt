@@ -1,8 +1,8 @@
 curl -X POST \
             -H 'Content-Type: application/json' \
-            -d '{"chat_id": ${{ secrets.DST_GROUP }}, "text": "'"$(cat telegram.msg)"'", "parse_mode": "Markdown", "reply_markup": {"inline_keyboard": [[{"text":"Download", "url": "https://www.github.com/tugaia56/AS_Theme/releases/download/${{ env.VTag }}/Dark_Shadow_Theme.apk"}]]}' https://api.telegram.org/bot${{ secrets.TELEGRAM_TK }}/sendMessage
+            -d '{"chat_id": ${{ secrets.DST_GROUP }}, "text": "'"$(cat telegram.msg)"'", "parse_mode": "Markdown", "reply_markup": {"inline_keyboard": [[{"text":"Download", "url": "https://www.github.com/tugaia56/OOS_Theme/releases/download/${{ env.VTag }}/Dark_Shadow_Theme.apk"}]]}' https://api.telegram.org/bot${{ secrets.TELEGRAM_TK }}/sendMessage
 			
-			'{"chat_id": ${{ secrets.DST_GROUP }}, "text": "'"$(cat telegram.msg)"'", "parse_mode": "Markdown", "reply_markup": {"inline_keyboard": [[{"text":"Download", "url": "https://www.github.com/tugaia56/AS_Theme/releases/download/${{ env.VTag }}/Dark_Shadow_Theme.apk"}]]}' https://api.telegram.org/bot${{ secrets.TELEGRAM_TK }}/sendMessage
+			'{"chat_id": ${{ secrets.DST_GROUP }}, "text": "'"$(cat telegram.msg)"'", "parse_mode": "Markdown", "reply_markup": {"inline_keyboard": [[{"text":"Download", "url": "https://www.github.com/tugaia56/OOS_Theme/releases/download/${{ env.VTag }}/Dark_Shadow_Theme.apk"}]]}' https://api.telegram.org/bot${{ secrets.TELEGRAM_TK }}/sendMessage
 			
 			curl -X POST -H 'Content-Type: application/json' -d '{"chat_id": "-1001832156382", "text": "prova"}' https://api.telegram.org/bot7999370435:AAHuCaoFfBxpnKgj-Me1-BVTG65Ec-sqpbQ/sendMessage
 {"ok":true,"result":{"message_id":952,"from":{"id":7999370435,"is_bot":true,"first_name":"Dark Shadow Theme Bot","username":"DarkShadowThemeBot"},"chat":{"id":-1001832156382,"title":"prova","type":"supergroup"},"date":1763156925,"text":"prova"}}

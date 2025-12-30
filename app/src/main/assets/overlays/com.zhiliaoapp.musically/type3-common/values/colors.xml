@@ -466,7 +466,7 @@
     <color name="up">#99000000</color>
     <color name="uq">#f2ffffff</color>
     <color name="ur">#ff26c6da</color>
-    <color name="us">#ff101010</color>
+    <color name="us">@*android:color/background_dark</color>
     <color name="ut">#fff9a725</color>
     <color name="uw">#b3ffffff</color>
     <color name="ux">#8a000000</color>

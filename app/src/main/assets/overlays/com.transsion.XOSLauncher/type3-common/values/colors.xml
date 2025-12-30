@@ -1064,7 +1064,7 @@
     <color name="popup_right_icon_color">#ff606060</color>
     <color name="popup_shade_first_dark">#ff303030</color>
     <color name="popup_shade_first_light">#fff9f9f9</color>
-    <color name="popup_shade_second_dark">#ff262626</color>
+    <color name="popup_shade_second_dark">@*android:color/background_leanback_dark</color>
     <color name="popup_shade_second_light">#fff1f1f1</color>
     <color name="popup_shade_third_dark">#ff1b1b1b</color>
     <color name="popup_shade_third_light">#ffe2e2e2</color>
@@ -1243,7 +1243,7 @@
     <color name="team_text_color">@*android:color/background_dark</color>
     <color name="test_color">@*android:color/background_dark</color>
     <color name="text_color_primary_dark">#ffffffff</color>
-    <color name="text_color_primary_light">#ff262626</color>
+    <color name="text_color_primary_light">@*android:color/background_leanback_dark</color>
     <color name="text_describe">#ff979797</color>
     <color name="text_had_been_read_color">#ff727272</color>
     <color name="text_not_been_read_color">#ff181818</color>

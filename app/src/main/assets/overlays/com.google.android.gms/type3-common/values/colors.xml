@@ -37,7 +37,7 @@
     <color name="auth_authzen_white">#ffffffff</color>
     <color name="auth_divider_color">#ff5f5f60</color>
     <color name="auth_grant_credentials_footer_text_color">@*android:color/button_material_dark</color>
-    <color name="auth_grant_credentials_text_color">#ff262626</color>
+    <color name="auth_grant_credentials_text_color">@*android:color/background_leanback_dark</color>
     <color name="auth_grant_credentials_warning_text_color">#ffff8800</color>
     <color name="auth_minutemaid_color_accent_light">#ff3367d6</color>
     <color name="auth_minutemaid_color_secondary_light">#ff737373</color>

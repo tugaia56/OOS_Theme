@@ -1950,7 +1950,7 @@
     <color name="ppt_thumbnail_list_background_color_play">#ff46484a</color>
     <color name="ppt_thumbnail_list_divide_line_color">#ffa6a7a8</color>
     <color name="ppt_thumbnail_list_divide_line_color_edit">#ffa6a7a8</color>
-    <color name="ppt_thumbnail_list_divide_line_color_play">#ff262626</color>
+    <color name="ppt_thumbnail_list_divide_line_color_play">@*android:color/background_leanback_dark</color>
     <color name="ppt_titbebar_toolbar_divideline_alpha">#1a000000</color>
     <color name="ppt_titlebar_color_black">#ff6f6f6f</color>
     <color name="ppt_titlebar_color_black_disable">#4d6f6f6f</color>

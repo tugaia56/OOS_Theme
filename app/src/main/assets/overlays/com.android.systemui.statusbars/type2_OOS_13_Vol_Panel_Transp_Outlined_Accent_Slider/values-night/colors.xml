@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="oplus_volume_row_icon">#ffffffff</color>
-    <color name="oplus_volume_seekbar_progress">@*android:color/accent_material_dark</color>
-</resources>

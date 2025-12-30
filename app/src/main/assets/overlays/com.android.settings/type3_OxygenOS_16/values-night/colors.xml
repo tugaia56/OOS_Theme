@@ -597,7 +597,7 @@
     <color name="settingslib_materialColorOutlineVariant">@*android:color/system_neutral2_700</color>
     <color name="settingslib_materialColorPrimary">@*android:color/system_accent1_200</color>
     <color name="settingslib_materialColorPrimaryContainer">@*android:color/system_accent1_700</color>
-    <color name="settingslib_materialColorPrimaryInverse">@*android:color/system_accent1_600</color>
+    <color name="settingslib_materialColorPrimaryInverse">@*android:color/accent_material_dark</color>
     <color name="settingslib_materialColorSecondary">@*android:color/system_accent2_200</color>
     <color name="settingslib_materialColorSecondaryContainer">@*android:color/system_accent2_700</color>
     <color name="settingslib_materialColorSurfaceContainerLow">@*android:color/system_neutral2_900</color>

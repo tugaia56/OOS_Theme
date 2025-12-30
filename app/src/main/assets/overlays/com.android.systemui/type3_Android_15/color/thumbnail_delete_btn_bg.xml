@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<shape android:tint="@*android:color/transparent" android:shape="oval" android:alpha="1.0" android:tintMode="multiply"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <size android:height="24.0dip" android:width="24.0dip" />
-    <gradient android:startColor="@*android:color/holo_orange_light" android:endColor="@*android:color/accent_material_dark" android:angle="45.0" />
-</shape>
