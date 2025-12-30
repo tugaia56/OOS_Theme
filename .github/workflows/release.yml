@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Source Code Download
-        run: git clone --branch master --single-branch --recurse-submodules https://github.com/tugaia56/AS_Theme.git .
+        run: git clone --branch master --single-branch --recurse-submodules https://github.com/tugaia56/OOS_Theme.git .
 
       - name: set up JDK 21
         uses: actions/setup-java@v4.1.0
@@ -61,7 +61,7 @@ jobs:
           push-branch: 'master'
           commit-message: 'Version update: Release'
           force-add: 'true'
-          files: app/build.gradle.kts app/src/main/res/values/changelog.xml app/src/main/res/values-it/changelog.xml
+          files: app/build.gradle.kts
           name: GitHub
           email: ASTheme@tugaia.it
 
@@ -80,4 +80,4 @@ jobs:
         run: |
           curl -X POST \
             -H 'Content-Type: application/json' \
-            -d '{"chat_id": ${{ secrets.DST_GROUP }}, "text": "'"$(cat telegram.msg)"'", "parse_mode": "Markdown", "reply_markup": {"inline_keyboard": [[{"text":"Download", "url": "https://www.github.com/tugaia56/AS_Theme/releases/download/${{ env.VTag }}/Dark_Shadow_Theme.apk"}]]}' https://api.telegram.org/bot${{ secrets.TELEGRAM_TK }}/sendMessage
+            -d '{"chat_id": ${{ secrets.DST_GROUP }}, "text": "'"$(cat telegram.msg)"'", "parse_mode": "Markdown", "reply_markup": {"inline_keyboard": [[{"text":"Download", "url": "https://www.github.com/tugaia56/OOS_Theme/releases/download/${{ env.VTag }}/Dark_Shadow_Theme.apk"}]]}' https://api.telegram.org/bot${{ secrets.TELEGRAM_TK }}/sendMessage
