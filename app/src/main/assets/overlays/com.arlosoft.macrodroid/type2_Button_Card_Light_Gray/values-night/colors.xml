@@ -2,11 +2,11 @@
 <resources>
     <color name="primary">@*android:color/background_dark</color>								<!-- 1° pulsante - statusbar e navbar -->
 	
-    <color name="actions_primary">@*android:color/background_holo_dark</color>					<!-- 2° pulsante -->
+    <color name="actions_primary">@*android:color/button_material_light</color>					<!-- 2° pulsante -->
 	
-    <color name="plugins_primary">@*android:color/background_holo_dark</color>					<!-- 12° pulsante -->
+    <color name="plugins_primary">@*android:color/button_material_light</color>					<!-- 12° pulsante -->
 	
-    <color name="quick_settings_config_primary">@*android:color/background_holo_dark</color>	<!-- 19° pulsante -->
+    <color name="quick_settings_config_primary">@*android:color/button_material_light</color>	<!-- 19° pulsante -->
 	
     <color name="accent">#ff99a6db</color>
     <color name="action_ok_button_disabled">#ff888888</color>
@@ -21,7 +21,7 @@
     <color name="condition_accent">#ffb17de8</color>
     <color name="condition_primary">#ff512da8</color>
     <color name="constraints_accent">#ffa5d6a7</color>
-    <color name="constraints_primary">@*android:color/background_holo_dark</color>
+    <color name="constraints_primary">@*android:color/button_material_light</color>
     <color name="constraints_primary_dark">#ff307334</color>
     <color name="constraints_text_list_item">#ff48ae5c</color>
     <color name="defaultSymbolInputBackgroundColor">@*android:color/background_dark</color>
@@ -58,7 +58,7 @@
     <color name="log_text_trigger">#fffa7a78</color>
     <color name="lollipop_button_bar_tint">#ffeeeeee</color>
     <color name="macro_list_disabled_overlay">#44000000</color>
-    <color name="macro_list_fab_color_ripple">@*android:color/background_holo_dark</color>
+    <color name="macro_list_fab_color_ripple">@*android:color/button_material_light</color>
     <color name="macro_list_header_seperator">@*android:color/background_dark</color>
     <color name="macro_list_item_bg">#ff444444</color>
     <color name="macro_list_item_border">@*android:color/background_dark</color>
@@ -68,12 +68,12 @@
     <color name="option_dialog_block_bg">@*android:color/background_dark</color>
     <color name="plugins_accent">#ffffffff</color>
     <color name="plugins_dark">@*android:color/background_dark</color>
-    <color name="plugins_user_bar">@*android:color/background_holo_dark</color>
+    <color name="plugins_user_bar">@*android:color/button_material_light</color>
     <color name="primary_dark">@*android:color/background_dark</color>
     <color name="primary_transparent">#002b4263</color>
     <color name="profile_avatar_border">@*android:color/background_dark</color>
     <color name="profile_edit_icon_bg_stroke">@*android:color/background_dark</color>
-    <color name="quick_settings_config_primary_dark">@*android:color/background_holo_dark</color>
+    <color name="quick_settings_config_primary_dark">@*android:color/button_material_light</color>
     <color name="report_bug_blocker">#ee151515</color>
     <color name="report_bug_button_bg">#ffeeeeee</color>
     <color name="screen_limit_corner_indicator">#ffffffff</color>
@@ -98,9 +98,9 @@
     <color name="text_color_macro_list_name">#ffffffff</color>
     <color name="text_color_macro_list_secondary">#ffdfdfdf</color>
     <color name="trigger_accent">@*android:color/accent_material_dark</color>
-    <color name="trigger_primary">@*android:color/background_holo_dark</color>
+    <color name="trigger_primary">@*android:color/button_material_light</color>
     <color name="trigger_primary_dark">#ff9a1a1a</color>
-    <color name="trigger_primary_slight_darker">@*android:color/background_holo_dark</color>
+    <color name="trigger_primary_slight_darker">@*android:color/button_material_light</color>
     <color name="trigger_primary_transparent">#dec62828</color>
     <color name="trigger_text_list_item">#ffff6666</color>
     <color name="undo_bar_background">#ffffffff</color>

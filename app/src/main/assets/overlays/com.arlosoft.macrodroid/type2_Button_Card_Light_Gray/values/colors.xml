@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="forum_primary">@*android:color/background_holo_dark</color>							<!-- 3°	pulsante -->
+    <color name="forum_primary">@*android:color/button_material_light</color>							<!-- 3°	pulsante -->
 	
-    <color name="export_import_primary">@*android:color/background_holo_dark</color>					<!-- 4°	pulsante -->
+    <color name="export_import_primary">@*android:color/button_material_light</color>					<!-- 4°	pulsante -->
 	
-    <color name="md_cyan_800">@*android:color/background_holo_dark</color>								<!-- 5°	pulsante -->
+    <color name="md_cyan_800">@*android:color/button_material_light</color>								<!-- 5°	pulsante -->
 	
-    <color name="stopwatches_primary">@*android:color/background_holo_dark</color>						<!-- 6°	pulsante -->
+    <color name="stopwatches_primary">@*android:color/button_material_light</color>						<!-- 6°	pulsante -->
 	
-    <color name="geofences_primary">@*android:color/background_holo_dark</color>						<!-- 7°	pulsante -->
+    <color name="geofences_primary">@*android:color/button_material_light</color>						<!-- 7°	pulsante -->
 	
-    <color name="md_blue_grey_600">@*android:color/background_holo_dark</color>						<!-- 8°	pulsante -->
+    <color name="md_blue_grey_600">@*android:color/button_material_light</color>						<!-- 8°	pulsante -->
 	
-    <color name="system_log_primary">@*android:color/background_holo_dark</color>						<!-- 9°	pulsante -->
+    <color name="system_log_primary">@*android:color/button_material_light</color>						<!-- 9°	pulsante -->
 	
-    <color name="videos_primary">@*android:color/background_holo_dark</color>							<!-- 10° pulsante -->
+    <color name="videos_primary">@*android:color/button_material_light</color>							<!-- 10° pulsante -->
 	
-    <color name="blue_600">@*android:color/background_holo_dark</color>								<!-- 11° pulsante -->
+    <color name="blue_600">@*android:color/button_material_light</color>								<!-- 11° pulsante -->
 	
-    <color name="home_screen_tile_last_edited_macro">@*android:color/background_holo_dark</color>		<!-- 13° pulsante -->
+    <color name="home_screen_tile_last_edited_macro">@*android:color/button_material_light</color>		<!-- 13° pulsante -->
 	
-    <color name="favourites_primary">@*android:color/background_holo_dark</color>						<!-- 14° pulsante -->
+    <color name="favourites_primary">@*android:color/button_material_light</color>						<!-- 14° pulsante -->
 	
-    <color name="home_screen_tile_quick_run_macro">@*android:color/background_holo_dark</color>		<!-- 15° pulsante -->
+    <color name="home_screen_tile_quick_run_macro">@*android:color/button_material_light</color>		<!-- 15° pulsante -->
 
-    <color name="user_log_primary">@*android:color/background_holo_dark</color>						<!-- 16° pulsante -->
+    <color name="user_log_primary">@*android:color/button_material_light</color>						<!-- 16° pulsante -->
 	
-    <color name="auto_backup_primary">@*android:color/background_holo_dark</color>						<!-- 17° pulsante -->
+    <color name="auto_backup_primary">@*android:color/button_material_light</color>						<!-- 17° pulsante -->
 	
-    <color name="drawer_primary">@*android:color/background_holo_dark</color>							<!-- 18° pulsante -->
+    <color name="drawer_primary">@*android:color/button_material_light</color>							<!-- 18° pulsante -->
 	
-    <color name="md_indigo_400">@*android:color/background_holo_dark</color>							<!-- 20° pulsante -->
+    <color name="md_indigo_400">@*android:color/button_material_light</color>							<!-- 20° pulsante -->
 
-    <color name="notification_bar_primary">@*android:color/background_holo_dark</color>				<!-- 21° pulsante -->
+    <color name="notification_bar_primary">@*android:color/button_material_light</color>				<!-- 21° pulsante -->
 	
     <color name="abc_decor_view_status_guard">@*android:color/background_dark</color>
     <color name="abc_decor_view_status_guard_light">#ffffffff</color>
@@ -99,7 +99,7 @@
     <color name="applovin_sdk_textColorPrimary">@*android:color/white</color>
     <color name="applovin_sdk_warningColor">#ffffcc00</color>
     <color name="applovin_sdk_xmarkColor">#ffff3b30</color>
-    <color name="auto_backup_accent">@*android:color/background_holo_dark</color>
+    <color name="auto_backup_accent">@*android:color/button_material_light</color>
     <color name="auto_backup_dark">#ffd0343f</color>
     <color name="av_bitmap_background_color">@*android:color/background_dark</color>
     <color name="background_floating_material_light">@*android:color/white</color>
@@ -130,7 +130,7 @@
     <color name="blue_grey_400">#ff78909c</color>
     <color name="blue_grey_50">#ffeceff1</color>
     <color name="blue_grey_500">#ff607d8b</color>
-    <color name="blue_grey_600">@*android:color/background_holo_dark</color>
+    <color name="blue_grey_600">@*android:color/button_material_light</color>
     <color name="blue_grey_700">#ff455a64</color>
     <color name="blue_grey_800">#ff37474f</color>
     <color name="blue_grey_900">#ff263238</color>
@@ -160,7 +160,7 @@
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="call_notification_answer_color">@*android:color/accent_material_dark</color>
     <color name="call_notification_decline_color">@*android:color/holo_red_dark</color>
-    <color name="card_bg_1">@*android:color/background_holo_dark</color>
+    <color name="card_bg_1">@*android:color/button_material_light</color>
     <color name="card_bg_2">@*android:color/button_material_light</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
@@ -195,7 +195,7 @@
     <color name="cyan_500">#ff00bcd4</color>
     <color name="cyan_600">#ff00acc1</color>
     <color name="cyan_700">#ff0097a7</color>
-    <color name="cyan_800">@*android:color/background_holo_dark</color>
+    <color name="cyan_800">@*android:color/button_material_light</color>
     <color name="cyan_900">#ff006064</color>
     <color name="cyan_a100">#ff84ffff</color>
     <color name="cyan_a200">#ff18ffff</color>
@@ -307,7 +307,7 @@
     <color name="div_title_menu_color">#66000000</color>
     <color name="div_traffic_item_stroke_color">#ffedf0f2</color>
     <color name="divider_very_transparent">#66000000</color>
-    <color name="drawer_accent">@*android:color/background_holo_dark</color>
+    <color name="drawer_accent">@*android:color/button_material_light</color>
     <color name="drawer_primary_dark">#ff81717a</color>
     <color name="drawer_text_color">#ff444444</color>
     <color name="dtx_store_promo_bg_fade">#77000000</color>
@@ -322,7 +322,7 @@
     <color name="exo_styled_error_message_background">#80808080</color>
     <color name="exo_white">#ffffffff</color>
     <color name="exo_white_opacity_70">#b3ffffff</color>
-    <color name="export_import_accent">@*android:color/background_holo_dark</color>
+    <color name="export_import_accent">@*android:color/button_material_light</color>
     <color name="export_import_primary_dark">#ffe57539</color>
     <color name="fast_scroller_bar">#42000000</color>
     <color name="fast_scroller_handle_idle">#ff737373</color>
@@ -340,7 +340,7 @@
     <color name="fui_buttonShadow">#64bebebe</color>
     <color name="fui_linkColor">#ff4285f4</color>
     <color name="fui_transparent">#00000000</color>
-    <color name="geofences_accent">@*android:color/background_holo_dark</color>
+    <color name="geofences_accent">@*android:color/button_material_light</color>
     <color name="geofences_primary_dark">#ff447677</color>
     <color name="geofences_primary_transparent">#de548687</color>
     <color name="gph_dark_grey">#ff464646</color>
@@ -427,7 +427,7 @@
     <color name="indigo_100">#ffc5cae9</color>
     <color name="indigo_200">#ff9fa8da</color>
     <color name="indigo_300">#ff7986cb</color>
-    <color name="indigo_400">@*android:color/background_holo_dark</color>
+    <color name="indigo_400">@*android:color/button_material_light</color>
     <color name="indigo_50">#ffe8eaf6</color>
     <color name="indigo_500">#ff3f51b5</color>
     <color name="indigo_600">#ff3949ab</color>
@@ -752,7 +752,7 @@
     <color name="md_blue_400">#ff42a5f5</color>
     <color name="md_blue_50">#ffe3f2fd</color>
     <color name="md_blue_500">#ff2196f3</color>
-    <color name="md_blue_600">@*android:color/background_holo_dark</color>
+    <color name="md_blue_600">@*android:color/button_material_light</color>
     <color name="md_blue_700">#ff1976d2</color>
     <color name="md_blue_800">#ff1565c0</color>
     <color name="md_blue_900">#ff0d47a1</color>
@@ -1193,7 +1193,7 @@
     <color name="square_settings_border">#ff10897c</color>
     <color name="square_view_templates">#ff777777</color>
     <color name="square_view_templates_border">#ff888888</color>
-    <color name="stopwatches_accent">@*android:color/background_holo_dark</color>
+    <color name="stopwatches_accent">@*android:color/button_material_light</color>
     <color name="stopwatches_primary_dark">#ff7f1d46</color>
     <color name="subscribe_button_bg">@*android:color/background_dark</color>
     <color name="subscribe_button_text">#ffffffff</color>
@@ -1203,7 +1203,7 @@
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <color name="system_log_accent">@*android:color/background_holo_dark</color>
+    <color name="system_log_accent">@*android:color/button_material_light</color>
     <color name="system_log_primary_dark">#ff007d42</color>
     <color name="tab_pressed">#22888888</color>
     <color name="teal_100">#ffb2dfdb</color>
@@ -1261,7 +1261,7 @@
     <color name="upgrade_primary_dark">#ffe65100</color>
     <color name="upgrade_primary_press">#ffff9800</color>
     <color name="upgrade_status_bar">#ff777777</color>
-    <color name="user_log_accent">@*android:color/background_holo_dark</color>
+    <color name="user_log_accent">@*android:color/button_material_light</color>
     <color name="user_log_primary_dark">#ff517b3a</color>
     <color name="variables_primary_mid">#ff007277</color>
     <color name="video_buffering_indicator">#ff00ff99</color>
