@@ -34,6 +34,12 @@ sed -i 1,4d changeLog.md
 # remove last 2 lines of useless xml tags
 head -n -2 < changeLog.md | tee changeLog.md
 
+# now create telegram msg
+cp changeLog.md telegram.md
+sed -i 's\##\\g' telegram.md
+sed -i 's\Added\**Added**\g' telegram.md
+sed -i 's\Updated\**Updated**\g' telegram.md
+sed -i 's\Removed\**Removed**\g' telegram.md
 
 echo "*Dark Shadow Theme v$NEWVERNAME released!*" > body.msg
 echo "  " >> body.msg
@@ -49,7 +55,7 @@ echo "⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️" >> tel
 echo " " >> telegram.msg
 echo "Dark Shadow Theme "$NEWVERNAME >> telegram.msg
 echo " " >> telegram.msg
-cat changeLog.md >> telegram.msg
+cat telegram.md >> telegram.msg
 echo " " >> telegram.msg
 echo "If you find any bugs or incorrect colors, please report them to the group and I'll fix them as soon as possible. Thank you very much." >> telegram.msg
 echo "For those of you using OxygenOS, I recommend using Oxygen Customizer; it has many extra features." >> telegram.msg
