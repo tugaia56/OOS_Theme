@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ThemeChangelog">
-        <item>Versione 6.2.0</item>
+        <item>Version 6.2.0</item>
         <item>ADDED:</item>
         <item>UPDATED:</item>
         <item>Fixed some existing errors</item>
+        <item>Smart Sidebar v16.7.1</item>
     </string-array>
 </resources>

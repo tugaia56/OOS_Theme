@@ -1410,12 +1410,6 @@
     <color name="notification_and_qs_panel_mixed_color_bottom_layer">#66d9d9d9</color>
     <color name="notification_and_qs_panel_mixed_color_top_layer">#994d4d4d</color>
     <color name="notification_bubble_holo">#ff2ad181</color>
-    <color name="notification_card_mixed_color_bottom_layer">@*android:color/button_material_dark</color>
-    <color name="notification_card_mixed_color_bottom_layer_first_stack">@*android:color/background_dark</color>
-    <color name="notification_card_mixed_color_bottom_layer_second_stack">@*android:color/background_dark</color>
-    <color name="notification_card_mixed_color_top_layer">#b2a8a8a8</color>
-    <color name="notification_card_mixed_color_top_layer_first_stack">#999e9e9e</color>
-    <color name="notification_card_mixed_color_top_layer_second_stack">#80808080</color>
     <color name="notification_close_black">#d9000000</color>
     <color name="notification_color_primary_label_default">#e6000000</color>
     <color name="notification_color_primary_neutral_default">#e6000000</color>

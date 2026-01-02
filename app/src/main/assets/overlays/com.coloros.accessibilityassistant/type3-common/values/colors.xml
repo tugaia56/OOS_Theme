@@ -2117,7 +2117,7 @@
     <color name="m3_ref_palette_dynamic_primary30">@*android:color/system_accent1_700</color>
     <color name="m3_ref_palette_dynamic_primary40">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_dynamic_primary50">@*android:color/system_accent1_500</color>
-    <color name="m3_ref_palette_dynamic_primary60">@*android:color/system_accent1_400</color>
+    <color name="m3_ref_palette_dynamic_primary60">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_dynamic_primary70">@*android:color/system_accent1_300</color>
     <color name="m3_ref_palette_dynamic_primary80">@*android:color/system_accent1_200</color>
     <color name="m3_ref_palette_dynamic_primary90">@*android:color/system_accent1_100</color>

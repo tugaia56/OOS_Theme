@@ -403,10 +403,6 @@
     <color name="nav_bar_background_opaque">@*android:color/background_dark</color>
     <color name="no_notification_text_color">#4dffffff</color>
     <color name="notification_action_rounded_bg_color">#0affffff</color>
-    <color name="notification_card_mixed_color_bottom_layer_first_stack">#ff8c8c8c</color>
-    <color name="notification_card_mixed_color_bottom_layer_second_stack">#ff999999</color>
-    <color name="notification_card_mixed_color_top_layer_first_stack">#b32b2b2b</color>
-    <color name="notification_card_mixed_color_top_layer_second_stack">#b32b2b2b</color>
     <color name="notification_close_black">#d9ffffff</color>
     <color name="notification_divider_color">#1fffffff</color>
     <color name="notification_divider_color_bg">#cc333333</color>

@@ -49,9 +49,9 @@ android {
     defaultConfig {
         applicationId="tugaia56.dark.shadow.theme"
         minSdk=28
-        versionCode = 621
-        versionName = "6.2.1"
-        setProperty("archivesBaseName", "Dark_Shadow_Theme_v6.2.1")
+        versionCode = 620
+        versionName = "6.2.0"
+        setProperty("archivesBaseName", "Dark_Shadow_Theme_OOS_v6.2.0")
 
         // Themers: DO NOT MODIFY
         buildConfigField("boolean", "SUPPORTS_THIRD_PARTY_SYSTEMS", "$SUPPORTS_THIRD_PARTY_SYSTEMS")
@@ -113,7 +113,7 @@ android {
         variant.outputs
             .map { it as com.android.build.gradle.internal.api.BaseVariantOutputImpl }
             .forEach { output ->
-                val outputFileName = "Dark_Shadow_Theme.apk"
+                val outputFileName = "Dark_Shadow_Theme_OOS_v6.2.0.apk"
                 output.outputFileName = outputFileName
             }
     }

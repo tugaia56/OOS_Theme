@@ -766,7 +766,7 @@
     <color name="md_theme_default_palette_tertiary_99">#fffffbff</color>
     <color name="md_theme_material_green_dark_background">@*android:color/background_dark</color>
     <color name="md_theme_material_green_dark_container">#ff1e201d</color>
-    <color name="md_theme_material_green_dark_containerHigh">#ff282b27</color>
+    <color name="md_theme_material_green_dark_containerHigh">@*android:color/background_dark</color>
     <color name="md_theme_material_green_dark_containerHighest">@*android:color/background_dark</color>
     <color name="md_theme_material_green_dark_containerLow">#ff1a1c19</color>
     <color name="md_theme_material_green_dark_containerLowest">#ff0c0f0c</color>

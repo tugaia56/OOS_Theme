@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="notification_card_mixed_color_bottom_layer">#ff333333</color>
-    <color name="notification_card_mixed_color_top_layer">#b2a8a8a8</color>
+    <color name="notification_card_mixed_color_bottom_layer">@*android:color/ripple_material_dark</color>
+    <color name="notification_card_mixed_color_top_layer">@*android:color/ripple_material_dark</color>
 </resources>
