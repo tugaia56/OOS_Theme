@@ -188,7 +188,7 @@
     <color name="design_fab_stroke_top_inner_color">#1affffff</color>
     <color name="design_fab_stroke_top_outer_color">#2effffff</color>
     <color name="design_snackbar_background_color">@*android:color/background_dark</color>
-    <color name="dialog_dark_bg_color">#ff1b1b1b</color>
+    <color name="dialog_dark_bg_color">@*android:color/background_dark</color>
     <color name="dialog_gray_shade">@*android:color/background_dark</color>
     <color name="download_available_color">@*android:color/accent_material_light</color>
     <color name="download_used_color">@*android:color/background_leanback_dark</color>
@@ -208,7 +208,7 @@
     <color name="gray">#ff999999</color>
     <color name="gray_0_30">#4dd8d8d8</color>
     <color name="gray_3">#ff202020</color>
-    <color name="gray_4">#ff1b1b1b</color>
+    <color name="gray_4">@*android:color/background_dark</color>
     <color name="gray_5">#ff373737</color>
     <color name="gray_50">#501b1b1b</color>
     <color name="gray_60_percent">#99090909</color>

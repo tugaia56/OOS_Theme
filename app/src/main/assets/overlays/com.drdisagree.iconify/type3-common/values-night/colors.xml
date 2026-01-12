@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="stripe_3ds2_accent">#ff5a5a5a</color>
-    <color name="stripe_3ds2_background">#ff303030</color>
+    <color name="stripe_3ds2_background">@*android:color/background_dark</color>
     <color name="stripe_3ds2_chevron">#80ffffff</color>
     <color name="stripe_3ds2_control_activated">#ffc1c1c1</color>
     <color name="stripe_3ds2_divider">#ffa5a5a5</color>
@@ -9,7 +9,7 @@
     <color name="stripe_3ds2_primary_dark">#ff000000</color>
     <color name="stripe_3ds2_text_color">#ffe1e1e1</color>
     <color name="stripe_3ds2_text_info_toggled">#ffa1a1a1</color>
-    <color name="stripe_3ds2_text_input_fill">#ff353535</color>
+    <color name="stripe_3ds2_text_input_fill">@*android:color/background_dark</color>
     <color name="stripe_3ds2_text_input_hint">#ff7a7a7a</color>
     <color name="stripe_card_form_view_background_default">#1fffffff</color>
     <color name="stripe_card_form_view_background_disabled">#1fffffff</color>

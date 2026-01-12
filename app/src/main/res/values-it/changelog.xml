@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ThemeChangelog">
-        <item>Versione 6.3.0</item>
+        <item>Version 6.4.0</item>
+        <item>AGGIUNTO:</item>
+        <item>Android 15</item>
         <item>MODIFICATO:</item>
-        <item>Sistemati alcuni errori presenti</item>
-        <item>Barra laterale intelligente v16.7.1</item>
+        <item>---</item>
     </string-array>
 </resources>

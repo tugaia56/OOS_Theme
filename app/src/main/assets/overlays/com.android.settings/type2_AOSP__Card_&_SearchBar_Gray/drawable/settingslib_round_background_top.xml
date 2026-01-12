@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="@*android:color/ripple_material_dark"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:top="2.0dip" android:start="?android:listPreferredItemPaddingStart" android:end="?android:listPreferredItemPaddingEnd">
+        <shape android:shape="rectangle">
+            <solid android:color="@*android:color/background_holo_dark" />
+            <corners android:topLeftRadius="20.0dip" android:topRightRadius="20.0dip" android:bottomLeftRadius="4.0dip" android:bottomRightRadius="4.0dip" />
+        </shape>
+    </item>
+</layer-list>

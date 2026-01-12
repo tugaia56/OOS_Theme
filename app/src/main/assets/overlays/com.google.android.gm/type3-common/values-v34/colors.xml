@@ -252,7 +252,7 @@
     <color name="settingslib_text_color_primary_device_default">#00ffff</color>
     <color name="settingslib_text_color_secondary_device_default">#ff00ff</color>
     <color name="settingslib_thumb_off_color">#8c9eff</color>
-    <color name="settingslib_track_off_color">#1a237e</color>
+    <color name="settingslib_track_off_color">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_error">@*android:color/holo_red_dark</color>		<!-- Sfondo badge -->
     <color name="gm3_sys_color_dynamic_dark_error_container">#303f9f</color>
     <color name="gm3_sys_color_dynamic_dark_on_error">#ffffff</color>

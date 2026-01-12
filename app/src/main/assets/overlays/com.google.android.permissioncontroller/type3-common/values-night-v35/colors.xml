@@ -28,7 +28,7 @@
 <color name="settingslib_materialColorSurfaceContainerLow">#0d47a1</color>
 <color name="settingslib_materialColorSurfaceContainerLowest">#304ffe</color>
 <color name="settingslib_materialColorSurfaceDim">#8c9eff</color>
-<color name="settingslib_materialColorSurfaceInverse">#1a237e</color>
+<color name="settingslib_materialColorSurfaceInverse">@*android:color/background_dark</color>
 <color name="settingslib_materialColorSurfaceVariant">@*android:color/background_dark</color>
 <color name="settingslib_materialColorTertiary">#8e24aa</color>
 <color name="settingslib_materialColorTertiaryContainer">#ba68c8</color>

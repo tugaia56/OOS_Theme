@@ -2458,8 +2458,8 @@
     <color name="target_item_pressed">#fff9f9f9</color>
     <color name="target_item_text">@*android:color/background_dark</color>
     <color name="target_user_thumbnail_text">#ff404040</color>
-    <color name="teal_200">#ff03dac5</color>
-    <color name="teal_700">#ff018786</color>
+    <color name="teal_200">@*android:color/accent_material_dark</color>
+    <color name="teal_700">@*android:color/accent_material_dark</color>
     <color name="template_preview_copyright_warning_dlg_negative_btn">#ff535252</color>
     <color name="template_preview_copyright_warning_dlg_positive_btn">#ffee416e</color>
     <color name="template_preview_iamge_page_dot_indicator_fill">#ff8e8e8e</color>

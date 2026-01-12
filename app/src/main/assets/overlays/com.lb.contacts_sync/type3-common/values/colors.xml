@@ -178,7 +178,7 @@
     <color name="mbridge_video_common_alertview_confirm_button_bg_default">#ffeaeaea</color>
     <color name="mbridge_video_common_alertview_confirm_button_bg_pressed">#b3eaeaea</color>
     <color name="mbridge_video_common_alertview_confirm_button_textcolor">#ff38b154</color>
-    <color name="mbridge_video_common_alertview_content_textcolor">#ff353535</color>
+    <color name="mbridge_video_common_alertview_content_textcolor">@*android:color/background_dark</color>
     <color name="mbridge_video_common_alertview_feedback_rb_bg">#fff8f8f8</color>
     <color name="mbridge_video_common_alertview_title_textcolor">#ff38b154</color>
     <color name="mbridge_white">#ffffffff</color>

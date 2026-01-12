@@ -152,7 +152,7 @@
     <color name="md_material_blue_600">@*android:color/accent_material_dark</color>
     <color name="md_material_blue_800">#ff1565c0</color>
     <color name="mdtp_accent_color">@*android:color/accent_material_dark</color>
-    <color name="mdtp_accent_color_dark">#ff00796b</color>
+    <color name="mdtp_accent_color_dark">@*android:color/accent_material_dark</color>
     <color name="mdtp_accent_color_focused">#76ffffff</color>
     <color name="mdtp_button_selected">#33969696</color>
     <color name="mdtp_calendar_selected_date_text">#ffd1d2d4</color>

@@ -203,7 +203,7 @@
     <color name="md_white_1000">#ffffffff</color>
     <color name="md_yellow_A400">#ffffea00</color>
     <color name="mdtp_accent_color">#ff009688</color>
-    <color name="mdtp_accent_color_dark">#ff00796b</color>
+    <color name="mdtp_accent_color_dark">@*android:color/accent_material_dark</color>
     <color name="mdtp_accent_color_focused">#76ffffff</color>
     <color name="mdtp_circle_background_dark_theme">#ff525252</color>
     <color name="mdtp_circle_color">#fff5f5f5</color>

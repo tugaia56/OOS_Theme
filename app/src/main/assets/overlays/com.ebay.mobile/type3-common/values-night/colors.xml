@@ -50,7 +50,7 @@
     <color name="merchandise_implementation_letterbox_color">@*android:color/background_dark</color>																	  
     <color name="mtrl_btn_bg_color_disabled">#1effffff</color>
     <color name="notification_secondary_text">#ffe5e5e5</color>
-    <color name="photo_organizer_photomanager_background">#ff353535</color>
+    <color name="photo_organizer_photomanager_background">@*android:color/background_dark</color>
     <color name="product_rating_color">@*android:color/white</color>
     <color name="product_reviews_progress_background">@*android:color/background_dark</color>
     <color name="product_reviews_search_bg">@*android:color/button_material_dark</color>

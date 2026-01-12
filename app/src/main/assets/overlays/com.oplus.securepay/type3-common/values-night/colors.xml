@@ -6,7 +6,7 @@
     <color name="chip_checked_text_color">#d9000000</color>
     <color name="chip_checked_text_disable_color">#29ffffff</color>
     <color name="chip_unchecked_background_color">#1affffff</color>
-    <color name="color_button_drawable_disable">#ff353535</color>
+    <color name="color_button_drawable_disable">@*android:color/background_dark</color>
     <color name="color_button_text_color_disable">#4dffffff</color>
     <color name="couiBlueColorDisableNormal">#4d00bfc0</color>
     <color name="couiBlueColorFocusNormal">#3300bfc0</color>

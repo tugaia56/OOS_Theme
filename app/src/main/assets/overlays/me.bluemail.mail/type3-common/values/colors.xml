@@ -273,7 +273,7 @@
     <color name="dark_circle_color">#ff444444</color>
     <color name="dark_gray">#ff363636</color>
     <color name="dark_gray_text_color">#ff58585b</color>
-    <color name="dark_grey">#ff353535</color>
+    <color name="dark_grey">@*android:color/background_dark</color>
     <color name="dark_theme_bg_color">#ff035492</color>
     <color name="dark_theme_bottom_toolbar_color">#ffc0c0c0</color>
     <color name="dark_theme_button_background_color">@*android:color/button_material_dark</color>
@@ -771,7 +771,7 @@
     <color name="teal_50">#ffe0f2f1</color>
     <color name="teal_500">@*android:color/accent_material_dark</color>
     <color name="teal_600">#ff00897b</color>
-    <color name="teal_700">#ff00796b</color>
+    <color name="teal_700">@*android:color/accent_material_dark</color>
     <color name="teal_800">#ff00695c</color>
     <color name="teal_900">#ff004d40</color>
     <color name="teal_accent_100">#ffa7ffeb</color>

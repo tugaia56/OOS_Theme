@@ -15,7 +15,7 @@
     <color name="blackAlpha">#dc000000</color>
     <color name="blackAlphaLoading">#80000000</color>
     <color name="blur">#50ffffff</color>
-    <color name="blurBalck">#ff353535</color>
+    <color name="blurBalck">@*android:color/background_dark</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80ffffff</color>
     <color name="bright_foreground_material_dark">@*android:color/white</color>

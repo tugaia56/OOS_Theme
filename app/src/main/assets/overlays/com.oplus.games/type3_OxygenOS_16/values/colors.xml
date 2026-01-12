@@ -3166,7 +3166,7 @@
     <color name="gs_game_storage_info_color">#ff6dea38</color>
     <color name="gs_gaming_performance_bg_color">#fffa4f00</color>
     <color name="gs_gaming_performance_text_color">#fffa4f00</color>
-    <color name="gs_group_chat_name_card_background_color">#ff353535</color>
+    <color name="gs_group_chat_name_card_background_color">@*android:color/background_dark</color>
     <color name="gs_group_chat_red_packet_text_end_color">#ffffe8bf</color>
     <color name="gs_group_chat_red_packet_text_start_color">#ffffde99</color>
     <color name="gs_gt_performance_bg_color">#fffa4f00</color>
@@ -3510,7 +3510,7 @@
     <color name="m3_ref_palette_tertiary95">#ffffecf1</color>
     <color name="m3_ref_palette_tertiary99">#fffffbfa</color>
     <color name="m3_ref_palette_white">#ffffffff</color>
-    <color name="m3_sys_color_dynamic_dark_background">@*android:color/system_background_dark</color>
+    <color name="m3_sys_color_dynamic_dark_background">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_dark_error">@*android:color/system_error_dark</color>
     <color name="m3_sys_color_dynamic_dark_error_container">@*android:color/system_error_container_dark</color>
     <color name="m3_sys_color_dynamic_dark_inverse_on_surface">@*android:color/system_on_surface_light</color>

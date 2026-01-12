@@ -23,7 +23,7 @@
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
     <color name="colorAccent">#ff3e3e3e</color>
-    <color name="colorAccentDark">#ff353535</color>
+    <color name="colorAccentDark">@*android:color/background_dark</color>
     <color name="colorBlack">@*android:color/background_dark</color>
     <color name="colorBlackOpacity300">#4c000000</color>
     <color name="colorBlackOpacity400">#66000000</color>

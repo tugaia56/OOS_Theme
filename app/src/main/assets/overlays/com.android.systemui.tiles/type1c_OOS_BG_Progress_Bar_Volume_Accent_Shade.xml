@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="oplus_volume_coui_background_side">@*android:color/button_material_dark</color>		<!-- BG Volume -->
+    <color name="oplus_volume_app_adjust_dialog_background_light">#ffffffff</color>						<!-- ffffffff -->
+    <color name="oplus_volume_bar_background">@*android:color/button_material_dark</color>
+    <color name="oplus_volume_bar_progress_background">@*android:color/ripple_material_dark</color>		<!-- BG barra progresso Volume OOS 15-16 -->
+    <color name="oplus_volume_coui_background">@*android:color/button_material_dark</color>				<!-- BG barra Volume OOS 16-->
+    <color name="oplus_volume_coui_background_panel">@*android:color/button_material_dark</color>		<!-- BG Volume barra su pagina intera OOS 16 -->
+</resources>

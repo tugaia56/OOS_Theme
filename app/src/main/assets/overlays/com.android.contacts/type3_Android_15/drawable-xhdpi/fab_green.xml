@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:start="0.0dip">
+        <shape android:tint="@*android:color/background_dark" android:shape="oval" android:tintMode="screen">
+            <solid android:color="@*android:color/background_dark" />
+            <size android:height="55.0dip" android:width="55.0dip" />
+        </shape>
+    </item>
+    <item>
+        <shape android:tint="@*android:color/transparent" android:shape="ring" android:useLevel="false" android:innerRadius="26.0dip" android:thickness="1.0dip" android:alpha="1.0" android:tintMode="src_atop">
+            <gradient android:startColor="@*android:color/accent_material_dark" android:endColor="@*android:color/accent_material_dark" android:angle="45.0" android:type="linear" />
+            <size android:height="56.0dip" android:width="56.0dip" />
+        </shape>
+    </item>
+</layer-list>

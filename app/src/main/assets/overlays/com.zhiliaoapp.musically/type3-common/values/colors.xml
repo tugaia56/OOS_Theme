@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="am">#ffface15</color>
-    <color name="an">#ff1b1b1b</color>
+    <color name="an">@*android:color/background_dark</color>
     <color name="ao">#fff8f8f8</color>
     <color name="ap">#0f161823</color>
     <color name="aq">#0f161823</color>
@@ -64,7 +64,7 @@
     <color name="c_">#ffff4c3a</color>
     <color name="ca">#fffd6c62</color>
     <color name="cb">#ffface15</color>
-    <color name="cc">#ff1b1b1b</color>
+    <color name="cc">@*android:color/background_dark</color>
     <color name="cd">#fff8f8f8</color>
     <color name="ce">#0f161823</color>
     <color name="cf">#0f161823</color>
@@ -387,7 +387,7 @@
     <color name="p_">#fffafafa</color>
     <color name="pa">@*android:color/button_material_dark</color>
     <color name="pb">@*android:color/background_dark</color>
-    <color name="pc">#ff303030</color>
+    <color name="pc">@*android:color/background_dark</color>
     <color name="pd">#ff212121</color>
     <color name="pz">#66000000</color>
     <color name="r4">#52000000</color>

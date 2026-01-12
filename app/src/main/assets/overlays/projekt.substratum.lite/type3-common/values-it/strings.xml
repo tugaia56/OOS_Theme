@@ -190,7 +190,7 @@ Attiva la modalità di compatibilità con Substratum per mostrare i temi compati
     <string name="system_overlay">Overlay di Sistema</string>
     <string name="systemui_headers_label">System UI Headers</string>
     <string name="systemui_navbars_label">System UI Navigation Bar Icons</string>
-    <string name="systemui_qs_tiles_label">System UI QS Tile Icons</string>
+    <string name="systemui_qs_tiles_label">System UI Tile Icons</string>
     <string name="systemui_statusbar_label">System UI Status Bar Icons</string>
     <string name="tab_title_font">Caratteri</string>
     <string name="tab_title_overlay">Sovrapposizioni</string>

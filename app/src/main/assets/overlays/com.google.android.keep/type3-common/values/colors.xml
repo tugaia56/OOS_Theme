@@ -362,7 +362,7 @@
     <color name="og_material3_elevation_dark_2">@*android:color/background_dark</color>
     <color name="on_blue_tonal">@*android:color/accent_material_dark</color>
     <color name="on_yellow_tonal">#ff5c4300</color>
-    <color name="overscroll_color">#ff353535</color>
+    <color name="overscroll_color">@*android:color/background_dark</color>
     <color name="photo_crop_dim_color">#cc000000</color>
     <color name="photo_crop_highlight_color">#ffffffff</color>
     <color name="places_autocomplete_fullscreen_background">#fff1f1f1</color>

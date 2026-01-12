@@ -148,7 +148,7 @@
     <color name="mini_color_widget_author">#ff808080</color>
     <color name="mini_color_widget_content">#ffcfcfcf</color>
     <color name="mini_color_widget_img_mask">#3d303030</color>
-    <color name="mini_color_widget_item_bg">#ff303030</color>
+    <color name="mini_color_widget_item_bg">@*android:color/background_dark</color>
     <color name="mini_color_widget_item_tv">#ffcfcfcf</color>
     <color name="mutil_task_bg_color">@*android:color/background_dark</color>
     <color name="mutil_task_bg_color_hios">@*android:color/background_dark</color>
@@ -205,7 +205,7 @@
     <color name="os_foot_bar_divider_color">#ff00ff00</color>
     <color name="os_foot_bar_item_text_color">#e6ffffff</color>
     <color name="os_foot_bar_more_icon_color">#ffff0000</color>
-    <color name="os_foot_bar_popup_bg">#ff424242</color>
+    <color name="os_foot_bar_popup_bg">@*android:color/background_dark</color>
     <color name="os_footactionbar_bg_end">#f71e1e1e</color>
     <color name="os_footactionbar_bg_start">#f71e1e1e</color>
     <color name="os_footoperationbar_bg_end">#ff1e1e1e</color>

@@ -152,7 +152,7 @@
     <color name="credentials_white_alpha_70">#a3ffffff</color>
     <color name="credentials_white_alpha_87">#deffffff</color>
     <color name="crisis_alerts_card_background">#fffce8e6</color>
-    <color name="crisis_alerts_card_text">#ffc5221f</color>
+    <color name="crisis_alerts_card_text">@*android:color/accent_material_dark</color>
     <color name="dUi_color_highlight_Container_dark">#ff625e57</color>
     <color name="dUi_color_highlight_Container_light">#fffff9e1</color>
     <color name="dUi_color_neutral_variant_nv_100_dark">#ffe1e3e1</color>
@@ -203,7 +203,7 @@
     <color name="divider_color_primary">#24000000</color>
     <color name="divider_color_secondary">#85ffffff</color>
     <color name="eew_alert_card_background">#fffce8e6</color>
-    <color name="eew_alert_card_text">#ffc5221f</color>
+    <color name="eew_alert_card_text">@*android:color/accent_material_dark</color>
     <color name="eew_link_blue">#ff1a73e8</color>
     <color name="error_color_material_dark">#ffff7043</color>
     <color name="error_color_material_light">#ffff5722</color>
@@ -412,7 +412,7 @@
     <color name="gm3_sys_color_dark_surface_container">#ff1e1f20</color>
     <color name="gm3_sys_color_dark_surface_container_high">#ff282a2c</color>
     <color name="gm3_sys_color_dark_surface_container_highest">#ff333537</color>
-    <color name="gm3_sys_color_dark_surface_container_low">#ff1b1b1b</color>
+    <color name="gm3_sys_color_dark_surface_container_low">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dark_surface_container_lowest">#ff0e0e0e</color>
     <color name="gm3_sys_color_dynamic_dark_background">@*android:color/bright_foreground_dark_disabled</color>
     <color name="gm3_sys_color_dynamic_dark_error">@*android:color/btn_default_material_dark</color>
@@ -535,7 +535,7 @@
     <color name="gm_ref_palette_red50">#fffce8e6</color>
     <color name="gm_ref_palette_red500">#ffea4335</color>
     <color name="gm_ref_palette_red600">@*android:color/holo_red_dark</color>
-    <color name="gm_ref_palette_red700">#ffc5221f</color>
+    <color name="gm_ref_palette_red700">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_red800">#ffb31412</color>
     <color name="gm_ref_palette_red900">#ffa50e0e</color>
     <color name="gm_ref_palette_white">#ffffffff</color>

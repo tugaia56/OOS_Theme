@@ -154,7 +154,7 @@
     <color name="m3_ref_palette_dynamic_tertiary40">#689f38</color>
     <color name="m3_ref_palette_dynamic_tertiary80">#7cb342</color>
     <color name="m3_ref_palette_dynamic_tertiary90">#8bc34a</color>
-    <color name="m3_sys_color_dynamic_dark_background">#9ccc65</color>
+    <color name="m3_sys_color_dynamic_dark_background">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_dark_inverse_on_surface">#aed581</color>
     <color name="m3_sys_color_dynamic_dark_inverse_primary">#c5e1a5</color>
     <color name="m3_sys_color_dynamic_dark_inverse_surface">#dcedc8</color>

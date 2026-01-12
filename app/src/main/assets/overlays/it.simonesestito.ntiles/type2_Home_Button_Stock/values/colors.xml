@@ -91,7 +91,7 @@
     <color name="gnt_test_background_color">#00f4f4f4</color>
     <color name="gnt_test_background_color_2">#00a3a3a3</color>
     <color name="gnt_white">#ffffffff</color>
-    <color name="green">#ff00796b</color>
+    <color name="green">@*android:color/accent_material_dark</color>
     <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
     <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
     <color name="ic_launcher_background">@*android:color/background_dark</color>

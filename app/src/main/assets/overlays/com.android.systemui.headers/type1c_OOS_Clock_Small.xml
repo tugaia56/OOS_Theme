@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="red_horizontal_single_clock_hour_size">66.0dip</dimen>		<!-- 60 stock -->
+    <dimen name="red_horizontal_single_clock_colon_size">66.0dip</dimen>	<!-- 60 stock -->
+    <dimen name="red_horizontal_single_clock_minute_size">66.0dip</dimen>	<!-- 60 stock -->
+    <dimen name="red_horizontal_single_clock_date_size">20.0dip</dimen>		<!-- 16 stock -->
+    <dimen name="widget_big_font_size">85.0dip</dimen>					<!-- 54 stock -->
+    <dimen name="widget_icon_size">22.0dip</dimen>						<!-- 18 stock -->
+    <dimen name="widget_title_font_size">32.0dip</dimen>				<!-- 20 stock -->
+</resources>

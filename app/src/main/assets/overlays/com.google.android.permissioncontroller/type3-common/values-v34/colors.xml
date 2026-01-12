@@ -37,7 +37,7 @@
 <color name="m3_sys_color_dynamic_light_on_background">#3d5afe</color>
 <color name="m3_sys_color_dynamic_light_on_primary">#536dfe</color>
 <color name="m3_sys_color_dynamic_light_on_primary_container">#8c9eff</color>
-<color name="m3_sys_color_dynamic_light_on_secondary">#1a237e</color>
+<color name="m3_sys_color_dynamic_light_on_secondary">@*android:color/background_dark</color>
 <color name="m3_sys_color_dynamic_light_on_secondary_container">#303f9f</color>
 <color name="m3_sys_color_dynamic_light_on_surface">#303f9f</color>
 <color name="m3_sys_color_dynamic_light_on_surface_variant">#3949ab</color>

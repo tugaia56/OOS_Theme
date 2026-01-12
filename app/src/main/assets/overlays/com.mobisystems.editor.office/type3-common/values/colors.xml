@@ -438,7 +438,7 @@
     <color name="fb_analyzer_items_selected_color_light">#ff4b4b4b</color>
     <color name="fb_analyzer_move_delete_buttons_background_dark">#ff747474</color>
     <color name="fb_analyzer_move_delete_buttons_background_light">#ffdedfe0</color>
-    <color name="fb_analyzer_move_delete_buttons_shadow_upper_dark">#ff353535</color>
+    <color name="fb_analyzer_move_delete_buttons_shadow_upper_dark">@*android:color/background_dark</color>
     <color name="fb_colorAccent">@*android:color/accent_material_dark</color>
     <color name="fb_colorPrimary">@*android:color/background_dark</color>
     <color name="fb_colorPrimaryDark">#19000000</color>
@@ -579,7 +579,7 @@
     <color name="home_btn_normal">@*android:color/button_material_dark</color>
     <color name="home_btn_premium">@*android:color/background_dark</color>
     <color name="home_btn_pressed">@*android:color/background_leanback_dark</color>
-    <color name="home_fragment_module_entry_text_color">#ff353535</color>
+    <color name="home_fragment_module_entry_text_color">@*android:color/background_dark</color>
     <color name="home_module_fragment_item_divider_color">#ffd8d8d8</color>
     <color name="home_module_fragment_item_text_color">@*android:color/background_dark</color>
     <color name="home_module_fragment_item_text_color_242424">@*android:color/background_dark</color>
@@ -799,7 +799,7 @@
     <color name="mbridge_video_common_alertview_confirm_button_bg_default">#ffeaeaea</color>
     <color name="mbridge_video_common_alertview_confirm_button_bg_pressed">#b3eaeaea</color>
     <color name="mbridge_video_common_alertview_confirm_button_textcolor">#ff38b154</color>
-    <color name="mbridge_video_common_alertview_content_textcolor">#ff353535</color>
+    <color name="mbridge_video_common_alertview_content_textcolor">@*android:color/background_dark</color>
     <color name="mbridge_video_common_alertview_feedback_rb_bg">#fff8f8f8</color>
     <color name="mbridge_video_common_alertview_title_textcolor">#ff38b154</color>
     <color name="mbridge_white">#ffffffff</color>

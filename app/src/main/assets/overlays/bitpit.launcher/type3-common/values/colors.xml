@@ -670,7 +670,7 @@
     <color name="neutral1_0800_red">#ff362f2d</color>
     <color name="neutral1_0800_teal">#ff2e3130</color>
     <color name="neutral1_0800_yellow">#ff32302b</color>
-    <color name="neutral1_0900_grayscale">#ff1b1b1b</color>
+    <color name="neutral1_0900_grayscale">@*android:color/background_dark</color>
     <color name="neutral1_0900_indigo">#ff1b1b1f</color>
     <color name="neutral1_0900_light_blue">#ff1a1c1e</color>
     <color name="neutral1_0900_light_green">#ff1a1c18</color>

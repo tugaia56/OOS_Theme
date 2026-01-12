@@ -124,7 +124,7 @@
     <color name="main_search_bg">#1affffff</color>
     <color name="midEmphasis">#99ffffff</color>
     <color name="monotoneIconTint">@*android:color/white</color>
-    <color name="newsEventBorder">#ff353535</color>
+    <color name="newsEventBorder">@*android:color/background_dark</color>
     <color name="newsEventSiteName">@*android:color/button_material_dark</color>
     <color name="notification_lock_screen_mock_device_gradient_end">#00000000</color>
     <color name="notification_lock_screen_mock_device_gradient_start">#ff9d9d9d</color>

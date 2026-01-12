@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_elevation_material">0.0dip</dimen>
+    <dimen name="abc_progress_bar_height_material">1.0dip</dimen>
+    <dimen name="abc_seekbar_track_background_height_material">1.0dip</dimen>
+    <dimen name="abc_seekbar_track_progress_height_material">1.0dip</dimen>
+    <dimen name="cardview_default_elevation">0.0dip</dimen>
+    <dimen name="dashboard_category_elevation">0.0dip</dimen>
+    <dimen name="design_appbar_elevation">0.0dip</dimen>
+    <dimen name="divider_height">0.0dip</dimen>
+    <dimen name="horizontal_divider_height">0.0dip</dimen>
+    <dimen name="ring_progress_bar_thickness">2.0dip</dimen>
+    <dimen name="search_bar_card_elevation">0.0dip</dimen>
+    <dimen name="search_bar_content_inset">64.0dip</dimen>
+    <dimen name="search_bar_corner_radius">24.0dip</dimen>
+    <dimen name="search_panel_elevation">0.0dip</dimen>
+    <dimen name="suw_card_elevation">0.0dip</dimen>
+    <dimen name="suw_glif_card_elevation">0.0dip</dimen>
+    <dimen name="suw_header_elevation_hack">0.0dip</dimen>
+    <dimen name="suw_title_area_elevation">0.0dip</dimen>
+    <dimen name="usage_graph_divider_size">0.0dip</dimen>
+    <dimen name="wifi_divider_height">0.0px</dimen>
+</resources>

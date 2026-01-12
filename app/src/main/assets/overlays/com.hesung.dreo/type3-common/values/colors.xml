@@ -226,7 +226,7 @@
     <color name="cyan_14">#ff00385c</color>
     <color name="cyan_15">#ff002b47</color>
     <color name="cyan_16">#ff001e33</color>
-    <color name="dark">#ff353535</color>
+    <color name="dark">@*android:color/background_dark</color>
     <color name="design_bottom_navigation_shadow_color">#14000000</color>
     <color name="design_dark_default_color_background">@*android:color/background_dark</color>
     <color name="design_dark_default_color_error">#ffcf6679</color>

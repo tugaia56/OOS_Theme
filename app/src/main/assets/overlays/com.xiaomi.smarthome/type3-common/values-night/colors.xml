@@ -229,7 +229,7 @@
     <color name="mj_color_wearable_list_item_frame">@*android:color/button_material_dark</color>
     <color name="mj_color_wearable_list_item_frame_pressed">#ffffffff</color>
     <color name="mj_color_wheel_select_text_color">#ff008ae6</color>
-    <color name="mj_color_whi_env_gray_nor">#ff353535</color>
+    <color name="mj_color_whi_env_gray_nor">@*android:color/background_dark</color>
     <color name="mj_color_whi_env_text_unable">@*android:color/background_dark</color>
     <color name="mj_color_white">@*android:color/background_dark</color>
     <color name="mj_color_white_00_transparent">#00000000</color>

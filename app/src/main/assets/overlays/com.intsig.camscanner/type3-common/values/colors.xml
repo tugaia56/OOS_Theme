@@ -200,7 +200,7 @@
     <color name="cs_black_E6EFFF">#ffe6efff</color>
     <color name="cs_black_FF1D2A3A">#ff1d2a3a</color>
     <color name="cs_black_FF223346">#ff223346</color>
-    <color name="cs_black_FF353535">#ff353535</color>
+    <color name="cs_black_FF353535">@*android:color/background_dark</color>
     <color name="cs_black_FF5A5A5A">#ff5a5a5a</color>
     <color name="cs_blackgold_4CDFB981">#4cdfb981</color>
     <color name="cs_blackgold_FFDFB981">#ffdfb981</color>

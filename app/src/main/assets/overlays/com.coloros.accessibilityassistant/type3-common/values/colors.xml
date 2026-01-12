@@ -2239,7 +2239,7 @@
     <color name="m3_ref_palette_tertiary95">#ffffecf1</color>
     <color name="m3_ref_palette_tertiary99">#fffffbfa</color>
     <color name="m3_ref_palette_white">#ffffffff</color>
-    <color name="m3_sys_color_dynamic_dark_background">@*android:color/system_background_dark</color>
+    <color name="m3_sys_color_dynamic_dark_background">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_dark_error">@*android:color/system_error_dark</color>
     <color name="m3_sys_color_dynamic_dark_error_container">@*android:color/system_error_container_dark</color>
     <color name="m3_sys_color_dynamic_dark_inverse_on_surface">@*android:color/system_on_surface_light</color>

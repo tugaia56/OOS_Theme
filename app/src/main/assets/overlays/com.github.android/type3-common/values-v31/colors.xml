@@ -49,7 +49,7 @@
     <color name="m3_ref_palette_dynamic_secondary60">#3d5afe</color>
     <color name="m3_ref_palette_dynamic_secondary70">@*android:color/holo_red_dark</color>
     <color name="m3_ref_palette_dynamic_secondary80">#8c9eff</color>
-    <color name="m3_ref_palette_dynamic_secondary90">#1a237e</color>
+    <color name="m3_ref_palette_dynamic_secondary90">@*android:color/background_dark</color>
     <color name="m3_ref_palette_dynamic_secondary95">#283593</color>
     <color name="m3_ref_palette_dynamic_secondary99">#303f9f</color>
     <color name="m3_ref_palette_dynamic_tertiary0">#3949ab</color>
@@ -65,7 +65,7 @@
     <color name="m3_ref_palette_dynamic_tertiary90">#0d47a1</color>
     <color name="m3_ref_palette_dynamic_tertiary95">#1565c0</color>
     <color name="m3_ref_palette_dynamic_tertiary99">#1976d2</color>
-    <color name="m3_sys_color_dynamic_dark_background">#1e88e5</color>
+    <color name="m3_sys_color_dynamic_dark_background">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_dark_inverse_on_surface">#2196f3</color>
     <color name="m3_sys_color_dynamic_dark_inverse_primary">#42a5f5</color>
     <color name="m3_sys_color_dynamic_dark_inverse_surface">#64b5f6</color>
@@ -133,7 +133,7 @@
     <color name="material_dynamic_neutral_variant70">#689f38</color>
     <color name="material_dynamic_neutral_variant80">#7cb342</color>
     <color name="material_dynamic_neutral_variant90">#8bc34a</color>
-    <color name="material_dynamic_neutral_variant95">#9ccc65</color>
+    <color name="material_dynamic_neutral_variant95">@*android:color/background_dark</color>
     <color name="material_dynamic_neutral_variant99">#aed581</color>
     <color name="material_dynamic_primary0">#c5e1a5</color>
     <color name="material_dynamic_primary10">#dcedc8</color>

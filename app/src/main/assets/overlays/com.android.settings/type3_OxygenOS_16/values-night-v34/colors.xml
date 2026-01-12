@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="settingslib_materialColorBackground">@*android:color/system_background_dark</color>
+    <color name="settingslib_materialColorBackground">@*android:color/background_dark</color>
     <color name="settingslib_materialColorError">@*android:color/system_error_dark</color>
     <color name="settingslib_materialColorErrorContainer">@*android:color/system_error_container_dark</color>
     <color name="settingslib_materialColorOnBackground">@*android:color/system_on_background_dark</color>

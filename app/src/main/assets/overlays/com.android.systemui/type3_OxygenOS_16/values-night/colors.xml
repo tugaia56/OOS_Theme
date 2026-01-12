@@ -489,7 +489,7 @@
     <color name="section_header_rounded_bg_color">#0fffffff</color>
     <color name="selected_device_tint">#e6ffffff</color>
     <color name="settingslib_dialog_colorError">#fff28b82</color>
-    <color name="settingslib_materialColorBackground">@*android:color/system_background_dark</color>
+    <color name="settingslib_materialColorBackground">@*android:color/background_dark</color>
     <color name="settingslib_materialColorError">@*android:color/system_error_dark</color>
     <color name="settingslib_materialColorErrorContainer">@*android:color/system_error_container_dark</color>
     <color name="settingslib_materialColorOnBackground">@*android:color/system_on_background_dark</color>

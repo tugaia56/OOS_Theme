@@ -111,7 +111,7 @@
     <color name="stripe_3ds2_primary_dark">@*android:color/background_dark</color>
     <color name="stripe_3ds2_text_color">#ffe1e1e1</color>
     <color name="stripe_3ds2_text_info_toggled">#ffa1a1a1</color>
-    <color name="stripe_3ds2_text_input_fill">#ff353535</color>
+    <color name="stripe_3ds2_text_input_fill">@*android:color/background_dark</color>
     <color name="stripe_3ds2_text_input_hint">#ff7a7a7a</color>
     <color name="stripe_card_form_view_background_default">#1fffffff</color>
     <color name="stripe_card_form_view_background_disabled">#1fffffff</color>

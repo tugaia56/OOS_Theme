@@ -320,7 +320,7 @@
     <color name="quantum_teal300">@*android:color/accent_material_dark</color>
     <color name="quantum_teal400">#ff26a69a</color>
     <color name="quantum_teal600">@*android:color/accent_material_dark</color>
-    <color name="quantum_teal700">#ff00796b</color>
+    <color name="quantum_teal700">@*android:color/accent_material_dark</color>
     <color name="quantum_white_100">#ffffffff</color>
     <color name="quick_action_button_ripple_color_day_gm3">#ffb1d1df</color>
     <color name="quick_action_button_ripple_color_night_gm3">#ff8ba0ad</color>

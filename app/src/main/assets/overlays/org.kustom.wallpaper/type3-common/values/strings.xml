@@ -2190,7 +2190,7 @@ p = current trigger level (0 to 100) if available"</string>
     <string name="permission_usagestats">Usage Stats</string>
     <string name="permission_usagestats_desc">access data to understand which application is on foreground to give a better experience</string>
     <string name="pick_image_intent_chooser_title">Select source</string>
-    <string name="preset_default">{ \"background_color\": \"#FF353535\"
+    <string name="preset_default">{ \"background_color\": \"@*android:color/background_dark\"
              \"internal_type\": \"RootLayerModule\"
              \"position_padding_top\": 90
              \"viewgroup_items\": [ { \"internal_animations\": [ { \"type\": \"SCROLL\" } ]

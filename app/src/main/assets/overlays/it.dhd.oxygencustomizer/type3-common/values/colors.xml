@@ -238,7 +238,7 @@
     <color name="m3_ref_palette_grey0">@*android:color/background_dark</color>
     <color name="m3_ref_palette_grey10">#ff1b1b1c</color>
     <color name="m3_ref_palette_grey100">#ffffffff</color>
-    <color name="m3_ref_palette_grey20">#ff303030</color>
+    <color name="m3_ref_palette_grey20">@*android:color/background_dark</color>
     <color name="m3_ref_palette_grey30">#ff474747</color>
     <color name="m3_ref_palette_grey40">#ff5e5e5e</color>
     <color name="m3_ref_palette_grey50">#ff777777</color>

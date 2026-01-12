@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ActionPrimaryButton" parent="@*android:style/Widget.Material.Button">
+        <item name="android:background">@*android:drawable/btn_media_player_selected</item>
+        <item name="android:tint">@*android:color/transparent</item>
+        <item name="android:alpha">1.0</item>
+    </style>
+    <style name="EntityHeader">
+        <item name="android:background">@*android:color/transparent</item>
+        <item name="android:paddingTop">24.0dip</item>
+        <item name="android:paddingBottom">16.0dip</item>
+        <item name="android:paddingEnd">16.0dip</item>
+    </style>
+    <style name="MainSwitchText.Settingslib" parent="@*android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">@*android:color/white</item>
+        <item name="android:fontFamily">google-sans-medium</item>
+    </style>
+    <style name="Platform.V21.AppCompat" parent="@*android:style/Theme.Material.NoActionBar">
+        <item name="android:colorPrimaryDark">#00000000</item>
+        <item name="android:statusBarColor">#00000000</item>
+        <item name="android:navigationBarColor">#00000000</item>
+        <item name="android:navigationBarDividerColor">#00000000</item>
+    </style>
+    <style name="Platform.V25.AppCompat" parent="@*android:style/Theme.Material.NoActionBar">
+        <item name="android:colorPrimaryDark">#00000000</item>
+        <item name="android:statusBarColor">#00000000</item>
+        <item name="android:navigationBarColor">#00000000</item>
+        <item name="android:navigationBarDividerColor">#00000000</item>
+    </style>
+    <style name="TextAppearance.CategoryTitle" parent="@*android:style/TextAppearance.Holo.Light.Small">
+        <item name="android:textSize">11.0sp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@*android:color/accent_material_dark</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:letterSpacing">0.07272727</item>
+    </style>
+    <style name="Widget.ActionBar.Base" parent="@*android:style/Widget.DeviceDefault.ActionBar.Solid">
+        <item name="android:background">@*android:color/transparent</item>
+    </style>
+    <style name="Widget.SwitchBar.Switch" parent="@*android:style/Widget.Material.CompoundButton.Switch">
+        <item name="android:minWidth">42.0dip</item>
+        <item name="android:minHeight">48.0dip</item>
+    </style>
+</resources>

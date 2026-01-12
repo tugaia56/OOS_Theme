@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.SwitchBar.Switch" parent="@*android:style/Widget.Material.CompoundButton.Switch">
+        <item name="android:minWidth">42.0dip</item>
+        <item name="android:minHeight">48.0dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.PopupMenu" parent="@*android:style/Widget.Material.PopupMenu" />
+    <style name="Switch.SettingsLib" parent="@*android:style/Widget.Material.CompoundButton.Switch">
+        <item name="android:minHeight">48.0dip</item>
+        <item name="android:thumb">@null</item>
+        <item name="android:track">@null</item>
+        <item name="android:switchMinWidth">42.0dip</item>
+    </style>
+</resources>

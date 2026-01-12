@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="notification_card_mixed_color_bottom_layer">@*android:color/background_dark</color>
+    <color name="notification_card_mixed_color_bottom_layer_first_stack">@*android:color/background_dark</color>
+    <color name="notification_card_mixed_color_bottom_layer_second_stack">@*android:color/background_dark</color>
+    <color name="notification_card_mixed_color_top_layer">@*android:color/background_dark</color>
+    <color name="notification_card_mixed_color_top_layer_first_stack">@*android:color/background_dark</color>
+    <color name="notification_card_mixed_color_top_layer_second_stack">@*android:color/background_dark</color>	
+</resources>

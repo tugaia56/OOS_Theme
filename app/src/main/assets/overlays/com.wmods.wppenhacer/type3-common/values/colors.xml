@@ -78,7 +78,7 @@
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/black</color>
     <color name="gradient_end_error">#ffd50000</color>
-    <color name="gradient_end_primary">#ff00796b</color>
+    <color name="gradient_end_primary">@*android:color/accent_material_dark</color>
     <color name="gradient_end_success">#ff1b5e20</color>
     <color name="gradient_end_warning">#ffff6d00</color>
     <color name="gradient_start_error">#ffff5252</color>
@@ -612,7 +612,7 @@
     <color name="material_teal_50">#ffe0f2f1</color>
     <color name="material_teal_500">#ff009688</color>
     <color name="material_teal_600">#ff00897b</color>
-    <color name="material_teal_700">#ff00796b</color>
+    <color name="material_teal_700">@*android:color/accent_material_dark</color>
     <color name="material_teal_800">#ff00695c</color>
     <color name="material_teal_900">#ff004d40</color>
     <color name="material_teal_A100">#ffa7ffeb</color>

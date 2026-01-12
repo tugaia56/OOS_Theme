@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="m3_sys_color_dynamic_dark_background">#9ccc65</color>
+    <color name="m3_sys_color_dynamic_dark_background">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_dark_inverse_on_surface">#aed581</color>
     <color name="m3_sys_color_dynamic_dark_inverse_primary">#c5e1a5</color>
     <color name="m3_sys_color_dynamic_dark_inverse_surface">#dcedc8</color>

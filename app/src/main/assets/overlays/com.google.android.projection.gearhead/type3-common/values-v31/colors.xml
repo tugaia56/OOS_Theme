@@ -55,7 +55,7 @@
     <color name="gm3_ref_palette_dynamic_secondary95">#689f38</color>
     <color name="gm3_ref_palette_dynamic_secondary99">#7cb342</color>
     <color name="gm3_ref_palette_dynamic_tertiary0">#8bc34a</color>
-    <color name="gm3_ref_palette_dynamic_tertiary10">#9ccc65</color>
+    <color name="gm3_ref_palette_dynamic_tertiary10">@*android:color/background_dark</color>
     <color name="gm3_ref_palette_dynamic_tertiary100">#aed581</color>
     <color name="gm3_ref_palette_dynamic_tertiary20">#c5e1a5</color>
     <color name="gm3_ref_palette_dynamic_tertiary30">#00b8d4</color>
@@ -131,7 +131,7 @@
     <color name="m3_ref_palette_dynamic_secondary95">#689f38</color>
     <color name="m3_ref_palette_dynamic_secondary99">#7cb342</color>
     <color name="m3_ref_palette_dynamic_tertiary0">#8bc34a</color>
-    <color name="m3_ref_palette_dynamic_tertiary10">#9ccc65</color>
+    <color name="m3_ref_palette_dynamic_tertiary10">@*android:color/background_dark</color>
     <color name="m3_ref_palette_dynamic_tertiary100">#aed581</color>
     <color name="m3_ref_palette_dynamic_tertiary20">#c5e1a5</color>
     <color name="m3_ref_palette_dynamic_tertiary30">#00b8d4</color>

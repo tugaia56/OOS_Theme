@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="kgd_color_numeric_keyboard_setting_background_color">#33ffffff</color>
-    <color name="kgd_color_numeric_keyboard_side_setting_background_color">#33ffffff</color>
-    <color name="kgd_show_password_button_text_bg_color">#4dffffff</color>
-    <color name="kgd_color_simple_lock_filled_rectangle_icon_color">#ffffffff</color>	<!-- pallini attivi -->
-    <color name="kgd_color_simple_lock_outlined_rectangle_icon_color">#26ffffff</color>	<!-- pallini disattivi -->
-    <color name="coui_color_label_on_color">@*android:color/white</color>				<!-- numeri tastiera -->
-</resources>

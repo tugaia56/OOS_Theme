@@ -474,7 +474,7 @@
     <color name="material_teal_50">#ffe0f2f1</color>
     <color name="material_teal_500">#ff009688</color>
     <color name="material_teal_600">#ff00897b</color>
-    <color name="material_teal_700">#ff00796b</color>
+    <color name="material_teal_700">@*android:color/accent_material_dark</color>
     <color name="material_teal_800">#ff00695c</color>
     <color name="material_teal_900">#ff004d40</color>
     <color name="material_yellow_100">#fffff9c4</color>

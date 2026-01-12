@@ -85,7 +85,7 @@
     <color name="car_teal_300">#ff4db6ac</color>
     <color name="car_teal_400">#ff26a69a</color>
     <color name="car_teal_500">#ff009688</color>
-    <color name="car_teal_700">#ff00796b</color>
+    <color name="car_teal_700">@*android:color/accent_material_dark</color>
     <color name="car_touch_ripple_day">#17000000</color>
     <color name="car_touch_ripple_night">#27ffffff</color>
     <color name="car_unlimited_browsing_exit">#ff1de9b6</color>
@@ -584,7 +584,7 @@
     <color name="quantum_teal50">#ffe0f2f1</color>
     <color name="quantum_teal500">#ff009688</color>
     <color name="quantum_teal600">#ff00897b</color>
-    <color name="quantum_teal700">#ff00796b</color>
+    <color name="quantum_teal700">@*android:color/accent_material_dark</color>
     <color name="quantum_teal800">#ff00695c</color>
     <color name="quantum_teal900">#ff004d40</color>
     <color name="quantum_tealA100">#ffa7ffeb</color>

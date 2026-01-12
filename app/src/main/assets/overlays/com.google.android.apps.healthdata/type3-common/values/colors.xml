@@ -213,7 +213,7 @@
     <color name="secondary_text_disabled_material_light">#24000000</color>
     <color name="settingslib_materialColorOnPrimary">#ffffffff</color>
     <color name="settingslib_materialColorOnSecondaryContainer">#ff051f1b</color>
-    <color name="settingslib_materialColorOnSurface">#ff1b1b1b</color>
+    <color name="settingslib_materialColorOnSurface">@*android:color/background_dark</color>
     <color name="settingslib_materialColorOutline">#ff777777</color>
     <color name="settingslib_materialColorPrimary">#ff006b5f</color>
     <color name="settingslib_materialColorSecondaryContainer">#ffcce8e2</color>

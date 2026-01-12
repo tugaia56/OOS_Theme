@@ -375,7 +375,7 @@
     <color name="grey_hex_32">@*android:color/background_dark</color>
     <color name="grey_hex_33">@*android:color/button_material_dark</color>
     <color name="grey_hex_34">@*android:color/background_dark</color>
-    <color name="grey_hex_35">#ff353535</color>
+    <color name="grey_hex_35">@*android:color/background_dark</color>
     <color name="grey_hex_36">#ff363636</color>
     <color name="grey_hex_37">@*android:color/button_material_dark</color>
     <color name="grey_hex_38">@*android:color/background_dark</color>
@@ -711,7 +711,7 @@
     <color name="materialcolorpicker__red">#fff44336</color>
     <color name="materialcolorpicker__white">#ffffffff</color>
     <color name="mdtp_accent_color">@*android:color/accent_material_dark</color>
-    <color name="mdtp_accent_color_dark">#ff00796b</color>
+    <color name="mdtp_accent_color_dark">@*android:color/accent_material_dark</color>
     <color name="mdtp_accent_color_focused">#76ffffff</color>
     <color name="mdtp_button_selected">#33969696</color>
     <color name="mdtp_calendar_selected_date_text">#ffd1d2d4</color>

@@ -68,7 +68,7 @@
     <color name="bg_purple_gradient_2">#ffd84eb6</color>
     <color name="bg_red_gradient_1">#ffb12525</color>
     <color name="bg_red_gradient_2">#ffef4f4f</color>
-    <color name="bg_teal_gradient_1">#ff00796b</color>
+    <color name="bg_teal_gradient_1">@*android:color/accent_material_dark</color>
     <color name="bg_teal_gradient_2">#ff00acc1</color>
     <color name="bg_white_gradient_1">#ffffffff</color>
     <color name="bg_white_gradient_2">#ffffffff</color>

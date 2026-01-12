@@ -2,7 +2,7 @@
 <resources>
     <color name="carColorBlue">@*android:color/accent_material_dark</color>
     <color name="carColorGreen">#ff448b47</color>
-    <color name="carColorRed">#ffc5221f</color>
+    <color name="carColorRed">@*android:color/accent_material_dark</color>
     <color name="carColorYellow">#ffd5792d</color>
     <color name="ua_message_center_accent">#ff1c5afa</color>
     <color name="ua_message_center_background">@*android:color/background_dark</color>

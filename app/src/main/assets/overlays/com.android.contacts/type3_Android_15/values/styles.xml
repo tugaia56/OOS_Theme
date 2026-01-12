@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BackgroundOnlyTheme" parent="@*android:style/Theme.DeviceDefault">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowNoDisplay">false</item>
+        <item name="android:windowElevation">0.5dip</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat" parent="@*android:style/TextAppearance.Material">
+        <item name="android:textColor">@*android:color/white</item>
+    </style>
+    <style name="ConfirmAddDetailDialogTheme" parent="@*android:style/Theme.Material.Dialog.MinWidth">
+        <item name="android:windowBackground">@*android:color/background_dark</item>
+    </style>
+    <style name="ContactsAlertDialogTheme" parent="@*android:style/Theme.Material.Dialog">
+        <item name="android:colorAccent">@*android:color/accent_material_dark</item>
+    </style>
+    <style name="DrawerItemTextActiveStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@*android:color/accent_material_dark</item>
+    </style>
+    <style name="DrawerItemTextInactiveStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@*android:color/white</item>
+    </style>
+    <style name="EmptyStateTextStyle">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ffcccccc</item>
+        <item name="android:alpha">0.54</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="ListViewStyle" parent="@*android:style/Widget.Material.ListView">
+        <item name="android:windowBackground">@*android:color/background_dark</item>
+        <item name="android:overScrollMode">always</item>
+        <item name="android:statusBarColor">#00000000</item>
+    </style>
+    <style name="NonPhoneDialogTheme" parent="@*android:style/Theme.Material.Dialog" />
+    <style name="PopupMenuStyle" parent="@*android:style/Widget.PopupMenu">
+        <item name="android:popupBackground">@*android:color/primary_device_default_settings</item>
+    </style>
+    <style name="SelectableItem" parent="@*android:style/Theme.Material">
+        <item name="android:background">?android:selectableItemBackground</item>
+    </style>
+    <style name="Theme.CallSubjectDialogTheme" parent="@*android:style/Theme.Material.Dialog">
+        <item name="android:windowBackground">@*android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">false</item>
+        <item name="android:windowElevation">0.0dip</item>
+    </style>
+</resources>

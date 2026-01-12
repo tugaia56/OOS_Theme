@@ -392,7 +392,7 @@
     <color name="home_screen_tile_border">#66222222</color>
     <color name="home_screen_upgrade_bar">#ff202020</color>
     <color name="home_settings_gradient_1">#ff005c46</color>
-    <color name="home_settings_gradient_2">#ff00796b</color>
+    <color name="home_settings_gradient_2">@*android:color/accent_material_dark</color>
     <color name="home_template_gradient_1">#ff595959</color>
     <color name="home_template_gradient_2">@*android:color/button_material_dark</color>
     <color name="ia_blank_background">#ffffffff</color>
@@ -727,7 +727,7 @@
     <color name="mbridge_video_common_alertview_confirm_button_bg_default">#ffeaeaea</color>
     <color name="mbridge_video_common_alertview_confirm_button_bg_pressed">#b3eaeaea</color>
     <color name="mbridge_video_common_alertview_confirm_button_textcolor">#ff38b154</color>
-    <color name="mbridge_video_common_alertview_content_textcolor">#ff353535</color>
+    <color name="mbridge_video_common_alertview_content_textcolor">@*android:color/background_dark</color>
     <color name="mbridge_video_common_alertview_feedback_rb_bg">#fff8f8f8</color>
     <color name="mbridge_video_common_alertview_title_textcolor">#ff38b154</color>
     <color name="mbridge_white">#ffffffff</color>
@@ -974,7 +974,7 @@
     <color name="md_teal_50">#ffe0f2f1</color>
     <color name="md_teal_500">@*android:color/accent_material_dark</color>
     <color name="md_teal_600">#ff00897b</color>
-    <color name="md_teal_700">#ff00796b</color>
+    <color name="md_teal_700">@*android:color/accent_material_dark</color>
     <color name="md_teal_800">#ff00695c</color>
     <color name="md_teal_900">#ff004d40</color>
     <color name="md_teal_a100">#ffa7ffeb</color>
@@ -1213,7 +1213,7 @@
     <color name="teal_50">#ffe0f2f1</color>
     <color name="teal_500">@*android:color/accent_material_dark</color>
     <color name="teal_600">#ff00897b</color>
-    <color name="teal_700">#ff00796b</color>
+    <color name="teal_700">@*android:color/accent_material_dark</color>
     <color name="teal_800">#ff00695c</color>
     <color name="teal_900">#ff004d40</color>
     <color name="teal_a100">#ffa7ffeb</color>

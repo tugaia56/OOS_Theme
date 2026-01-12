@@ -162,7 +162,7 @@
     <color name="material_dynamic_neutral_variant70">#689f38</color>
     <color name="material_dynamic_neutral_variant80">#7cb342</color>
     <color name="material_dynamic_neutral_variant90">#8bc34a</color>
-    <color name="material_dynamic_neutral_variant95">#9ccc65</color>
+    <color name="material_dynamic_neutral_variant95">@*android:color/background_dark</color>
     <color name="material_dynamic_neutral_variant99">#aed581</color>
     <color name="material_dynamic_primary0">#c5e1a5</color>
     <color name="material_dynamic_primary10">#dcedc8</color>

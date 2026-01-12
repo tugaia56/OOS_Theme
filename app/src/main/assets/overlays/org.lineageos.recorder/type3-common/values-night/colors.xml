@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="colorAccent">@*android:color/accent_material_dark</color>
-    <color name="colorPrimary">@*android:color/background_dark</color>
-    <color name="colorPrimaryDark">@*android:color/background_dark</color>
-    <color name="wave">#12ffffff</color>
-</resources>

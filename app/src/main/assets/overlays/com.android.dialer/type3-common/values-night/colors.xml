@@ -14,7 +14,9 @@
     <color name="incall_background_gradient_middle">@*android:color/background_dark</color>
     <color name="incall_background_gradient_top">@*android:color/background_dark</color>
     <color name="incall_background_multiwindow">@*android:color/background_dark</color>
+    <color name="incall_banner_icon_color">@*android:color/system_neutral1_100</color>
+    <color name="incall_banner_timer_color">@*android:color/system_neutral1_200</color>
     <color name="incall_end_call_icon_color">#ffffffff</color>
-    <color name="nav_item">@*android:color/system_neutral1_300</color>
+    <color name="nav_item">#00ff00</color>
     <color name="rounded_dialpad_bg_color">@*android:color/button_material_dark</color>
 </resources>

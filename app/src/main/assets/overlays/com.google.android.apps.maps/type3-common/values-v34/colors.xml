@@ -96,7 +96,7 @@
     <color name="sud_system_surface_inverse_dark">#689f38</color>
     <color name="sud_system_surface_inverse_light">#7cb342</color>
     <color name="sud_system_surface_light">#8bc34a</color>
-    <color name="sud_system_surface_variant_dark">#9ccc65</color>
+    <color name="sud_system_surface_variant_dark">@*android:color/background_dark</color>
     <color name="sud_system_surface_variant_light">#aed581</color>
     <color name="sud_system_tertiary_container_dark">#c5e1a5</color>
     <color name="sud_system_tertiary_container_light">#dcedc8</color>
@@ -176,7 +176,7 @@
     <color name="gm3_sys_color_dynamic_secondary_fixed_dim">#689f38</color>
     <color name="gm3_sys_color_dynamic_tertiary_fixed">#7cb342</color>
     <color name="gm3_sys_color_dynamic_tertiary_fixed_dim">#8bc34a</color>
-    <color name="m3_sys_color_dynamic_dark_background">#9ccc65</color>
+    <color name="m3_sys_color_dynamic_dark_background">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_dark_inverse_on_surface">#aed581</color>
     <color name="m3_sys_color_dynamic_dark_inverse_primary">#c5e1a5</color>
     <color name="m3_sys_color_dynamic_dark_inverse_surface">#dcedc8</color>
@@ -251,7 +251,7 @@
     <color name="settingslib_text_color_primary_device_default">#00c853</color>
     <color name="settingslib_text_color_secondary_device_default">#1b5e20</color>
     <color name="settingslib_thumb_off_color">#8c9eff</color>
-    <color name="settingslib_track_off_color">#1a237e</color>
+    <color name="settingslib_track_off_color">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_error">#283593</color>
     <color name="gm3_sys_color_dynamic_dark_error_container">#303f9f</color>
     <color name="gm3_sys_color_dynamic_dark_on_error">#3949ab</color>

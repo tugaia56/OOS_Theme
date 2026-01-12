@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="background" format="reference|color" />
+    <attr name="backgroundDimEnabled" format="boolean" />
+    <attr name="clickable" format="boolean" />
+    <attr name="colorAccent" format="color" />
+    <attr name="colorBackground" format="color" />
+    <attr name="colorBackgroundCacheHint" format="color" />
+    <attr name="colorBackgroundFloating" format="color" />
+    <attr name="colorControlActivated" format="color" />
+    <attr name="colorControlHighlight" format="color" />
+    <attr name="colorControlNormal" format="color" />
+    <attr name="colorPrimary" format="color" />
+    <attr name="colorPrimaryDark" format="color" />
+    <attr name="disabledAlpha" format="float" />
+    <attr name="dividerVertical" format="reference" />
+    <attr name="focusable" format="boolean" />
+    <attr name="gravity">
+        <flag name="bottom" value="0x00000050" />
+        <flag name="center" value="0x00000011" />
+        <flag name="center_horizontal" value="0x00000001" />
+        <flag name="center_vertical" value="0x00000010" />
+        <flag name="clip_horizontal" value="0x00000008" />
+        <flag name="clip_vertical" value="0x00000080" />
+        <flag name="end" value="0x00800005" />
+        <flag name="fill" value="0x00000077" />
+        <flag name="fill_horizontal" value="0x00000007" />
+        <flag name="fill_vertical" value="0x00000070" />
+        <flag name="left" value="0x00000003" />
+        <flag name="right" value="0x00000005" />
+        <flag name="start" value="0x00800003" />
+        <flag name="top" value="0x00000030" />
+    </attr>
+    <attr name="imeFullscreenBackground" format="reference|color" />
+    <attr name="panelBackground" format="reference|color" />
+    <attr name="panelFullBackground" format="reference|color" />
+    <attr name="panelColorBackground" format="reference|color" />
+    <attr name="popupBackground" format="reference|color" />
+    <attr name="popupMenuStyle" format="reference" />
+    <attr name="selectableItemBackground" format="reference" />
+    <attr name="showText" format="boolean" />
+    <attr name="switchMinWidth" format="dimension" />
+    <attr name="switchPadding" format="dimension" />
+    <attr name="textAppearance" format="reference" />
+    <attr name="textAppearanceMedium" format="reference" />
+    <attr name="textAppearanceSmall" format="reference" />
+    <attr name="textColor" format="reference|color" />
+    <attr name="textColorPrimary" format="reference|color" />
+    <attr name="textColorPrimaryDisableOnly" format="reference|color" />
+    <attr name="textColorSecondary" format="reference|color" />
+    <attr name="textOff" format="string" />
+    <attr name="textOn" format="string" />
+    <attr name="textSize" format="dimension" />
+    <attr name="thumb" format="reference" />
+    <attr name="thumbTextPadding" format="dimension" />
+    <attr name="track" format="reference" />
+    <attr name="windowActionBar" format="boolean" />
+    <attr name="windowBackground" format="reference|color" />
+    <attr name="windowContentOverlay" format="reference" />
+    <attr name="windowDrawsSystemBarBackgrounds" format="boolean" />
+    <attr name="windowIsTranslucent" format="boolean" />
+    <attr name="windowNoTitle" format="boolean" />
+    <attr name="windowTranslucentNavigation" format="boolean" />
+    <attr name="windowTranslucentStatus" format="boolean" />
+</resources>

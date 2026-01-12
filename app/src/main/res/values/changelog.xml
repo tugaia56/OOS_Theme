@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ThemeChangelog">
-        <item>Version 6.3.0</item>
+        <item>Version 6.4.0</item>
+        <item>ADDED:</item>
+        <item>Android 15</item>
         <item>UPDATED:</item>
-        <item>Fixed some existing errors</item>
-        <item>Smart Sidebar v16.7.1</item>
+        <item>---</item>
     </string-array>
 </resources>

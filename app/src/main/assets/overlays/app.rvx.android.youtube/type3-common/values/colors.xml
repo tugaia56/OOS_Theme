@@ -118,7 +118,7 @@
     <color name="gm3_ref_palette_grey50">#ff777777</color>
     <color name="gm3_ref_palette_neutral10">#ff1f1f1f</color>
     <color name="gm3_ref_palette_neutral100">#ffffffff</color>
-    <color name="gm3_ref_palette_neutral20">#ff303030</color>
+    <color name="gm3_ref_palette_neutral20">@*android:color/background_dark</color>
     <color name="gm3_ref_palette_neutral6">#ff131314</color>
     <color name="gm3_ref_palette_neutral90">#ffe3e3e3</color>
     <color name="gm3_ref_palette_neutral95">#fff2f2f2</color>
@@ -155,7 +155,7 @@
     <color name="gm3_sys_color_dark_surface_container">#ff1e1f20</color>
     <color name="gm3_sys_color_dark_surface_container_high">#ff282a2c</color>
     <color name="gm3_sys_color_dark_surface_container_highest">#ff333537</color>
-    <color name="gm3_sys_color_dark_surface_container_low">#ff1b1b1b</color>
+    <color name="gm3_sys_color_dark_surface_container_low">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dark_surface_container_lowest">#ff0e0e0e</color>
     <color name="gm3_sys_color_light_surface_container">#fff0f4f9</color>
     <color name="gm3_sys_color_light_surface_container_high">#ffe9eef6</color>
@@ -191,7 +191,7 @@
     <color name="gm_ref_palette_red300">#fff28b82</color>
     <color name="gm_ref_palette_red500">#ffea4335</color>
     <color name="gm_ref_palette_red600">@*android:color/holo_red_dark</color>
-    <color name="gm_ref_palette_red700">#ffc5221f</color>
+    <color name="gm_ref_palette_red700">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_red900">#ffa50e0e</color>
     <color name="gm_ref_palette_white">#ffffffff</color>
     <color name="gm_ref_palette_yellow500">#fffbbc04</color>
@@ -247,7 +247,7 @@
     <color name="live_chat_background_gradient_mid_color">#66000000</color>
     <color name="live_chat_button_color_disabled">@*android:color/background_dark</color>
     <color name="live_chat_dark_metadata_background">#ff3e3e3e</color>
-    <color name="live_chat_dark_overlay_background">#ff303030</color>
+    <color name="live_chat_dark_overlay_background">@*android:color/background_dark</color>
     <color name="live_chat_dark_overlay_sponsor_bottom_background">#ff4caf50</color>
     <color name="live_chat_dark_overlay_sponsor_top_background">#ff388e3c</color>
     <color name="live_chat_empty_state_message_text_color_dark">#b2ffffff</color>
@@ -621,8 +621,8 @@
     <color name="sud_system_neutral1_500">@*android:color/button_material_dark</color>
     <color name="sud_system_neutral1_600">#ff5e5e5e</color>
     <color name="sud_system_neutral1_700">#ff464646</color>
-    <color name="sud_system_neutral1_800">#ff303030</color>
-    <color name="sud_system_neutral1_900">#ff1b1b1b</color>
+    <color name="sud_system_neutral1_800">@*android:color/background_dark</color>
+    <color name="sud_system_neutral1_900">@*android:color/background_dark</color>
     <color name="sud_system_neutral2_100">#ffe2e2e2</color>
     <color name="sud_system_neutral2_200">#ffc6c6c6</color>
     <color name="sud_system_neutral2_300">#ffababab</color>
@@ -631,7 +631,7 @@
     <color name="sud_system_neutral2_500">@*android:color/button_material_dark</color>
     <color name="sud_system_neutral2_700">#ff464646</color>
     <color name="sud_system_on_background_dark">#ffe5e2e1</color>
-    <color name="sud_system_on_background_light">#ff1b1b1b</color>
+    <color name="sud_system_on_background_light">@*android:color/background_dark</color>
     <color name="sud_system_on_error_container_dark">#fff9dedc</color>
     <color name="sud_system_on_error_container_light">#ff3a0a08</color>
     <color name="sud_system_on_error_dark">#ff601410</color>
@@ -653,9 +653,9 @@
     <color name="sud_system_on_secondary_fixed_variant_light">#ff334c47</color>
     <color name="sud_system_on_secondary_light">#ffffffff</color>
     <color name="sud_system_on_surface_dark">#ffe5e2e1</color>
-    <color name="sud_system_on_surface_inverse_dark">#ff303030</color>
+    <color name="sud_system_on_surface_inverse_dark">@*android:color/background_dark</color>
     <color name="sud_system_on_surface_inverse_light">#fff1f1f1</color>
-    <color name="sud_system_on_surface_light">#ff1b1b1b</color>
+    <color name="sud_system_on_surface_light">@*android:color/background_dark</color>
     <color name="sud_system_on_surface_variant_dark">#ffc7c7c7</color>
     <color name="sud_system_on_surface_variant_light">#ff474747</color>
     <color name="sud_system_on_tertiary_container_dark">#ffcee7ff</color>
@@ -696,7 +696,7 @@
     <color name="sud_system_surface_container_highest_dark">#ff343434</color>
     <color name="sud_system_surface_container_highest_light">#ffe3e3e3</color>
     <color name="sud_system_surface_container_light">#ffeeeeee</color>
-    <color name="sud_system_surface_container_low_dark">#ff1b1b1b</color>
+    <color name="sud_system_surface_container_low_dark">@*android:color/background_dark</color>
     <color name="sud_system_surface_container_low_light">#fff4f4f4</color>
     <color name="sud_system_surface_container_lowest_dark">#ff0e0e0e</color>
     <color name="sud_system_surface_container_lowest_light">#ffffffff</color>
@@ -704,7 +704,7 @@
     <color name="sud_system_surface_dim_dark">#ff131313</color>
     <color name="sud_system_surface_dim_light">#ffdadada</color>
     <color name="sud_system_surface_inverse_dark">#ffe5e2e1</color>
-    <color name="sud_system_surface_inverse_light">#ff303030</color>
+    <color name="sud_system_surface_inverse_light">@*android:color/background_dark</color>
     <color name="sud_system_surface_light">#fff9faf8</color>
     <color name="sud_system_surface_variant_dark">#ff474747</color>
     <color name="sud_system_surface_variant_light">#ffe3e3e3</color>
@@ -843,7 +843,7 @@
     <color name="yt_separator_light">#1e000000</color>
     <color name="yt_spinner_item_background_activated_dark">#ff454545</color>
     <color name="yt_spinner_item_background_activated_light">#ffe1e1e1</color>
-    <color name="yt_spinner_item_background_dark">#ff303030</color>
+    <color name="yt_spinner_item_background_dark">@*android:color/background_dark</color>
     <color name="yt_spinner_item_background_light">#fffafafa</color>
     <color name="yt_status_bar_background_dark">@*android:color/black</color>
     <color name="yt_teal10">#ffd4fff8</color>

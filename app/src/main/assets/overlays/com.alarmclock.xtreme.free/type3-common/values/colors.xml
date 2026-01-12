@@ -36,7 +36,7 @@
     <color name="city_ui_accent_30">#4de8e8e8</color>
     <color name="city_ui_accent_60">#99e8e8e8</color>
     <color name="city_ui_bg">#ff171717</color>
-    <color name="city_ui_gradient_one_end">#ff353535</color>
+    <color name="city_ui_gradient_one_end">@*android:color/background_dark</color>
     <color name="city_ui_gradient_one_start">@*android:color/background_dark</color>
     <color name="city_ui_gradient_two_end">@*android:color/background_dark</color>
     <color name="city_ui_gradient_two_start">#ffffffff</color>

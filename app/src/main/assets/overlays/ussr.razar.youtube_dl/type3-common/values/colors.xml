@@ -392,7 +392,7 @@
     <color name="md_teal_50">#ffe0f2f1</color>
     <color name="md_teal_500">@*android:color/accent_material_dark</color>
     <color name="md_teal_600">#ff00897b</color>
-    <color name="md_teal_700">#ff00796b</color>
+    <color name="md_teal_700">@*android:color/accent_material_dark</color>
     <color name="md_teal_800">#ff00695c</color>
     <color name="md_teal_900">#ff004d40</color>
     <color name="md_teal_A100">#ffa7ffeb</color>

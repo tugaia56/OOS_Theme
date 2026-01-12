@@ -641,7 +641,7 @@
     <color name="quantum_teal50">#ffe0f2f1</color>
     <color name="quantum_teal500">@*android:color/accent_material_dark</color>
     <color name="quantum_teal600">#ff00897b</color>
-    <color name="quantum_teal700">#ff00796b</color>
+    <color name="quantum_teal700">@*android:color/accent_material_dark</color>
     <color name="quantum_teal800">#ff00695c</color>
     <color name="quantum_teal900">#ff004d40</color>
     <color name="quantum_tealA100">#ffa7ffeb</color>

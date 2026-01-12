@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="coui_snack_bar_background_shadow_color">#ee000000</color>
-    <color name="m3_sys_color_dynamic_dark_background">@*android:color/system_background_dark</color>
+    <color name="m3_sys_color_dynamic_dark_background">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_dark_inverse_on_surface">@*android:color/system_on_surface_light</color>
     <color name="m3_sys_color_dynamic_dark_inverse_primary">@*android:color/system_primary_light</color>
     <color name="m3_sys_color_dynamic_dark_inverse_surface">@*android:color/system_surface_light</color>
@@ -128,7 +128,7 @@
     <color name="settingslib_track_on_color">@*android:color/accent_material_dark</color>
     <color name="sud_color_on_surface">@*android:color/system_on_surface_light</color>
     <color name="sud_color_surface_container_highest">@*android:color/system_surface_container_highest_light</color>
-    <color name="sud_system_background_dark">@*android:color/system_background_dark</color>
+    <color name="sud_system_background_dark">@*android:color/background_dark</color>
     <color name="sud_system_background_light">@*android:color/system_background_light</color>
     <color name="sud_system_error_container_dark">@*android:color/system_error_container_dark</color>
     <color name="sud_system_error_container_light">@*android:color/system_error_container_light</color>

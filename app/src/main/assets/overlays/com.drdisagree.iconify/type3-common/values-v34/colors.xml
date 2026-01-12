@@ -59,7 +59,7 @@
     <color name="m3_sys_color_dynamic_light_surface_dim">#3d5afe</color>
     <color name="m3_sys_color_dynamic_light_surface_variant">@*android:color/holo_red_dark</color>
     <color name="m3_sys_color_dynamic_light_tertiary">#8c9eff</color>
-    <color name="m3_sys_color_dynamic_light_tertiary_container">#1a237e</color>
+    <color name="m3_sys_color_dynamic_light_tertiary_container">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_on_primary_fixed">#6200ea</color>
     <color name="m3_sys_color_dynamic_on_primary_fixed_variant">#651fff</color>
     <color name="m3_sys_color_dynamic_on_secondary_fixed">#7c4dff</color>
