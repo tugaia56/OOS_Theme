@@ -513,14 +513,14 @@
     <color name="jio_interstitial_cta_not_selected">#ff626262</color>
     <color name="jio_interstitial_cta_selected">#ff626262</color>
     <color name="jio_light_blue">#ff8a8aff</color>
-    <color name="jio_text_color">#ff212121</color>
+    <color name="jio_text_color">@*android:color/background_dark</color>
     <color name="jio_transperant">#cc000000</color>
     <color name="jio_white">#ffffffff</color>
     <color name="jio_xray_cta_color">#ffed1e79</color>
     <color name="leadgen_progressbar_background">#55000000</color>
     <color name="learn_more_black">@*android:color/background_dark</color>
     <color name="learn_more_white">#ffffffff</color>
-    <color name="lightBlack">#ff212121</color>
+    <color name="lightBlack">@*android:color/background_dark</color>
     <color name="light_primary_text">@null</color>
     <color name="live_support_chat_gold_text_color">#ffecbb56</color>
     <color name="live_support_chat_text_color">@*android:color/accent_material_dark</color>
@@ -748,7 +748,7 @@
     <color name="message_record_btn_delete_all_themes">#fffc4236</color>
     <color name="message_text_color_history_dark">#ffb8bbc0</color>
     <color name="message_text_color_history_default">#ff797570</color>
-    <color name="metaColor">#ff212121</color>
+    <color name="metaColor">@*android:color/background_dark</color>
     <color name="mid_animated_ad_bg">#b3000000</color>
     <color name="mtrl_btn_text_color_disabled">#61000000</color>
     <color name="mtrl_btn_transparent_bg_color">#00ffffff</color>
@@ -964,7 +964,7 @@
     <color name="quantum_grey600">@*android:color/button_material_dark</color>
     <color name="quantum_grey700">#ff616161</color>
     <color name="quantum_grey800">@*android:color/background_dark</color>
-    <color name="quantum_grey900">#ff212121</color>
+    <color name="quantum_grey900">@*android:color/background_dark</color>
     <color name="quantum_greyblack1000">@*android:color/background_dark</color>
     <color name="quantum_greywhite1000">#ffffffff</color>
     <color name="quantum_indigo100">#ffc5cae9</color>
@@ -1894,7 +1894,7 @@
     <color name="text_tertiary_light">#ff8d939b</color>
     <color name="text_timestamp_dark">#ff76808a</color>
     <color name="text_timestamp_default">#ffb0bec5</color>
-    <color name="titleColor">#ff212121</color>
+    <color name="titleColor">@*android:color/background_dark</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6ffffff</color>
     <color name="translucent">#29efefef</color>

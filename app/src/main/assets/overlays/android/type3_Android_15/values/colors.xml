@@ -427,12 +427,12 @@
     <color name="notification_secondary_text_color_light">#d9000000</color>
     <color name="perms_dangerous_grp_color">@*android:color/accent_material_dark</color>
     <color name="perms_dangerous_perm_color">@*android:color/accent_material_dark</color>
-    <color name="personal_apps_suspension_notification_color">#ff1a73e8</color>
+    <color name="personal_apps_suspension_notification_color">@*android:color/accent_material_dark</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_leanback_dark">#cceeeeee</color>
     <color name="primary_text_leanback_formwizard_default_dark">#ffeeeeee</color>
-    <color name="profile_badge_1">#ff1a73e8</color>
+    <color name="profile_badge_1">@*android:color/accent_material_dark</color>
     <color name="profile_badge_1_dark">@*android:color/accent_material_dark</color>
     <color name="profile_badge_2">#ffff6d00</color>
     <color name="profile_badge_2_dark">#fffdd663</color>

@@ -89,7 +89,7 @@
     <color name="exo_white">#ffffffff</color>
     <color name="exo_white_opacity_70">#b3ffffff</color>
     <color name="fallback_color_device_default_dark">#ff669df6</color>
-    <color name="fallback_color_device_default_light">#ff1a73e8</color>
+    <color name="fallback_color_device_default_light">@*android:color/accent_material_dark</color>
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/black</color>
     <color name="form_fields_highlight_color">@*android:color/ripple_material_dark</color>

@@ -169,7 +169,7 @@
     <color name="badge_tint_clone">@*android:color/background_dark</color>
     <color name="badge_tint_instant">@*android:color/black</color>
     <color name="badge_tint_private">@*android:color/background_dark</color>
-    <color name="badge_tint_work">#ff1a73e8</color>
+    <color name="badge_tint_work">@*android:color/accent_material_dark</color>
     <color name="banner_accent_attention_high">@*android:color/accent_material_dark</color>
     <color name="banner_accent_attention_low">#ff1d7233</color>
     <color name="banner_accent_attention_medium">#ff895900</color>
@@ -1705,10 +1705,10 @@
     <color name="light_mode_icon_color_single_tone">#ffffffff</color>
     <color name="m3_ref_palette_black">@*android:color/background_dark</color>
     <color name="m3_ref_palette_dynamic_neutral0">@*android:color/system_neutral1_1000</color>
-    <color name="m3_ref_palette_dynamic_neutral10">@*android:color/system_neutral1_900</color>
+    <color name="m3_ref_palette_dynamic_neutral10">@*android:color/background_dark</color>
     <color name="m3_ref_palette_dynamic_neutral100">@*android:color/system_neutral1_0</color>
     <color name="m3_ref_palette_dynamic_neutral20">@*android:color/system_neutral1_800</color>
-    <color name="m3_ref_palette_dynamic_neutral30">@*android:color/system_neutral1_700</color>
+    <color name="m3_ref_palette_dynamic_neutral30">@*android:color/button_material_dark</color>
     <color name="m3_ref_palette_dynamic_neutral40">@*android:color/system_neutral1_600</color>
     <color name="m3_ref_palette_dynamic_neutral50">@*android:color/system_neutral1_500</color>
     <color name="m3_ref_palette_dynamic_neutral60">@*android:color/system_neutral1_400</color>
@@ -2177,7 +2177,7 @@
     <color name="settingslib_accent_primary_device_default">@*android:color/system_accent1_100</color>
     <color name="settingslib_accent_primary_variant">@*android:color/accent_material_dark</color>
     <color name="settingslib_accent_secondary_device_default">@*android:color/system_accent2_100</color>
-    <color name="settingslib_background_device_default_dark">@*android:color/system_neutral1_900</color>
+    <color name="settingslib_background_device_default_dark">@*android:color/background_dark</color>
     <color name="settingslib_background_device_default_light">@*android:color/system_neutral1_50</color>
     <color name="settingslib_colorSurfaceHeader">@*android:color/system_neutral1_100</color>
     <color name="settingslib_colorSurfaceVariant">@*android:color/system_neutral2_100</color>
@@ -2241,7 +2241,7 @@
     <color name="settingslib_switchbar_switch_thumb_tint">@*android:color/white</color>
     <color name="settingslib_switchbar_switch_track_tint">#bfffffff</color>
     <color name="settingslib_text_color_preference_category_title">@*android:color/accent_material_dark</color>
-    <color name="settingslib_text_color_primary_device_default">@*android:color/system_neutral1_900</color>
+    <color name="settingslib_text_color_primary_device_default">@*android:color/background_dark</color>
     <color name="settingslib_text_color_secondary_device_default">@*android:color/system_neutral2_700</color>
     <color name="settingslib_thumb_disabled_color">@*android:color/system_neutral2_100</color>
     <color name="settingslib_thumb_off_color">@*android:color/system_neutral2_300</color>
@@ -2355,9 +2355,9 @@
     <color name="sud_system_neutral1_50">@*android:color/system_neutral1_50</color>
     <color name="sud_system_neutral1_500">@*android:color/system_neutral1_500</color>
     <color name="sud_system_neutral1_600">@*android:color/system_neutral1_600</color>
-    <color name="sud_system_neutral1_700">@*android:color/system_neutral1_700</color>
+    <color name="sud_system_neutral1_700">@*android:color/button_material_dark</color>
     <color name="sud_system_neutral1_800">@*android:color/system_neutral1_800</color>
-    <color name="sud_system_neutral1_900">@*android:color/system_neutral1_900</color>
+    <color name="sud_system_neutral1_900">@*android:color/background_dark</color>
     <color name="sud_system_neutral2_100">@*android:color/system_neutral2_100</color>
     <color name="sud_system_neutral2_200">@*android:color/system_neutral2_200</color>
     <color name="sud_system_neutral2_300">@*android:color/system_neutral2_300</color>

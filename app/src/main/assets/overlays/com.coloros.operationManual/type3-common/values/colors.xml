@@ -1452,10 +1452,10 @@
     <color name="list_overscroll_bg">#ffffffff</color>
     <color name="m3_ref_palette_black">@*android:color/background_dark</color>
     <color name="m3_ref_palette_dynamic_neutral0">@*android:color/system_neutral1_1000</color>
-    <color name="m3_ref_palette_dynamic_neutral10">@*android:color/system_neutral1_900</color>
+    <color name="m3_ref_palette_dynamic_neutral10">@*android:color/background_dark</color>
     <color name="m3_ref_palette_dynamic_neutral100">@*android:color/system_neutral1_0</color>
     <color name="m3_ref_palette_dynamic_neutral20">@*android:color/system_neutral1_800</color>
-    <color name="m3_ref_palette_dynamic_neutral30">@*android:color/system_neutral1_700</color>
+    <color name="m3_ref_palette_dynamic_neutral30">@*android:color/button_material_dark</color>
     <color name="m3_ref_palette_dynamic_neutral40">@*android:color/system_neutral1_600</color>
     <color name="m3_ref_palette_dynamic_neutral50">@*android:color/system_neutral1_500</color>
     <color name="m3_ref_palette_dynamic_neutral60">@*android:color/system_neutral1_400</color>

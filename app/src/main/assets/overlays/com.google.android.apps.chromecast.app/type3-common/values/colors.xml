@@ -400,7 +400,7 @@
     <color name="google_grey900_blue300_alpha15">#ff393e48</color>
     <color name="google_grey900_with_blue300_alpha24">#ff394457</color>
     <color name="google_grey900_with_green300_alpha24">#ff37493f</color>
-    <color name="google_grey900_with_grey200_alpha05">#ff2a2b2e</color>
+    <color name="google_grey900_with_grey200_alpha05">@*android:color/background_dark</color>
     <color name="google_grey900_with_grey200_alpha11">#ff35363a</color>
     <color name="google_grey900_with_orange400_alpha15">#ff41312e</color>
     <color name="google_led_green">#ff5eef00</color>

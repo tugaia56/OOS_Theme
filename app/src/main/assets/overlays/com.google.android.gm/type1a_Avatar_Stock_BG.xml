@@ -50,7 +50,7 @@
         <item>#ffa1887f</item>
     </array>
     <array name="light_monogram_colors">
-        <item>#ff1a73e8</item>
+        <item>@*android:color/accent_material_dark</item>
         <item>@*android:color/holo_red_dark</item>
         <item>#ff1e8e3e</item>
         <item>#ffea8600</item>

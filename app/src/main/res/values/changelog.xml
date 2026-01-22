@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ThemeChangelog">
-        <item>Version 6.4.0</item>
+        <item>Version 6.5.0</item>
         <item>ADDED:</item>
-        <item>Android 15-16</item>
+        <item>Internet Browser OnePlus v43.13.6.1</item>
+        <item>UPDATED:</item>
+        <item>Android 15</item>
+        <item>Android 16</item>
+        <item>Tether Tplink v4.12.133</item>
+        <item>- - -</item>
     </string-array>
 </resources>

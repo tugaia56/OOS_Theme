@@ -55,7 +55,7 @@
     <color name="sud_on_secondary_container">#880e4f</color>
     <color name="sud_on_surface_variant">#ad1457</color>
     <color name="sud_system_on_primary">#c2185b</color>
-    <color name="sud_uniformity_backdrop_color">#ff2a2b2e</color>
+    <color name="sud_uniformity_backdrop_color">@*android:color/background_dark</color>
     <color name="themed_icon_background_color">#d81b60</color>
     <color name="themed_icon_color">#d50000</color>
     <color name="settingslib_surface_dark">#ff8a80</color>

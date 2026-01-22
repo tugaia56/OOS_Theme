@@ -116,7 +116,7 @@
     <color name="gm_ref_palette_blue400">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_blue50">#ffe8f0fe</color>
     <color name="gm_ref_palette_blue500">@*android:color/accent_material_dark</color>
-    <color name="gm_ref_palette_blue600">#ff1a73e8</color>
+    <color name="gm_ref_palette_blue600">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_blue700">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_blue800">#ff185abc</color>
     <color name="gm_ref_palette_blue900">#ff174ea6</color>
@@ -223,7 +223,7 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <color name="settingslib_color_blue600">#ff1a73e8</color>
+    <color name="settingslib_color_blue600">@*android:color/accent_material_dark</color>
     <color name="settingslib_color_blue700">@*android:color/accent_material_dark</color>
     <color name="settingslib_color_charcoal">#ff171717</color>
     <color name="settingslib_color_green500">#ff34a853</color>

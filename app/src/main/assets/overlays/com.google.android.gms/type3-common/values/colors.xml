@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="CastPopupUserDialogColor">#ff1a73e8</color>
+    <color name="CastPopupUserDialogColor">@*android:color/accent_material_dark</color>
     <color name="abc_search_url_text_normal">#ff7fa87f</color>
     <color name="abc_search_url_text_pressed">@*android:color/black</color>
     <color name="abc_search_url_text_selected">@*android:color/black</color>
@@ -26,7 +26,7 @@
     <color name="audience_auth_button_color_focused">#ffdddddd</color>
     <color name="audience_auth_button_color_pressed">#ffc6c9f1</color>
     <color name="audience_auth_button_text_color">#ff4285f4</color>
-    <color name="auth_action_button_text_color">#ff1a73e8</color>
+    <color name="auth_action_button_text_color">@*android:color/accent_material_dark</color>
     <color name="auth_authzen_black">@*android:color/background_dark</color>
     <color name="auth_authzen_google_blue">#ff4285f4</color>
     <color name="auth_authzen_grey_300">#ffe0e0e0</color>
@@ -196,7 +196,7 @@
     <color name="design_fab_stroke_top_outer_color">#2effffff</color>
     <color name="design_snackbar_background_color">#ff323232</color>
     <color name="devices_fragment_background">@*android:color/system_neutral1_50</color>
-    <color name="dialog_button_background">#ff1a73e8</color>
+    <color name="dialog_button_background">@*android:color/accent_material_dark</color>
     <color name="dialog_icon_tint_color">#8a000000</color>
     <color name="discovery_activity_accent">#ff4285f4</color>
     <color name="divider_color">#1f000000</color>
@@ -204,7 +204,7 @@
     <color name="divider_color_secondary">#85ffffff</color>
     <color name="eew_alert_card_background">#fffce8e6</color>
     <color name="eew_alert_card_text">@*android:color/accent_material_dark</color>
-    <color name="eew_link_blue">#ff1a73e8</color>
+    <color name="eew_link_blue">@*android:color/accent_material_dark</color>
     <color name="error_color_material_dark">#ffff7043</color>
     <color name="error_color_material_light">#ffff5722</color>
     <color name="exo_black_opacity_60">#98000000</color>
@@ -227,7 +227,7 @@
     <color name="external_consent_context_color">#a6000000</color>
     <color name="external_consent_context_color_dark_theme">#cc000000</color>
     <color name="fallback_color_device_default_dark">#ff669df6</color>
-    <color name="fallback_color_device_default_light">#ff1a73e8</color>
+    <color name="fallback_color_device_default_light">@*android:color/accent_material_dark</color>
     <color name="fast_pair_battery_level_low">@*android:color/holo_red_dark</color>
     <color name="fast_pair_notification_background">#00000000</color>
     <color name="fido_account_border_color_light">#ff747775</color>
@@ -296,7 +296,7 @@
     <color name="gm3_ref_palette_dynamic_neutral10">@*android:color/background_dark</color>
     <color name="gm3_ref_palette_dynamic_neutral100">@*android:color/system_neutral1_0</color>
     <color name="gm3_ref_palette_dynamic_neutral20">@*android:color/system_neutral1_800</color>
-    <color name="gm3_ref_palette_dynamic_neutral30">@*android:color/system_neutral1_700</color>
+    <color name="gm3_ref_palette_dynamic_neutral30">@*android:color/button_material_dark</color>
     <color name="gm3_ref_palette_dynamic_neutral90">@*android:color/system_neutral1_100</color>
     <color name="gm3_ref_palette_dynamic_neutral95">@*android:color/system_neutral1_50</color>
     <color name="gm3_ref_palette_dynamic_neutral99">@*android:color/system_neutral1_10</color>
@@ -506,7 +506,7 @@
     <color name="gm_ref_palette_blue400">#ff669df6</color>
     <color name="gm_ref_palette_blue50">#ffe8f0fe</color>
     <color name="gm_ref_palette_blue500">#ff4285f4</color>
-    <color name="gm_ref_palette_blue600">#ff1a73e8</color>
+    <color name="gm_ref_palette_blue600">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_blue700">#ff1967d2</color>
     <color name="gm_ref_palette_blue800">#ff185abc</color>
     <color name="gm_ref_palette_blue900">#ff174ea6</color>
@@ -802,7 +802,7 @@
     <color name="map_ringing_status_card_bg_color">@*android:color/background_dark</color>
     <color name="map_ringing_status_card_text_color">#ffdadce0</color>
     <color name="material2_dark_google_blue_300">#ff8ab4f8</color>
-    <color name="material2_google_blue_600">#ff1a73e8</color>
+    <color name="material2_google_blue_600">@*android:color/accent_material_dark</color>
     <color name="material_blue_grey_500">#ff607d8b</color>
     <color name="material_blue_grey_700">#ff455a64</color>
     <color name="material_blue_grey_900">#ff263238</color>
@@ -999,7 +999,7 @@
     <color name="settingslib_accent_device_default_light">@*android:color/accent_material_dark</color>
     <color name="settingslib_colorSurfaceHeader">@*android:color/system_neutral1_100</color>
     <color name="settingslib_colorSurfaceVariant">@*android:color/system_neutral2_100</color>
-    <color name="settingslib_color_blue600">#ff1a73e8</color>
+    <color name="settingslib_color_blue600">@*android:color/accent_material_dark</color>
     <color name="settingslib_color_blue700">@*android:color/accent_material_dark</color>
     <color name="settingslib_color_charcoal">@*android:color/background_dark</color>
     <color name="settingslib_color_green500">#ff34a853</color>
@@ -1085,7 +1085,7 @@
     <color name="sharing_dynamic_surface">@*android:color/system_neutral1_10</color>
     <color name="sharing_dynamic_text_color_tertiary">@*android:color/system_neutral2_500</color>
     <color name="smartdevice_google_blue_500">#ff3185ff</color>
-    <color name="smartdevice_google_blue_600">#ff1a73e8</color>
+    <color name="smartdevice_google_blue_600">@*android:color/accent_material_dark</color>
     <color name="smartdevice_google_green_500">#ff34a853</color>
     <color name="smartdevice_google_red_500">#ffea4335</color>
     <color name="smartdevice_google_yellow_500">#fffbbc04</color>
@@ -1107,7 +1107,7 @@
     <color name="sud_color_accent_glif_dark">#ff4285f4</color>
     <color name="sud_color_accent_glif_light">#ff4285f4</color>
     <color name="sud_color_accent_glif_v3_dark">#ff669df6</color>
-    <color name="sud_color_accent_glif_v3_light">#ff1a73e8</color>
+    <color name="sud_color_accent_glif_v3_light">@*android:color/accent_material_dark</color>
     <color name="sud_color_accent_light">#ff3367d6</color>
     <color name="sud_color_background_dark">@*android:color/background_dark</color>
     <color name="sud_color_background_light">#fffafafa</color>
@@ -1174,7 +1174,7 @@
     <color name="sud_system_neutral1_50">@*android:color/system_neutral1_50</color>
     <color name="sud_system_neutral1_500">@*android:color/system_neutral1_500</color>
     <color name="sud_system_neutral1_600">@*android:color/system_neutral1_600</color>
-    <color name="sud_system_neutral1_700">@*android:color/system_neutral1_700</color>
+    <color name="sud_system_neutral1_700">@*android:color/button_material_dark</color>
     <color name="sud_system_neutral1_800">@*android:color/system_neutral1_800</color>
     <color name="sud_system_neutral1_900">@*android:color/background_dark</color>
     <color name="sud_system_neutral2_100">@*android:color/system_neutral2_100</color>
@@ -1276,7 +1276,7 @@
     <color name="suw_color_accent_dark">#ff448aff</color>
     <color name="suw_color_accent_glif_dark">#ff4285f4</color>
     <color name="suw_color_accent_glif_light">#ff4285f4</color>
-    <color name="suw_color_accent_glif_v3">#ff1a73e8</color>
+    <color name="suw_color_accent_glif_v3">@*android:color/accent_material_dark</color>
     <color name="suw_color_accent_light">#ff3367d6</color>
     <color name="suw_color_background_dark">@*android:color/background_dark</color>
     <color name="suw_color_background_light">#fffafafa</color>

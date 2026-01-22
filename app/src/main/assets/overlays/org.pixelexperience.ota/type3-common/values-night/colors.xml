@@ -23,7 +23,7 @@
     <color name="settingslib_thumb_off_color">#ffffffff</color>
     <color name="settingslib_track_off_color">@*android:color/background_leanback_dark</color>
     <color name="settingslib_track_on_color">@*android:color/accent_material_dark</color>
-    <color name="sud_uniformity_backdrop_color">#ff2a2b2e</color>
+    <color name="sud_uniformity_backdrop_color">@*android:color/background_dark</color>
     <color name="text_primary">#ffffffff</color>
     <color name="theme_accent">#ffffffff</color>
     <color name="theme_accent_2">@*android:color/accent_device_default_dark</color>

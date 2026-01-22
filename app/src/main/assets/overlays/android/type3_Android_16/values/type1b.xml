@@ -15,7 +15,7 @@
   ~ limitations under the License
   -->
 <resources>
-    <!--Trasparenze e background-->
+    <!-- Trasparenze e background -->
     <color name="background_dark">#1b2029</color>
     <color name="background_floating_material_dark">#22262f</color>
     <color name="background_holo_dark">#393e48</color>
@@ -35,14 +35,18 @@
     <color name="transparent">#00000000</color>
     <color name="darker_gray">#9ca1ad</color>
 	
-    <!--Trasparenze background-->
-    <color name="group_button_dialog_focused_holo_dark">#e61b2029</color>	<!-- 10% -->
-    <color name="group_button_dialog_focused_holo_light">#cc1b2029</color>	<!-- 20% -->
-    <color name="group_button_dialog_pressed_holo_dark">#a61b2029</color>	<!-- 40% -->
-    <color name="group_button_dialog_pressed_holo_light">#801b2029</color>	<!-- 50% -->
-    <color name="car_blue_grey_800">#331b2029</color>						<!-- 80% -->
-    <color name="car_blue_grey_900">#1a1b2029</color>						<!-- 90% -->
-
+    <!-- Trasparenze background -->
+    <color name="group_button_dialog_focused_holo_dark">#e61b2029</color>	<!-- #10% -->
+    <color name="group_button_dialog_focused_holo_light">#cc1b2029</color>	<!-- #20% -->
+    <color name="holo_light_button_normal">#b31b2029</color>				<!-- #30% -->
+    <color name="group_button_dialog_pressed_holo_dark">#a61b2029</color>	<!-- #40% -->
+    <color name="group_button_dialog_pressed_holo_light">#801b2029</color>	<!-- #50% -->
+    <color name="holo_light_button_pressed">#661b2029</color>				<!-- #60% -->
+    <color name="list_divider_color_dark">#4d1b2029</color>					<!-- #70% -->
+    <color name="car_blue_grey_800">#331b2029</color>						<!-- #80% -->
+    <color name="car_blue_grey_900">#1a1b2029</color>						<!-- #90% -->
+	
+    <!-- monet background -->
     <color name="system_neutral1_0">#ffffff</color>
     <color name="system_neutral1_10">#ffffff</color>
     <color name="system_neutral1_50">#eaeafc</color>
@@ -57,13 +61,14 @@
     <color name="system_neutral1_900">@*android:color/background_dark</color>
     <color name="system_neutral1_1000">@*android:color/background_dark</color>
 
+    <!--monet background -->
     <color name="system_neutral2_0">#ffffff</color>
     <color name="system_neutral2_10">#ffffff</color>
     <color name="system_neutral2_50">#eaeafc</color>
     <color name="system_neutral2_100">#eaeafc</color>
     <color name="system_neutral2_200">#babac9</color>
     <color name="system_neutral2_300">#babac9</color>
-    <color name="system_neutral2_400">@*android:color/darker_gray</color>
+    <color name="system_neutral2_400">@*android:color/background_leanback_dark</color>
     <color name="system_neutral2_500">@*android:color/holo_light_primary_dark</color>
     <color name="system_neutral2_600">@*android:color/holo_primary</color>
     <color name="system_neutral2_700">@*android:color/button_material_dark</color>
@@ -80,7 +85,4 @@
     <color name="primary_device_default_settings">@*android:color/background_device_default_light</color>
     <color name="surface_dark">@*android:color/background_device_default_dark</color>
     <color name="surface_light">@*android:color/background_device_default_light</color>
-
-    <!-- This is a lazy change, dwai -->
-    <color name="bootleg_accent_gradient_end_color">@*android:color/accent_material_dark</color>
 </resources>

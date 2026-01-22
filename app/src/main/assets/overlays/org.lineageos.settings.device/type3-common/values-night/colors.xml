@@ -21,6 +21,6 @@
     <color name="settingslib_thumb_off_color">#ffffffff</color>
     <color name="settingslib_track_off_color">@*android:color/background_leanback_dark</color>
     <color name="settingslib_track_on_color">@*android:color/accent_material_dark</color>
-    <color name="sud_uniformity_backdrop_color">#ff2a2b2e</color>
+    <color name="sud_uniformity_backdrop_color">@*android:color/background_dark</color>
     <color name="settingslib_surface_dark">@*android:color/background_dark</color>
 </resources>

@@ -388,7 +388,7 @@
     <color name="pa">@*android:color/button_material_dark</color>
     <color name="pb">@*android:color/background_dark</color>
     <color name="pc">@*android:color/background_dark</color>
-    <color name="pd">#ff212121</color>
+    <color name="pd">@*android:color/background_dark</color>
     <color name="pz">#66000000</color>
     <color name="r4">#52000000</color>
     <color name="ra">#6b000000</color>

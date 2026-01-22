@@ -197,7 +197,7 @@
     <color name="exo_white">#ffffffff</color>
     <color name="exo_white_opacity_70">#b3ffffff</color>
     <color name="fallback_color_device_default_dark">#ff669df6</color>
-    <color name="fallback_color_device_default_light">#ff1a73e8</color>
+    <color name="fallback_color_device_default_light">@*android:color/accent_material_dark</color>
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/black</color>
     <color name="gemini_gradient_end">#ffac87eb</color>
@@ -384,7 +384,7 @@
     <color name="google_grey800_38opacity">#613c4043</color>
     <color name="google_grey900_70opacity">#b3202124</color>
     <color name="google_grey900_75opacity">#bf202124</color>
-    <color name="google_grey900_elevation_1">#ff2a2b2e</color>
+    <color name="google_grey900_elevation_1">@*android:color/background_dark</color>
     <color name="google_grey900_with_google_grey200_08opacity">@*android:color/background_dark</color>
     <color name="google_grey900_with_google_grey200_08opacity_80opacity">#cc303135</color>
     <color name="google_orange200">#fffdc69c</color>

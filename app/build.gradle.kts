@@ -51,7 +51,7 @@ android {
         minSdk=28
         versionCode = 640
         versionName = "6.4.0"
-        setProperty("archivesBaseName", "Dark_Shadow_Theme_v6.4.0")
+        //setProperty("archivesBaseName", "Dark_Shadow_Theme_v6.4.0")
 
         // Themers: DO NOT MODIFY
         buildConfigField("boolean", "SUPPORTS_THIRD_PARTY_SYSTEMS", "$SUPPORTS_THIRD_PARTY_SYSTEMS")

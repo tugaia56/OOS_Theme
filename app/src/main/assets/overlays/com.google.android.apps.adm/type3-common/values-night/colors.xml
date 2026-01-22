@@ -21,7 +21,7 @@
     <color name="survey_surface_color_elevation_2">@*android:color/background_dark</color>
     <color name="survey_surface_color_elevation_3">@*android:color/background_dark</color>
     <color name="user_location_centered_tint_color">#ffa1c9ff</color>
-    <color name="user_location_fab_background_color">#ff2a2b2e</color>
+    <color name="user_location_fab_background_color">@*android:color/background_dark</color>
     <color name="user_location_searching_tint_color">#ffe3e3e3</color>
     <color name="user_location_unavailable_tint_color">#ffff8983</color>
 </resources>

@@ -621,7 +621,7 @@
     <color name="theme_dark_bg_surface_tertiary">#ff777777</color>
     <color name="theme_dark_bg_surface_tertiary_surface">@*android:color/background_dark</color>
     <color name="theme_dark_button_color_accent">#ffa2b7f4</color>
-    <color name="theme_dark_card_content_background_color_ui_refresh">#ff1c1c1c</color>
+    <color name="theme_dark_card_content_background_color_ui_refresh">@*android:color/background_dark</color>
     <color name="theme_dark_card_content_item_background_color">#12ffffff</color>
     <color name="theme_dark_chat_page_system_bar_color">@*android:color/background_dark</color>
     <color name="theme_dark_dialog_background_color">#ff3b3a39</color>

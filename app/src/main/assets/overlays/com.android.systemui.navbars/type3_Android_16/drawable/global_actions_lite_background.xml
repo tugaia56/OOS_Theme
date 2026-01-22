@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <shape
-  xmlns:android="http://schemas.android.com/apk/res/android">
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:androidprv="http://schemas.android.com/apk/prv/res/android">
     <solid android:color="@*android:color/group_button_dialog_pressed_holo_light" />
     <stroke android:width="1.5dip" android:color="@*android:color/accent_material_dark"/>
-    <corners android:radius="24.0dip" />
+    <corners android:radius="28.0dip" />
 </shape>

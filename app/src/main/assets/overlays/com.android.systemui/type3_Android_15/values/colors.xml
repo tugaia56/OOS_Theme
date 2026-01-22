@@ -143,11 +143,11 @@
     <color name="kg_user_switcher_activated_background_color">#26000000</color>
     <color name="ksh_key_item_color">@*android:color/system_on_surface_variant_light</color>
     <color name="legacy_settingslib_materialColorSurfaceContainer">@*android:color/system_neutral1_50</color>
-    <color name="letterbox_dialog_background">@*android:color/system_neutral1_900</color>
+    <color name="letterbox_dialog_background">@*android:color/background_dark</color>
     <color name="light_mode_icon_color_dual_tone_background">#4dffffff</color>
     <color name="light_mode_icon_color_dual_tone_fill">#ffffffff</color>
     <color name="light_mode_icon_color_single_tone">#ffffffff</color>
-    <color name="m3_ref_palette_dynamic_neutral10">@*android:color/system_neutral1_900</color>
+    <color name="m3_ref_palette_dynamic_neutral10">@*android:color/background_dark</color>
     <color name="m3_ref_palette_dynamic_neutral100">@*android:color/system_neutral1_0</color>
     <color name="m3_ref_palette_dynamic_neutral20">@*android:color/system_neutral1_800</color>
     <color name="m3_ref_palette_dynamic_neutral70">@*android:color/system_neutral1_300</color>
@@ -157,7 +157,7 @@
     <color name="m3_ref_palette_dynamic_neutral_variant30">@*android:color/system_neutral2_700</color>
     <color name="m3_ref_palette_dynamic_neutral_variant80">@*android:color/system_neutral2_200</color>
     <color name="m3_ref_palette_dynamic_primary20">@*android:color/system_accent1_800</color>
-    <color name="m3_ref_palette_dynamic_primary40">@*android:color/system_accent1_600</color>
+    <color name="m3_ref_palette_dynamic_primary40">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_dynamic_primary70">@*android:color/system_accent1_300</color>
     <color name="m3_ref_palette_dynamic_primary80">@*android:color/system_accent1_200</color>
     <color name="m3_ref_palette_dynamic_primary90">@*android:color/system_accent1_100</color>
@@ -346,7 +346,7 @@
     <color name="settings_bar_view_3_color">#ff4285f4</color>
     <color name="settings_bar_view_4_color">#ff009688</color>
     <color name="settingslib_color_blue400">#ff669df6</color>
-    <color name="settingslib_color_blue600">#ff1a73e8</color>
+    <color name="settingslib_color_blue600">@*android:color/accent_material_dark</color>
     <color name="settingslib_color_blue700">#ff0b57d0</color>
     <color name="settingslib_color_charcoal">#ff171717</color>
     <color name="settingslib_color_green500">#ff34a853</color>

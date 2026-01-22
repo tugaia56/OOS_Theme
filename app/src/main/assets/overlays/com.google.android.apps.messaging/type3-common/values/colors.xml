@@ -101,7 +101,7 @@
     <color name="exo_white">#ffffffff</color>
     <color name="exo_white_opacity_70">#b3ffffff</color>
     <color name="fallback_color_device_default_dark">#ff669df6</color>
-    <color name="fallback_color_device_default_light">#ff1a73e8</color>
+    <color name="fallback_color_device_default_light">@*android:color/accent_material_dark</color>
     <color name="favorite_disabled_color">#89000000</color>
     <color name="favorite_disabled_color_dark_mode">@*android:color/button_material_dark</color>
     <color name="favorite_empty_text_color">#ff25272b</color>
@@ -304,7 +304,7 @@
     <color name="header_icon_selected">@*android:color/accent_material_dark</color>
     <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
     <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
-    <color name="ic_launcher_background">#ff1a73e8</color>
+    <color name="ic_launcher_background">@*android:color/accent_material_dark</color>
     <color name="ink_default_alt_color">#fffafafa</color>
     <color name="input_text_highlight_font_color_dark">#801967d2</color>
     <color name="input_text_highlight_font_color_light">#808ab4f8</color>

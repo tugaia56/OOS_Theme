@@ -100,7 +100,7 @@
     <color name="google_blue_100">#ffd2e3fc</color>
     <color name="google_blue_50">#ffe8f0fe</color>
     <color name="google_blue_500">#ff4285f4</color>
-    <color name="google_blue_600">#ff1a73e8</color>
+    <color name="google_blue_600">@*android:color/accent_material_dark</color>
     <color name="google_blue_700">#ff1967d2</color>
     <color name="google_blue_800">#ff185abc</color>
     <color name="google_blue_900">#ff174ea6</color>
@@ -124,7 +124,7 @@
     <color name="incall_background_gradient_top">@*android:color/accent_material_dark</color>
     <color name="incall_background_multiwindow">@*android:color/accent_material_dark</color>
     <color name="incall_background_multiwindow_spam">#e9c22e2e</color>
-    <color name="incall_banner_icon_color">@*android:color/system_neutral1_900</color>
+    <color name="incall_banner_icon_color">@*android:color/background_dark</color>
     <color name="incall_banner_timer_color">@*android:color/system_neutral1_800</color>
     <color name="incall_button_background_color">@*android:color/button_material_dark</color>
     <color name="incall_button_icon_color">@*android:color/black</color>

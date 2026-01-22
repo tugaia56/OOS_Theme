@@ -682,7 +682,7 @@
     <color name="secondary_text_disabled_material_light">#24000000</color>
     <color name="sm_google_blue">@*android:color/accent_material_dark</color>
     <color name="sm_google_green">@*android:color/accent_material_dark</color>
-    <color name="sm_google_maps_blue">#ff1a73e8</color>
+    <color name="sm_google_maps_blue">@*android:color/accent_material_dark</color>
     <color name="sm_google_red">@*android:color/accent_material_dark</color>
     <color name="sm_google_yellow">#fffbbc04</color>
     <color name="sm_netflix_circle_background">@*android:color/background_dark</color>

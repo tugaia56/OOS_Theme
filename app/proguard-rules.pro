@@ -20,3 +20,4 @@
 -keep class com.google.**
 -dontwarn com.google.**
 -keep public class com.android.vending.licensing.ILicensingService
+-dontwarn kotlin.jvm.internal.SourceDebugExtension

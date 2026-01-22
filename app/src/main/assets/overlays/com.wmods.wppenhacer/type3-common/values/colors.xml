@@ -968,7 +968,7 @@
     <color name="text_secondary">@*android:color/background_dark</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6ffffff</color>
-    <color name="whatsapp_dark_green">#ff128c7e</color>
-    <color name="whatsapp_green">#ff25d366</color>
-    <color name="whatsapp_teal">#ff075e54</color>
+    <color name="whatsapp_dark_green">@*android:color/accent_material_dark</color>
+    <color name="whatsapp_green">@*android:color/accent_material_dark</color>
+    <color name="whatsapp_teal">@*android:color/accent_material_dark</color>
 </resources>

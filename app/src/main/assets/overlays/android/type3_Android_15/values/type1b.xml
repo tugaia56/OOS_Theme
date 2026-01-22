@@ -38,8 +38,11 @@
     <!--Trasparenze background-->
     <color name="group_button_dialog_focused_holo_dark">#e61b2029</color>	<!-- 10% -->
     <color name="group_button_dialog_focused_holo_light">#cc1b2029</color>	<!-- 20% -->
+	
     <color name="group_button_dialog_pressed_holo_dark">#a61b2029</color>	<!-- 40% -->
     <color name="group_button_dialog_pressed_holo_light">#801b2029</color>	<!-- 50% -->
+	
+	
     <color name="car_blue_grey_800">#331b2029</color>						<!-- 80% -->
     <color name="car_blue_grey_900">#1a1b2029</color>						<!-- 90% -->
 
@@ -81,6 +84,5 @@
     <color name="surface_dark">@*android:color/background_device_default_dark</color>
     <color name="surface_light">@*android:color/background_device_default_light</color>
 
-    <!-- This is a lazy change, dwai -->
-    <color name="bootleg_accent_gradient_end_color">@*android:color/accent_material_dark</color>
+    
 </resources>

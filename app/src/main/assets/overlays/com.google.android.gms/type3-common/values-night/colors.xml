@@ -98,11 +98,11 @@
     <color name="post_optin_dialog_title_text">#ffffffff</color>
     <color name="primary_text_color">#ffffffff</color>
     <color name="primary_text_default">@*android:color/white</color>
-    <color name="settingslib_colorSurfaceHeader">@*android:color/system_neutral1_700</color>
-    <color name="settingslib_colorSurfaceVariant">@*android:color/system_neutral1_700</color>
+    <color name="settingslib_colorSurfaceHeader">@*android:color/button_material_dark</color>
+    <color name="settingslib_colorSurfaceVariant">@*android:color/button_material_dark</color>
     <color name="settingslib_dialog_accent">@*android:color/system_accent1_100</color>
     <color name="settingslib_dialog_colorError">#fff28b82</color>
-    <color name="settingslib_list_divider_color">@*android:color/system_neutral1_700</color>
+    <color name="settingslib_list_divider_color">@*android:color/button_material_dark</color>
     <color name="settingslib_materialColorBackground">@*android:color/bright_foreground_dark_disabled</color>
     <color name="settingslib_materialColorError">@*android:color/btn_default_material_dark</color>
     <color name="settingslib_materialColorErrorContainer">@*android:color/btn_leanback_color</color>

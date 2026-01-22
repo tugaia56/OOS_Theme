@@ -4,12 +4,12 @@
   xmlns:androidprv="http://schemas.android.com/apk/prv/res/android">
     <item android:state_focused="false">
         <shape android:shape="oval">
-			<solid android:color="@*android:color/accent_material_dark" />
+			<solid android:color="@*android:color/materialColorSurfaceVariant" />
         </shape>
     </item>
     <item android:state_focused="true">
         <shape android:shape="oval">
-            <solid android:color="@*android:color/holo_red_dark" />
+            <solid android:color="@*android:color/background_dark" />
         </shape>
     </item>
 </selector>
