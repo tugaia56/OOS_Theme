@@ -915,7 +915,6 @@
     <color name="coui_lock_pattern_success_dark_color">#ffffffff</color>
     <color name="coui_lock_pattern_success_light_color">@*android:color/background_dark</color>
     <color name="coui_main_button_text_color_pressed">#ffffffff</color>
-    <color name="coui_numeric_keyboard_border_color">#0dffffff</color>
     <color name="coui_numeric_keyboard_border_highlight_color">#ccffffff</color>
     <color name="coui_numeric_keyboard_dark_letter_color">#59000000</color>
     <color name="coui_numeric_keyboard_dark_letter_dark_color">#59ffffff</color>
@@ -928,16 +927,11 @@
     <color name="coui_numeric_keyboard_dark_number_press_light_color">@*android:color/background_dark</color>
     <color name="coui_numeric_keyboard_dark_word_text_normal_color">@*android:color/accent_material_dark</color>
     <color name="coui_numeric_keyboard_dark_word_text_normal_light_color">@*android:color/accent_material_dark</color>
-    <color name="coui_numeric_keyboard_dark_word_text_press_dark_color">#4dffffff</color>
-    <color name="coui_numeric_keyboard_inner_gradient_color_1">#8fffffff</color>
-    <color name="coui_numeric_keyboard_inner_gradient_color_2">#e6ffffff</color>
+    <color name="coui_numeric_keyboard_dark_word_text_press_dark_color">#ff0000</color>
     <color name="coui_numeric_keyboard_letter_color">#b3ffffff</color>
     <color name="coui_numeric_keyboard_line_color">#00ffffff</color>
     <color name="coui_numeric_keyboard_lower_inner_shadow_color">#33ffffff</color>
-    <color name="coui_numeric_keyboard_number_press_color">#ffffffff</color>
-    <color name="coui_numeric_keyboard_outer_gradient_color_1">#80ffffff</color>
-    <color name="coui_numeric_keyboard_outer_gradient_color_2">#33ffffff</color>
-    <color name="coui_numeric_keyboard_outer_gradient_color_3">#0dffffff</color>
+    <color name="coui_numeric_keyboard_number_press_color">#fff000</color>
     <color name="coui_numeric_keyboard_upper_inner_shadow_color">#5cffffff</color>
     <color name="coui_numeric_keyboard_word_text_normal_color">#ffffffff</color>
     <color name="coui_numeric_keyboard_word_text_press_color">#4dffffff</color>

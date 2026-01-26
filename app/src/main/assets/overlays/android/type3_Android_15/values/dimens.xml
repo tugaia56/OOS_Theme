@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="toast_y_offset">120.0dip</dimen>	
-    <dimen name="config_dialogCornerRadius">14.0dip</dimen>
-    <dimen name="control_corner_material">14.0dip</dimen>
-    <item type="dimen" name="dialog_corner_radius">14.0dip</item>
-    <dimen name="config_bottomDialogCornerRadius">16.0dip</dimen>
     <dimen name="action_bar_elevation_material">0.0dip</dimen>
     <dimen name="button_elevation_material">0.0dip</dimen>
     <dimen name="config_buttonCornerRadius">24.0dip</dimen>
+    <dimen name="config_dialogCornerRadius">30.0dip</dimen>
+    <dimen name="control_corner_material">12.0dip</dimen>
+    <dimen name="dialog_corner_radius">30.0dip</dimen>
     <dimen name="seekbar_track_background_height_material">1.5dip</dimen>
     <dimen name="seekbar_track_progress_height_material">1.5dip</dimen>
     <dimen name="progress_bar_height_material">2.0dip</dimen>

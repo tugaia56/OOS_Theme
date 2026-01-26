@@ -1,36 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item type="drawable" name="alert_dark_frame">@*android:drawable/popup_full_dark</item>
-    <item type="drawable" name="alert_light_frame">@*android:drawable/popup_full_bright</item>
-    <item type="drawable" name="dialog_frame">@*android:drawable/panel_background</item>
-    <item type="drawable" name="editbox_dropdown_dark_frame">@*android:drawable/editbox_dropdown_background_dark</item>
-    <item type="drawable" name="editbox_dropdown_light_frame">@*android:drawable/editbox_dropdown_background</item>
-    <item type="drawable" name="menu_frame">@*android:drawable/menu_background</item>
-    <item type="drawable" name="menu_full_frame">@*android:drawable/menu_background_fill_parent_width</item>
-    <item type="drawable" name="stat_notify_sync_noanim">@*android:drawable/stat_notify_sync_anim0</item>
-    <item type="drawable" name="stat_sys_download_done">@*android:drawable/stat_sys_download_done_static</item>
-    <item type="drawable" name="stat_sys_upload_done">@*android:drawable/stat_sys_upload_anim0</item>
     <item type="drawable" name="screen_background_dark">@*android:color/background_dark</item>
-    <item type="drawable" name="screen_background_light">#ffffffff</item>
-    <item type="drawable" name="screen_background_dark_transparent">#80000000</item>
-    <item type="drawable" name="screen_background_light_transparent">#80ffffff</item>
-    <item type="drawable" name="dialog_holo_dark_frame">@*android:drawable/dialog_full_holo_dark</item>
-    <item type="drawable" name="dialog_holo_light_frame">@*android:drawable/dialog_full_holo_light</item>
-    <item type="drawable" name="ic_safety_protection">@null</item>
-    <item type="drawable" name="config_scrollbarThumbVertical">@*android:drawable/scrollbar_handle_material</item>
-    <item type="drawable" name="config_scrollbarTrackVertical">@null</item>
-    <item type="drawable" name="default_lock_wallpaper">@null</item>
-    <item type="drawable" name="input_method_fullscreen_background">#fff9f9f9</item>
-    <item type="drawable" name="input_method_fullscreen_background_holo">@*android:drawable/screen_background_holo_dark</item>
-    <item type="drawable" name="notification_template_divider">#29000000</item>
-    <item type="drawable" name="notification_template_divider_media">#29ffffff</item>
-    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
-    <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
+    <item type="drawable" name="screen_background_dark_transparent">#30000000</item>
+    <item type="drawable" name="status_bar_closed_default_background">@*android:color/black</item>
+    <item type="drawable" name="status_bar_opened_default_background">@*android:color/black</item>
+    <item type="drawable" name="search_bar_default_color">@*android:color/black</item>
     <item type="drawable" name="safe_mode_background">#60000000</item>
+    <item type="drawable" name="input_method_fullscreen_background">@*android:color/keyguard_text_color_decline</item>
+    <item type="drawable" name="selected_day_background">@*android:color/holo_light_primary</item>
+    <item type="drawable" name="notification_template_icon_bg">#cc000000</item>
+    <item type="drawable" name="notification_template_icon_low_bg">#0c000000</item>
+    <item type="drawable" name="notification_template_divider">#00000000</item>
+    <item type="drawable" name="notification_template_divider_media">#00000000</item>
     <item type="drawable" name="screen_background_holo_dark">@*android:color/background_dark</item>
-    <item type="drawable" name="screen_background_holo_light">#fff3f3f3</item>
-    <item type="drawable" name="search_bar_default_color">@*android:color/background_dark</item>
-    <item type="drawable" name="selected_day_background">@*android:color/accent_material_dark</item>
-    <item type="drawable" name="status_bar_closed_default_background">@*android:color/background_dark</item>
-    <item type="drawable" name="status_bar_opened_default_background">@*android:color/background_dark</item>
+    <item type="drawable" name="dialog_holo_dark_frame">@*android:drawable/dialog_ic_close_focused_holo_dark</item>
 </resources>

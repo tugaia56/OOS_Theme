@@ -47,7 +47,7 @@
     <color name="settingslib_materialColorOnTertiaryContainer">@*android:color/system_on_tertiary_container_dark</color>
     <color name="settingslib_materialColorOutline">@*android:color/accent_material_dark</color>
     <color name="settingslib_materialColorOutlineVariant">@*android:color/accent_material_dark</color>
-    <color name="settingslib_materialColorPrimary">@*android:color/system_primary_dark</color>
+    <color name="settingslib_materialColorPrimary">@*android:color/accent_material_dark</color>
     <color name="settingslib_materialColorPrimaryContainer">@*android:color/system_primary_container_dark</color>
     <color name="settingslib_materialColorPrimaryInverse">@*android:color/system_primary_light</color>
     <color name="settingslib_materialColorSecondary">@*android:color/system_secondary_dark</color>
