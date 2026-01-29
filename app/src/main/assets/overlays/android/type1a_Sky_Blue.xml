@@ -6,7 +6,7 @@
     <color name="keyguard_avatar_frame_pressed_color">#402962FF</color>
     <color name="holo_red_light">#cc2962FF</color>
     <color name="highlighted_text_dark">#992962FF</color>
-    <color name="highlighted_text_light">#992962FF</color>
+    <color name="highlighted_text_light">#b32962FF</color>
     <color name="accessibility_focus_highlight_color">#bf2962FF</color>
     <color name="holo_button_normal">#212962FF</color>
     <color name="ripple_material_dark">#802962FF</color>
