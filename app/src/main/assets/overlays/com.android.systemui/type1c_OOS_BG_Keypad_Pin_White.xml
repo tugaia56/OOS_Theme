@@ -9,9 +9,9 @@
     <color name="coui_numeric_keyboard_border_color">@*android:color/ripple_material_dark</color>					<!-- bordo tasti tastiera -->
     <color name="coui_numeric_keyboard_inner_gradient_color_1">@*android:color/ripple_material_dark</color>
     <color name="coui_numeric_keyboard_inner_gradient_color_2">@*android:color/ripple_material_dark</color>
-    <color name="coui_numeric_keyboard_outer_gradient_color_1">@*android:color/transparent</color>					<!-- bordo interno tasti -->
-    <color name="coui_numeric_keyboard_outer_gradient_color_2">@*android:color/transparent</color>					<!-- bordo di mezzo tasti -->
-    <color name="coui_numeric_keyboard_outer_gradient_color_3">@*android:color/accent_material_dark</color>			<!-- bordo esterno tasti -->
+    <color name="coui_numeric_keyboard_outer_gradient_color_1">@*android:color/accent_material_dark</color>			<!-- bordo interno tasti -->
+    <color name="coui_numeric_keyboard_outer_gradient_color_2">@*android:color/holo_blue_light</color>				<!-- bordo di mezzo tasti -->
+    <color name="coui_numeric_keyboard_outer_gradient_color_3">@*android:color/transparent</color>					<!-- bordo esterno tasti -->
     <color name="coui_numeric_keyboard_upper_inner_shadow_color">@*android:color/accent_material_dark</color>		<!-- bordo visibile tasti -->
 	
 </resources>

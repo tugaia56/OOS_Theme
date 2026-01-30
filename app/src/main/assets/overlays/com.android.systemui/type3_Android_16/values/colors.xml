@@ -156,7 +156,7 @@
     <color name="m3_ref_palette_dynamic_neutral_variant30">@*android:color/system_neutral2_700</color>
     <color name="m3_ref_palette_dynamic_neutral_variant80">@*android:color/system_neutral2_200</color>
     <color name="m3_ref_palette_dynamic_primary20">@*android:color/system_accent1_800</color>
-    <color name="m3_ref_palette_dynamic_primary40">@*android:color/system_accent1_600</color>
+    <color name="m3_ref_palette_dynamic_primary40">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_dynamic_primary70">@*android:color/system_accent1_300</color>
     <color name="m3_ref_palette_dynamic_primary80">@*android:color/system_accent1_200</color>
     <color name="m3_ref_palette_dynamic_primary90">@*android:color/system_accent1_100</color>
@@ -460,7 +460,7 @@
     <color name="themed_badge_icon_background_color">@*android:color/system_accent1_100</color>
     <color name="themed_badge_icon_color">@*android:color/system_accent1_700</color>
     <color name="themed_icon_background_color">@*android:color/system_neutral1_50</color>
-    <color name="themed_icon_color">@*android:color/system_accent1_600</color>
+    <color name="themed_icon_color">@*android:color/accent_material_dark</color>
     <color name="tiling_handle_background_dark">#ffffffff</color>
     <color name="tiling_handle_background_light">@*android:color/background_dark</color>
     <color name="tooltip_background_dark">#e6616161</color>
