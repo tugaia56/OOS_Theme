@@ -51,8 +51,8 @@ jobs:
       - name: Upload Artifact to Actions
         uses: actions/upload-artifact@v4.3.1
         with:
-        name: "Dark_Shadow_Theme${{env.VTag}}"
-        path: app/build/outputs/apk/release/*.apk
+          name: "Dark_Shadow_Theme${{env.VTag}}"
+          path: app/build/outputs/apk/release/*.apk
 
       - name: Version Bump Commit
         uses: github-actions-x/commit@v2.9
