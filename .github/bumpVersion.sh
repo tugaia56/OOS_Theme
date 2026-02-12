@@ -15,5 +15,6 @@ sed -i 's/versionCode.*/versionCode = '$NEWVERCODE'/' app/build.gradle.kts
 sed -i 's/versionName =.*/versionName = "'$NEWVERNAME'"/' app/build.gradle.kts
 sed -i 's/Dark_Shadow_Theme_v.*/Dark_Shadow_Theme_v'$NEWVERNAME'.apk"/' app/build.gradle.kts
 
+#sed -i 's/Dark_Shadow_Theme_v.*/Dark_Shadow_Theme_v'$NEWVERNAME'.apk"/' app/build.gradle.kts
 #sed -i 's/Versione.*/Versione '$NEWVERNAME'<\/item>/' app/src/main/res/values/theme_configurations.xml
 #sed -i 's/Versione.*/Versione '$NEWVERNAME'<\/item>/' app/src/main/res/values-it/theme_configurations.xml
