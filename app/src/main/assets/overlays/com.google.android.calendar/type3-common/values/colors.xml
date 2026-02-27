@@ -95,6 +95,9 @@
     <color name="foreground_material_light">@*android:color/black</color>
     <color name="gm3_dark_default_color_elevation_overlay">@*android:color/accent_material_dark</color>
     <color name="gm3_default_color_elevation_overlay">@*android:color/accent_material_dark</color>
+    <color name="gm3_ref_palette_cyan30">#ff004e5d</color>
+    <color name="gm3_ref_palette_cyan40">#ff00687c</color>
+    <color name="gm3_ref_palette_cyan90">#ffacedff</color>
     <color name="gm3_ref_palette_error10">#ff410e0b</color>
     <color name="gm3_ref_palette_error100">#ffffffff</color>
     <color name="gm3_ref_palette_error20">#ff601410</color>
@@ -143,6 +146,8 @@
     <color name="gm3_ref_palette_tertiary80">#ff6dd58c</color>
     <color name="gm3_ref_palette_tertiary90">#ffc4eed0</color>
     <color name="gm3_ref_palette_white">#ffffffff</color>
+    <color name="gm3_ref_palette_yellow30">#ff6d3a01</color>
+    <color name="gm3_ref_palette_yellow40">#ff8f4e06</color>
     <color name="gm3_ref_palette_yellow70">#ffef9800</color>
     <color name="gm3_ref_palette_yellow90">#ffffe07c</color>
     <color name="gm3_sys_color_dark_surface_bright">#ff37393b</color>
@@ -151,6 +156,7 @@
     <color name="gm3_sys_color_dark_surface_container_highest">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dark_surface_container_low">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dark_surface_container_lowest">@*android:color/background_dark</color>
+    <color name="gm3_sys_color_dark_surface_dim">@*android:color/background_dark</color>
     <color name="gm3_sys_color_light_surface_container">#fff0f4f9</color>
     <color name="gm3_sys_color_light_surface_container_high">#ffe9eef6</color>
     <color name="gm3_sys_color_light_surface_container_highest">#ffdde3ea</color>
@@ -192,8 +198,6 @@
     <color name="gm_ref_palette_red800">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_red900">@*android:color/accent_material_dark</color>
     <color name="gm_ref_palette_white">#ffffffff</color>
-    <color name="gm_ref_palette_yellow300">#fffdd663</color>
-    <color name="gm_ref_palette_yellow600">#fff9ab00</color>
     <color name="gm_sys_color_dark_secondary">@*android:color/background_dark</color>
     <color name="gm_sys_color_dark_secondary_variant">@*android:color/background_dark</color>
     <color name="google_dark_default_color_on_surface_disabled">#60e8eaed</color>
@@ -295,7 +299,6 @@
     <color name="mtrl_textinput_focused_box_stroke_color">#00000000</color>
     <color name="mtrl_textinput_hovered_box_stroke_color">#de000000</color>
     <color name="numbers_text_color">#ff8c8c8c</color>
-    <color name="og_elevation_dark_2">@*android:color/background_dark</color>
     <color name="og_elevation_dark_5">@*android:color/background_dark</color>
     <color name="og_express_sign_in_scrim_bg_color">#99202124</color>
     <color name="og_material3_elevation_dark_2">@*android:color/background_dark</color>
@@ -343,7 +346,7 @@
     <color name="primary_text_disabled_material_light">#39000000</color>
     <color name="promo_dialog_header">#ff4f3795</color>
     <color name="quantum_googblue600">#ff3b78e7</color>
-    <color name="quantum_grey300">#ffffffff</color>
+    <color name="quantum_grey300">#ffe0e0e0</color>
     <color name="quantum_lightblue600">#ff039be5</color>
     <color name="quantum_white_100">#ffffffff</color>
     <color name="quick_action_icon_disabled_color_night_mode">#ff4a5b78</color>
@@ -403,7 +406,7 @@
     <color name="surface_month_11">#fffffbff</color>
     <color name="surface_month_12">#fffcfcff</color>
     <color name="survey_question_highlight_color_tv">#26ffffff</color>
-    <color name="switch_thumb_disabled_material_dark">@*android:color/background_floating_material_dark</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/button_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

@@ -116,7 +116,7 @@
     <color name="dialogMessageText">#ff919191</color>
     <color name="dialogMessageTextSecondChoice">@*android:color/background_dark</color>
     <color name="dialogPinEditText">@*android:color/accent_material_dark</color>
-    <color name="dialogProgress">#ff616161</color>
+    <color name="dialogProgress">@*android:color/button_material_dark</color>
     <color name="dialogRadioButton">@*android:color/accent_material_dark</color>
     <color name="dialogTitleText">@*android:color/accent_material_dark</color>
     <color name="dialogbg_dk">@*android:color/background_dark</color>

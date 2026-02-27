@@ -1577,7 +1577,7 @@
     <color name="super_item_background_1">#ffffffff</color>
     <color name="super_item_background_2">#ffffffff</color>
     <color name="support_button_material_dark">#ff5a595b</color>
-    <color name="support_switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="support_switch_thumb_disabled_material_dark">@*android:color/button_material_dark</color>
     <color name="support_switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="support_switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="support_switch_thumb_normal_material_light">#fff1f1f1</color>
@@ -1598,7 +1598,7 @@
     <color name="switch_outer_circle_disable_color">#8affffff</color>
     <color name="switch_outer_circle_disable_dark_color">#29ffffff</color>
     <color name="switch_outer_circle_disable_light_color">#8affffff</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/button_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

@@ -1364,7 +1364,7 @@
     <color name="ssoCustomAlertDialogTextColor">@*android:color/background_dark</color>
     <color name="ssoLinkButtonPressedTextColor">#ff6c6c6c</color>
     <color name="ssoLinkButtonTextColor">@*android:color/background_dark</color>
-    <color name="ssoStatusBarBackgroundColor">@android:color/transparent</color>
+    <color name="ssoStatusBarBackgroundColor">@*android:color/transparent</color>
     <color name="ssoTextColor">#ff6c6c6c</color>
     <color name="ssoTouText">@*android:color/background_dark</color>
     <color name="sso_bg_no_internet_conn">#ffbf0f24</color>
@@ -1466,7 +1466,7 @@
     <color name="surface_background_opacity_7">#b3efefef</color>
     <color name="surface_background_opacity_8">#ccefefef</color>
     <color name="surface_background_opacity_9">#e6efefef</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/button_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

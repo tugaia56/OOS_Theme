@@ -783,7 +783,7 @@
     <color name="sud_system_sc_highest_dark">@*android:color/system_surface_container_highest_dark</color>
     <color name="sud_system_sc_highest_light">@*android:color/system_surface_container_highest_light</color>
     <color name="sud_uniformity_backdrop_color">@*android:color/white</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/button_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

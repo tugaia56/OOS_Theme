@@ -250,7 +250,7 @@
     <color name="foreground_material_light">@*android:color/black</color>
     <color name="ftue_opt_in_half_sheet_accept_button_background_color">@*android:color/accent_material_dark</color>
     <color name="ftue_opt_in_half_sheet_accept_button_text_color">@*android:color/system_accent1_0</color>
-    <color name="games_dialog_body_color">#ff616161</color>
+    <color name="games_dialog_body_color">@*android:color/button_material_dark</color>
     <color name="games_dialog_btn_negative">#ff626262</color>
     <color name="games_dialog_btn_positive">#ff527d2d</color>
     <color name="games_dialog_title_color">#ff527d2d</color>
@@ -832,7 +832,7 @@
     <color name="material_grey_50">#fffafafa</color>
     <color name="material_grey_500">#ff9e9e9e</color>
     <color name="material_grey_600">@*android:color/button_material_dark</color>
-    <color name="material_grey_700">#ff616161</color>
+    <color name="material_grey_700">@*android:color/button_material_dark</color>
     <color name="material_grey_800">@*android:color/background_dark</color>
     <color name="material_grey_850">@*android:color/background_dark</color>
     <color name="material_grey_900">@*android:color/background_dark</color>
@@ -957,7 +957,7 @@
     <color name="quantum_googyellow500">#fff4b400</color>
     <color name="quantum_grey200">#ffeeeeee</color>
     <color name="quantum_grey400">#ffbdbdbd</color>
-    <color name="quantum_grey700">#ff616161</color>
+    <color name="quantum_grey700">@*android:color/button_material_dark</color>
     <color name="quantum_white_100">#ffffffff</color>
     <color name="recaptcha_title_color">#ff29394e</color>
     <color name="replay__cardimageview___shadow_end_color">#03000000</color>
@@ -1293,7 +1293,7 @@
     <color name="suw_navbar_bg_light">#ffe4e7e9</color>
     <color name="suw_progress_bar_color_dark">#ffffcd40</color>
     <color name="suw_progress_bar_color_light">#fff4b400</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/button_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
@@ -1377,7 +1377,7 @@
     <color name="wallet_uic_error_color">#ffff0000</color>
     <color name="wallet_uic_error_text_color_light">#ffdb4437</color>
     <color name="wallet_uic_form_emphasis_color_light">#fff3f3f3</color>
-    <color name="wallet_uic_info_message_bullet_color">#ff616161</color>
+    <color name="wallet_uic_info_message_bullet_color">@*android:color/button_material_dark</color>
     <color name="wallet_uic_large_ocr_button_background_dark">#ff4c4c4c</color>
     <color name="wallet_uic_large_ocr_button_background_light">#ffeeeeee</color>
     <color name="wallet_uic_large_ocr_button_border_dark">#ff6a6a6a</color>

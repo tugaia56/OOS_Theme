@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="nova_now_search_bar">Nova Now search bar</string>
+    <string name="appearance">Appearance</string>
+    <string name="title">Title</string>
+    <string name="games_card_title">Games</string>
+    <string name="games_card_tap_to_play">Tap to play instant games</string>
+    <string name="card_details">Card details</string>
+    <string name="feed_page_summary">Control and customize the feed pages at the edge of your home screen</string>
+    <string name="preference_privacy_summary">View and manage data</string>
+    <string name="choose_featured_action">Choose an app, shortcut, or widget to feature in your card. (optional)</string>
+    <string name="add_featured_action">Add featured action</string>
+    <string name="featured_content">Featured content</string>
+    <string name="map_locations_card_description">Set a schedule to see your favorite places with navigation shortcuts.</string>
+    <string name="exo_controls_settings_description">Settings</string>
+    <string name="add_card">Add card</string>
+    <string name="before_first_page">Show before first page</string>
+    <string name="suggested_links_rows">Suggested shortcuts rows</string>
+    <string name="nova_now_show_keyboard_summary">Immediately show the keyboard when Nova Now is opened</string>
+    <string name="nova_now_search_bar_summary">Customize the appearance of the search bar in Nova Now</string>
+    <string name="feed_page_after_nova_now">After swiping to Nova Now, swipe again to access an additional feed</string>
+    <string name="changelog_pending">"You're fast! The changelog for this version isn't ready yet. Check again later."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="latest_version">Latest: <b>%s</b></string>
+    <string name="latest_version_checking">Latest: <i>checking...</i></string>
+    <string name="update">Update</string>
+	
     <string name="novasearch_limit_app_results_to_one_row">Limit apps to one row</string>
     <string name="novasearch_limit_apps_results_to_one_row_summary">For a better visual experience, only show the first row of app results.</string>
     <string name="shortcut_search">Shortcut Search</string>

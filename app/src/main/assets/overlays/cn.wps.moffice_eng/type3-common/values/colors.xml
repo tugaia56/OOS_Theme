@@ -625,7 +625,7 @@
     <color name="d_transfer_collect_files">#fffff6f6</color>
     <color name="d_transfer_to_computer">#fff2f8ff</color>
     <color name="d_transfer_to_other">#fffffbea</color>
-    <color name="dark_text_color">#ff616161</color>
+    <color name="dark_text_color">@*android:color/button_material_dark</color>
     <color name="descriptionColor">#66000000</color>
     <color name="design_bottom_navigation_shadow_color">#14000000</color>
     <color name="design_dark_default_color_background">@*android:color/background_dark</color>
@@ -2446,7 +2446,7 @@
     <color name="svips_01">#ffffc87c</color>
     <color name="svips_02">#33ffc87c</color>
     <color name="switchOnColor">@*android:color/accent_material_dark</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/button_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

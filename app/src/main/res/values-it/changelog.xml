@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ThemeChangelog">
-        <item>Versione 6.6.0</item>
+        <item>Versione 6.7.0</item>
         <item>AGGIUNTO:</item>
-        <item>Calendario Business v2.53.8</item>
+        <item>---</item>
         <item>MODIFICATO:</item>
-        <item>UI System OxygenOS 16</item>
-        <item>Assistente Giochi v10.25.3</item>
-        <item>AIMP v4.25.1665</item>
+        <item>OnePlus Bussola v16.1.16</item>
+        <item>Google Authenticator v7.0</item>
+        <item>OnePlus Barra Laterale Intelligente v16.7.5</item>
+        <item>BoxSync v7.5.6</item>
+        <item>DriveSync v7.5.6</item>
+        <item>DropSync v7.5.6</item>
+        <item>MegaSync v7.5.6</item>
+        <item>OneSync v7.5.6</item>
+        <item>Call Recorder di Skvalex v3.7.0</item>
+        <item>Wa Enhancer v1.5.3-DEV (7786BC4)</item>
+        <item>SwitchAI v3.4.1</item>
     </string-array>
 </resources>

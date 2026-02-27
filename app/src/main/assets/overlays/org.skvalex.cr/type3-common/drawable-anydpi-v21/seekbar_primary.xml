@@ -4,7 +4,7 @@
     <item android:gravity="fill_horizontal|center|top" android:id="@*android:id/background">
         <shape android:tint="@null" android:shape="rectangle">
             <size android:height="10.0dip" />
-            <solid android:color="@*android:color/ripple_material_dark" />									<!-- inactive player bar or color ripple-->
+            <solid android:color="@*android:color/background_leanback_dark" />									<!-- inactive player bar or color ripple-->
             <corners android:radius="10.0dip" />
         </shape>
     </item>
@@ -29,7 +29,7 @@
                 <item>
                     <shape android:tint="@null" android:shape="rectangle">
                         <size android:height="10.0dip" />
-                        <solid android:color="@*android:color/accent_material_dark" />						<!-- active player bar or any color -->
+                        <solid android:color="@*android:color/accent_material_dark" />										<!-- active player bar or any color -->
 						<corners android:topLeftRadius="10.0dip" android:topRightRadius="0.0dip" android:bottomLeftRadius="10.0dip" android:bottomRightRadius="0.0dip" />
                     </shape>
                 </item>

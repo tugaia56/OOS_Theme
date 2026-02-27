@@ -219,7 +219,7 @@
     <color name="settingslib_materialColorSecondaryContainer">#ffcce8e2</color>
     <color name="settingslib_materialColorSurfaceBright">#fff9faf8</color>
     <color name="settingslib_materialColorSurfaceContainerHigh">#ffe8e8e8</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/button_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

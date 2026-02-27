@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="ic_shortcut_background">#bf360c</color>
-    <color name="ic_shortcut_icon">@*android:color/accent_material_dark</color>
-    <color name="ic_splash_dots">@*android:color/accent_material_dark</color>				<!-- Splash -->
-    <color name="ic_splash_stars">@*android:color/accent_material_light</color>				<!-- Splash -->
+    <color name="ic_shortcut_background">#3e2723</color>	<!-- bg shortcut -->
+    <color name="ic_shortcut_icon">#d7ccc8</color>
+    <color name="ic_splash_dots">@*android:color/ripple_material_dark</color>				<!-- Splash -->
+    <color name="ic_splash_stars">@*android:color/accent_material_dark</color>				<!-- Splash -->
     <color name="search_bar_background">@*android:color/button_material_light</color>		<!-- searchbar -->
     <color name="widget_on_primary_container">#ffffff</color>								<!-- testo widget min sopra -->
-    <color name="widget_on_secondary_container">#76ff03</color>
+    <color name="widget_on_secondary_container">#ffffff</color>
     <color name="widget_on_tertiary_container">#ffffff</color>								<!-- testo widget min sotto -->
-    <color name="widget_primary">@*android:color/button_material_light</color>				<!-- bg widget min sx -->
+    <color name="widget_primary">@*android:color/background_dark</color>					<!-- bg widget min sx -->
     <color name="widget_primary_container">@*android:color/accent_material_dark</color>		<!-- bg widget min sopra  e icona sx -->
-    <color name="widget_secondary">#2962ff</color>
-    <color name="widget_secondary_container">#bf360c</color>
+    <color name="widget_secondary">@*android:color/background_dark</color>
+    <color name="widget_secondary_container">@*android:color/accent_material_dark</color>
     <color name="widget_surface">#d500f9</color>
-    <color name="widget_tertiary">@*android:color/holo_primary</color>						<!-- bg widget min dx -->
+    <color name="widget_tertiary">@*android:color/background_dark</color>					<!-- bg widget min dx -->
     <color name="widget_tertiary_container">@*android:color/accent_material_dark</color>	<!-- bg widget min sotto e icona dx -->
 </resources>

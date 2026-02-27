@@ -176,7 +176,7 @@
     <color name="soft_remote_light_gray">#ff6c6c6c</color>
     <color name="soft_remote_red">#ffe91533</color>
     <color name="soft_remote_yellow">#ffffeb02</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/button_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

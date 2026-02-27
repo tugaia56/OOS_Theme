@@ -686,8 +686,8 @@
     <color name="month_day_number_black">#ffffffff</color>
     <color name="month_day_number_dark">#ffffffff</color>
     <color name="month_day_number_other">#ff999999</color>
-    <color name="month_day_number_other_black">#ff616161</color>
-    <color name="month_day_number_other_dark">#ff616161</color>
+    <color name="month_day_number_other_black">@*android:color/button_material_dark</color>
+    <color name="month_day_number_other_dark">@*android:color/button_material_dark</color>
     <color name="month_dna_conflict_time_color">@*android:color/button_material_dark</color>
     <color name="month_event_color">@*android:color/button_material_dark</color>
     <color name="month_event_color_black">#ffffffff</color>
@@ -772,7 +772,7 @@
     <color name="spinner_privacy_popupBackground">#ffffffff</color>
     <color name="spinner_privacy_popupBackground_black">@*android:color/background_dark</color>
     <color name="spinner_privacy_popupBackground_dark">@*android:color/background_dark</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/button_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

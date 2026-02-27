@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="nova_now_search_bar">Barra di ricerca di Nova Now</string>
+    <string name="appearance">Aspetto</string>
+    <string name="title">Titolo</string>
+    <string name="games_card_title">Giochi</string>
+    <string name="games_card_tap_to_play">Tocca per giocare ai giochi istantanei</string>
+    <string name="card_details">Dettagli della scheda</string>
+    <string name="feed_page_summary">Controlla e personalizza le pagine dei feed sul bordo della schermata iniziale</string>
+    <string name="preference_privacy_summary">Visualizza e gestisci i dati</string>
+    <string name="choose_featured_action">Scegli un\'app, un collegamento o un widget da includere nella tua scheda. (facoltativo)</string>
+    <string name="add_featured_action">Aggiungi azione in evidenza</string>
+    <string name="featured_content">Contenuto in evidenza</string>
+    <string name="map_locations_card_description">Imposta un programma per vedere i tuoi luoghi preferiti con le scorciatoie di navigazione.</string>
+    <string name="exo_controls_settings_description">Impostazioni</string>
+    <string name="add_card">Aggiungi Scheda</string>
+    <string name="before_first_page">Mostra prima della prima pagina</string>
+    <string name="suggested_links_rows">Righe di scorciatoie suggerite</string>
+    <string name="nova_now_show_keyboard_summary">Mostra immediatamente la tastiera quando Nova Now viene aperto</string>
+    <string name="nova_now_search_bar_summary">Personalizza l\'aspetto della barra di ricerca in Nova Now</string>
+    <string name="feed_page_after_nova_now">Dopo aver fatto scorrere il dito verso Nova Now, fai scorrere di nuovo il dito per accedere a un feed aggiuntivo</string>
+    <string name="changelog_pending">"Sei veloce! Il changelog per questa versione non è ancora pronto. Controlla di nuovo più tardi."</string>
+    <string name="common_google_play_services_update_button">Aggiornamento</string>
+    <string name="latest_version">Ultima: <b>%s</b></string>
+    <string name="latest_version_checking">Ultima: <i>controllo...</i></string>
+    <string name="update">Aggiornamenti</string>
+	
     <string name="novasearch_limit_app_results_to_one_row">Limita le app a una riga</string>
     <string name="novasearch_limit_apps_results_to_one_row_summary">Per una migliore esperienza visiva, mostra solo la prima riga dei risultati dell\'app.</string>
     <string name="shortcut_search">Ricerca rapida</string>
@@ -32,7 +57,7 @@
     <string name="add_action">Aggiungi azione</string>
     <string name="activate_in_nova_now">Attiva in Nova Now</string>
     <string name="condition_set_editing_description">Configura una serie di condizioni che, se tutte soddisfatte, faranno sì che questa scheda venga visualizzata nell\'app drawer.</string>
-    <string name="day_time">Giorno\Ora</string>
+    <string name="day_time">Giorno\/Ora</string>
     <string name="wifi_network">Rete Wi-Fi</string>
     <string name="when_weather_changes">Quando il tempo cambia</string>
     <string name="time_and_day_screen_description">Mostra questa carta nei giorni selezionati tra gli orari specificati.</string>

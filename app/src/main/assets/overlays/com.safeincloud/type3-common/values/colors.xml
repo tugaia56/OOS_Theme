@@ -122,7 +122,7 @@
     <color name="dialogMessageText">#ff919191</color>
     <color name="dialogMessageTextSecondChoice">@*android:color/background_dark</color>
     <color name="dialogPinEditText">#ff0078d4</color>
-    <color name="dialogProgress">#ff616161</color>
+    <color name="dialogProgress">@*android:color/button_material_dark</color>
     <color name="dialogRadioButton">#ff0078d4</color>
     <color name="dialogTitleText">#ff0078d4</color>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
@@ -444,7 +444,7 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/button_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

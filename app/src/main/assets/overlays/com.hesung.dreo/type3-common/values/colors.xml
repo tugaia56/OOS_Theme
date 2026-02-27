@@ -703,7 +703,7 @@
     <color name="surface_1">#fff9fafa</color>
     <color name="surface_11">#fff7f7f8</color>
     <color name="surface_2">#ffeeeff1</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/button_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

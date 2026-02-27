@@ -1055,7 +1055,7 @@
     <color name="support_device_list_title_color_no_skin">@*android:color/background_dark</color>
     <color name="svg_icon_universal_circle_bg_color">#ffeefcfe</color>
     <color name="switch_device_list_divider_color">#99ffffff</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/button_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>

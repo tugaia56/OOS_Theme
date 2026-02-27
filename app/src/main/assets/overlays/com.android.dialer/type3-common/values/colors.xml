@@ -616,7 +616,7 @@
     <color name="spam_contact_background">#ffa52714</color>
     <color name="state_on_color">@*android:color/system_accent3_100</color>
     <color name="statusbar_background_color">@*android:color/background_dark</color>
-    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_dark">@*android:color/button_material_dark</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
