@@ -8,7 +8,7 @@
     <color name="colorContainer">@*android:color/system_neutral2_900</color>
     <color name="colorDisabledNeutral">#4dffffff</color>
     <color name="colorDivider">#33ffffff</color>
-    <color name="ic_launcher_background_themed">@*android:color/system_neutral1_800</color>
+    <color name="ic_launcher_background_themed">@*android:color/background_dark</color>
     <color name="ic_launcher_foreground_themed">@*android:color/system_accent1_100</color>
     <color name="neumorph_outline_end">#ff0f0f0f</color>
     <color name="neumorph_outline_start">#ff363636</color>
@@ -30,6 +30,7 @@
     <color name="oplus_seekbar_progress_color_disabled">@*android:color/background_leanback_dark</color>
     <color name="oplus_seekbar_progress_color_normal">#ff999999</color>
     <color name="oplus_seekbar_thumb_color_disabled">@*android:color/background_dark</color>
+    <color name="oplus_seekbar_thumb_disable_color">#29ffffff</color>
     <color name="oplus_seekbar_thumb_shadow_color">#33ffffff</color>
     <color name="oplus_seekbar_tick_mark_color">#ff595959</color>
     <color name="oplus_textinput_stroke_color_disabled">#19ffffff</color>

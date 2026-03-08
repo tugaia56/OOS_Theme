@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="module_active">Il modulo è attivo</string>
+    <string name="module_inactive">Il modulo non è attivo: abilitalo in LSPosed e riavvia</string>
+    <string name="expand_shade_title">Espandi notifiche</string>
+    <string name="expand_shade_desc">Espandi automaticamente tutte le notifiche</string>
+    <string name="expand_headsup_title">Espandi heads-up</string>
+    <string name="expand_headsup_desc">Espandi layout heads-up</string>	
+    <string name="expand_lockscreen_title">Espandi nella schermata di blocco</string>	
+    <string name="expand_lockscreen_desc">Consenti notifiche espanse nella schermata di blocco</string>
+    <string name="disable_headsup_popup_title">Disabilita il popup heads-up</string>
+    <string name="disable_headsup_popup_desc">Blocca l\'avvio in mini-finestra\/forma libera quando scorri sull\'heads-up</string>
+    <string name="ungroup_notifications_title">Separa le notifiche</string>
+    <string name="ungroup_notifications_desc">Mostra ogni notifica come una scheda separata anziché raggruppata per app</string>
+    <string name="disable_back_haptic_title">Disattiva il gesto indietro</string>	
+    <string name="disable_back_haptic_desc">Sopprimi la vibrazione dello scorrimento all\'indietro su OxygenOS</string>
+    <string name="excluded_apps_title">App escluse</string>
+    <string name="excluded_apps_desc_count">%d app escluse</string>
+    <string name="excluded_apps_desc_none">Nessuna app esclusa</string>	
+    <string name="app_name">AutoExpand Notifications</string>
+    <string name="reboot_required">È necessario riavviare il dispositivo affinché le modifiche abbiano effetto</string>
+    <string name="search_hint">Cerca app…</string>
+    <string name="search_menu_title">Cerca</string>
+
+</resources>

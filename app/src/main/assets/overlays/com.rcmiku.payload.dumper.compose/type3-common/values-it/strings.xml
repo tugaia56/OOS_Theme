@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_dialog_title">Informazioni</string>
+    <string name="app_info">Estrazione Android Payload da URL OTA</string>
+    <string name="app_name">Payload Dumper</string>
+    <string name="author">rcmiku</string>
+    <string name="call_notification_answer_action">Rispondi</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Rifiuta</string>
+    <string name="call_notification_hang_up_action">Riattacca</string>
+    <string name="call_notification_incoming_text">Chiamata in arrivo</string>
+    <string name="call_notification_ongoing_text">Chiamata in corso</string>
+    <string name="call_notification_screening_text">Applicazione filtro a chiamata in arrivo</string>
+    <string name="cancel">Annulla</string>
+    <string name="clear">Cancella</string>
+    <string name="close_drawer">Chiudi menu di navigazione</string>
+    <string name="close_sheet">Chiudi foglio</string>
+    <string name="confirm">Conferma</string>
+    <string name="custom_user_agent">User-Agent Personalizzato</string>
+    <string name="custom_user_agent_setting">Impostazioni User-Agent personalizzate</string>
+    <string name="default_popup_window_title">Finestra popup</string>
+    <string name="developer">Sviluppatore: </string>
+    <string name="done">Fatto</string>
+    <string name="dump">Estrai</string>
+    <string name="dump_success_message">Estrazione riuscita: %s</string>
+    <string name="file_name">Nome file:</string>
+    <string name="file_size">Dimensione file:</string>
+    <string name="from_local">Da locale</string>
+    <string name="from_url">Da URL</string>
+    <string name="image_info">Dettagli immagine</string>
+    <string name="image_list">Elenco immagini</string>
+    <string name="image_name">Nome immagine</string>
+    <string name="image_sha256">Controllo SHA256</string>
+    <string name="image_size">Dimensione immagine</string>
+    <string name="in_progress">In corso</string>
+    <string name="indeterminate">Elemento parzialmente controllato</string>
+    <string name="input">File</string>
+    <string name="not_selected">Non selezionato</string>
+    <string name="ota_info">Informazioni OTA</string>
+    <string name="ota_url">URL OTA</string>
+    <string name="parse">Analizza</string>
+    <string name="parse_message">Avvia Analisi</string>
+    <string name="parse_success_message">Analisi riuscita</string>
+    <string name="permission_granted">Autorizzazione concessa</string>
+    <string name="permission_not_granted">Autorizzazione non concessa</string>
+    <string name="permission_summary">È richiesta l\'autorizzazione per la gestione dell\'archiviazione esterna per analizzare il pacchetto OTA locale e la cartella di salvataggio dei file personalizzati</string>
+    <string name="range_end">Fine intervallo</string>
+    <string name="range_start">Inizio intervallo</string>
+    <string name="raw_size">Dimensione non compressa</string>
+    <string name="search">Cerca</string>
+    <string name="security_patch_level">Livello patch sicurezza:</string>
+    <string name="selected">Selezionato</string>
+    <string name="source_code">Codice sorgente: </string>
+    <string name="start_dump_message">Avvia estrazione</string>
+    <string name="state_empty">Vuoto</string>
+    <string name="state_off">Disattivato</string>
+    <string name="state_on">Attivo</string>
+    <string name="storage_permission_required">Concedi autorizzazione di accesso a tutti i file</string>
+    <string name="switch_role">Cambia</string>
+    <string name="tab">Scheda</string>
+    <string name="template_percent">%1$d percento.</string>
+    <string name="url_error_message">L\'URL è vuoto o in un formato sbagliato</string>
+    <string-array name="dropdownOptions">
+        <item>Personalizza User-Agent</item>
+        <item>Personalizza cartella di salvataggio file</item>
+        <item>Informazioni</item>
+    </string-array>	
+</resources>

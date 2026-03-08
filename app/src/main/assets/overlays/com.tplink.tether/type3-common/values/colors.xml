@@ -3,7 +3,7 @@
     <color name="_000E28">#ff000e28</color>
     <color name="_001E42">#ff001e42</color>
     <color name="_002D3F">#ff002d3f</color>
-    <color name="_00487A">#ff003379</color>
+    <color name="_00487A">#ff00487A</color>
     <color name="_005D7B">#ff005d7b</color>
     <color name="_007AFF">#ff007aff</color>
     <color name="_0081DF">#ff0081df</color>
@@ -51,7 +51,7 @@
     <color name="_3D1CD0E6">#3d1cd0e6</color>
     <color name="_3D1D2529">#3d1d2529</color>
     <color name="_3E3E41">#ff3e3e41</color>
-    <color name="_3FE15C">#ff3fe15c</color>
+    <color name="_3FE15C">@*android:color/accent_material_dark</color>
     <color name="_404040">#ff404040</color>
     <color name="_49A2FF">#ff49a2ff</color>
     <color name="_51C85B">@*android:color/accent_material_dark</color>
@@ -87,7 +87,7 @@
     <color name="_FA3232">#fffa3232</color>
     <color name="_FA3737">#fffa3737</color>
     <color name="_FB7D09">#fffb7d09</color>
-    <color name="_FECECFE">#0fececfe</color>
+    <color name="_FECECFE">@*android:color/button_material_light</color>
     <color name="_FF1D2529">#ff1d2529</color>
     <color name="_FF313135">#ff313135</color>
     <color name="_FF34C759">#ff34c759</color>
@@ -218,7 +218,7 @@
     <color name="captive_portal_color_picker_white">#ffffffff</color>
     <color name="captive_portal_color_picker_yellow">#ffffcb00</color>
     <color name="card_background_error">#00ffffff</color>
-    <color name="card_background_night_mode_secondary">#0fececfe</color>
+    <color name="card_background_night_mode_secondary">@*android:color/button_material_light</color>
     <color name="cardview_dark_background">@*android:color/background_dark</color>
     <color name="cardview_light_background">#ffffffff</color>
     <color name="cardview_shadow_end_color">#03000000</color>
@@ -306,7 +306,7 @@
     <color name="dashboard_topo_status">@*android:color/background_dark</color>
     <color name="dashboard_wireless_gap_bg">#19a7a9ac</color>
     <color name="data_center_card_bg">#880e4f</color>
-    <color name="data_center_inner_card_bg">#0fececfe</color>
+    <color name="data_center_inner_card_bg">@*android:color/button_material_light</color>
     <color name="data_center_most_played_end">#ff55d22f</color>
     <color name="data_center_most_played_start">#ff00d6e2</color>
     <color name="data_center_pie_1">#ffec407a</color>
@@ -783,7 +783,7 @@
     <color name="mp_ad_eco_mode_off_stick_color">#ffe9e9e9</color>
     <color name="mp_ad_eco_start_now_color">#ff0086ff</color>
     <color name="mp_hs_security_norton_color_tips_bg">#1fff9500</color>
-    <color name="mp_hs_security_norton_shape_rect_norton_security_antivirus_bg">#141cd0e6</color>
+    <color name="mp_hs_security_norton_shape_rect_norton_security_antivirus_bg">@*android:color/button_material_light</color>
     <color name="mp_hs_subscription_shield_bg">#ffc7f2f9</color>
     <color name="mp_light_gray">#ffa7a9ac</color>
     <color name="mp_re_color_bar_chart_high_line">#ffa3a4a7</color>
@@ -1001,7 +1001,7 @@
     <color name="screen_control_FFFFFF_alpha40">#66ffffff</color>
     <color name="screen_control_FFFFFF_alpha6">#0fffffff</color>
     <color name="screen_control_FFFFFF_alpha8">#14ffffff</color>
-    <color name="screen_control_dialog_bg">#ff2d2d31</color>
+    <color name="screen_control_dialog_bg">@*android:color/button_material_light</color>
     <color name="scroll_layout_bg_gray">#fff6f6f6</color>
     <color name="secondary_text_color_no_skin">#661d2529</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
@@ -1368,7 +1368,7 @@
     <color name="tpds_color_card_view_button_background">#ff4af4d6</color>
     <color name="tpds_color_control_activated">#ff1cd0e6</color>
     <color name="tpds_color_control_activated_highcontrast">@*android:color/accent_material_dark</color>
-    <color name="tpds_color_error">#ffe23434</color>
+    <color name="tpds_color_error">@*android:color/accent_material_dark</color>
     <color name="tpds_color_error_highcontrast">#ff881f1f</color>
     <color name="tpds_color_label_primary_container">#ff0088e3</color>
     <color name="tpds_color_label_primary_highcontrast">#ff0069bf</color>

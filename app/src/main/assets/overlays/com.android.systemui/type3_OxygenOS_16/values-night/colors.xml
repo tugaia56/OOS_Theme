@@ -325,7 +325,6 @@
     <color name="coui_color_violet">@*android:color/accent_material_dark</color>
     <color name="coui_color_yellow">@*android:color/accent_material_dark</color>
     <color name="coui_color_yellow_variant">@*android:color/accent_material_dark</color>
-    <color name="coui_list_dialog_background_color_no_blur">@*android:color/background_dark</color>
     <color name="coui_list_selector_color_pressed">#1affffff</color>
     <color name="coui_list_text_color_large_disabled">#26ffffff</color>
     <color name="coui_list_text_color_large_normal">#ffffffff</color>
@@ -378,6 +377,7 @@
     <color name="flashback_stroke_line_color">#0fffffff</color>
     <color name="fp_ql_icon_filter">#33ffffff</color>
     <color name="fp_ql_layout_bg">#ffffffff</color>
+    <color name="keyboard_shortcuts_divider_line_color">#33ffffff</color>
     <color name="keyboard_shortcuts_guide_background">#fa3c3c3c</color>
     <color name="keyboard_shortcuts_icon_bg_color">#1affffff</color>
     <color name="keyboard_shortcuts_item_background">@*android:color/background_dark</color>
@@ -402,8 +402,6 @@
     <color name="media_panel_bg_blur">#c0282828</color>
     <color name="media_panel_text_primary">#d9ffffff</color>
     <color name="nav_bar_background_opaque">@*android:color/background_dark</color>
-    <color name="oneplus_qs_smalltile_bg_color_inactive">#1affffff</color>
-    <color name="oos_two_tone_bright_accent_color">#e5ffffff</color>
     <color name="op_pm_qs_container_bg">@*android:color/background_dark</color>
     <color name="op_stroke">@*android:color/accent_material_dark</color>
     <color name="oplus_biometric_custom_list_content_view_bg_color">#14ffffff</color>
@@ -434,7 +432,6 @@
     <color name="qs_detail_dialog_bg_color">#4d525252</color>
     <color name="qs_detail_dialog_fg_color">#b3262626</color>
     <color name="qs_edit_personal_color">#1affffff</color>
-    <color name="qs_flashlight_secondary_brightness_base">@*android:color/group_button_dialog_pressed_holo_light</color>
     <color name="qs_flashlight_secondary_brightness_border_off">#4dffffff</color>
     <color name="qs_flashlight_secondary_brightness_border_on">#4d000000</color>
     <color name="qs_flashlight_secondary_brightness_off">#33ffffff</color>
@@ -442,7 +439,6 @@
     <color name="qs_mode_dialog_description_color">#8affffff</color>
     <color name="qs_mode_dialog_title_color">#e6ffffff</color>
     <color name="qs_mode_unselected_color">#8affffff</color>
-    <color name="qs_panel_media_fg_color">#b3262626</color>
     <color name="qs_panel_view_bg_color">#4d525252</color>
     <color name="qs_panel_view_fg_color">#73262626</color>
     <color name="qs_seekbar_progress_bg_color">#80838383</color>
@@ -500,6 +496,8 @@
     <color name="shade_scrim_background_dark">@*android:color/system_weather_temp_dark</color>
     <color name="shortcut_content_text_color">#a8ffffff</color>
     <color name="shortcut_title_text_color">#e6ffffff</color>
+    <color name="shortcuts_key_text_background">#26ffffff</color>
+    <color name="shortcuts_key_text_color">#e6ffffff</color>
     <color name="sku_security_keyboard_bg_top_color">@*android:color/background_dark</color>
     <color name="sku_security_keyboard_go_label_text_color_normal">@*android:color/background_dark</color>
     <color name="sku_shader_blue">#071e425f</color>
@@ -507,8 +505,9 @@
     <color name="sku_shader_white">#2b2d3340</color>
     <color name="sku_unlock_keyboard_label_text_color_normal">@*android:color/background_dark</color>
     <color name="split_enter_normal_dim_color">@*android:color/background_dark</color>
-    <color name="status_bar_oneplus_media_icon_color_active">#e6ffffff</color>
-    <color name="status_bar_oneplus_media_icon_color_inactive">#1affffff</color>
+    <color name="stacked_notification_musk_color">#14ffffff</color>
+    <color name="stacked_notification_musk_color_half">#0affffff</color>
+    <color name="start_notification_splash_window_color">@*android:color/background_dark</color>
     <color name="status_bar_qs_breathlight_detail_empty_title">#e6ffffff</color>
     <color name="status_bar_qs_brightness_slider_mirror_bg_color">@*android:color/background_leanback_dark</color>
     <color name="status_bar_qs_brightness_slider_mirror_progress_color">@*android:color/accent_material_dark</color>			<!-- barra progresso luminosità premuta -->
@@ -526,7 +525,7 @@
     <color name="status_bar_qs_footer_clock">#e6ffffff</color>
     <color name="status_bar_qs_footer_date">#e6ffffff</color>
     <color name="status_bar_qs_footer_edit_button_selector_color">#e6ffffff</color>
-    <color name="status_bar_qs_footer_text_color">@*android:color/accent_material_dark</color>
+    <color name="status_bar_qs_footer_text_color">#e6ffffff</color>	<!-- orologio qs -->
     <color name="status_bar_qs_setting_icon_color">#e6ffffff</color>
     <color name="status_bar_qs_tile_bg_color_media">#ff272828</color>
     <color name="status_bar_qs_tile_icon_color_inactive">#e5ffffff</color>

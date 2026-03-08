@@ -59,8 +59,8 @@
     <string name="credits">Applicazione scritta da</string>
     <string name="credits_content">Team de Witt, Iscle</string>
     <string name="delete">Elimina</string>
-<string name="delete_preset">Elimina %s</string>
- <string name="deleted">%s è stato eliminato</string>
+    <string name="delete_preset">Elimina %s</string>
+    <string name="deleted">%s è stato eliminato</string>
     <string name="description_36868">"&lt;p>Abilita o disabilita gli effetti sonori dell'app ViPER, che migliorano la qualità audio. Tra questi effetti c'è il limitatore Master, utilizzato per prevenire la distorsione causata da volumi molto alti. Aiuta a mantenere l\'audio nitido regolando automaticamente i picchi di volume.&lt;/p>
 
 &lt;br>
@@ -80,19 +80,19 @@
 &lt;br>
 
 &lt;p>Il limite di soglia definisce l\'ampiezza massima che la forma d\'onda può raggiungere, agendo come un limitatore. Il valore di 0 dB rappresenta il volume massimo senza distorsione. Regolando questo limite su valori più bassi si ottiene una compressione più aggressiva delle frequenze audio, utile per evitare picchi di volume indesiderati e mantenere una qualità del suono bilanciata.&lt;/p>"</string>
-<string name="description_65538" formatted="false">&lt;p>Una volta caricata una risposta all\'impulso, la musica mostrerà le stesse caratteristiche del campione caricato.&lt;/p>&lt;br/> &lt;p>&lt;h5>Crosschannel&lt;/h5>&lt;/p>&lt;p>Esegue l\'upmix stereo in quad-channel, in questo modo:&lt;/p> &lt;p>Canale 1: canale sinistro&lt;/p> &lt;p>Canale 2: x% del canale destro&lt;/p> &lt;p>Canale 3: x% del canale sinistro&lt;/p> &lt;p>Canale 4: canale destro&lt;/p> &lt;p>(x = crosschannel value)&lt;/p> &lt;br/> &lt;p>Questo parametro non ha effetto quando si utilizzano risposte impulsive a quattro canali&lt;/p></string>
-<string name="description_65544">&lt;p>Effetto Virtual Headphone Surround&lt;/p>&lt;br/> &lt;p>&lt;h5>Livello&lt;/h5>&lt;/p>&lt;p>Intensità di VHS+&lt;/p></string>
-<string name="description_65546">"&lt;p>Questa funzione consente agli utenti di caricare file di correzione delle cuffie VDC. Questi file sono specifici per ogni modello di cuffia e vengono utilizzati per regolare la risposta in frequenza dell\'audio riprodotto. L\'obiettivo è neutralizzare la risposta in frequenza delle cuffie, assicurando che bassi, medi e alti vengano riprodotti in modo bilanciato senza eccessiva enfasi su una gamma particolare. Ciò si traduce in un suono più fedele e simile alle cuffie di riferimento, progettate per fornire una riproduzione del suono neutra e accurata.&lt;/p>
+    <string name="description_65538" formatted="false">&lt;p>Una volta caricata una risposta all\'impulso, la musica mostrerà le stesse caratteristiche del campione caricato.&lt;/p>&lt;br/> &lt;p>&lt;h5>Crosschannel&lt;/h5>&lt;/p>&lt;p>Esegue l\'upmix stereo in quad-channel, in questo modo:&lt;/p> &lt;p>Canale 1: canale sinistro&lt;/p> &lt;p>Canale 2: x% del canale destro&lt;/p> &lt;p>Canale 3: x% del canale sinistro&lt;/p> &lt;p>Canale 4: canale destro&lt;/p> &lt;p>(x = crosschannel value)&lt;/p> &lt;br/> &lt;p>Questo parametro non ha effetto quando si utilizzano risposte impulsive a quattro canali&lt;/p></string>
+    <string name="description_65544">&lt;p>Effetto Virtual Headphone Surround&lt;/p>&lt;br/> &lt;p>&lt;h5>Livello&lt;/h5>&lt;/p>&lt;p>Intensità di VHS+&lt;/p></string>
+    <string name="description_65546">"&lt;p>Questa funzione consente agli utenti di caricare file di correzione delle cuffie VDC. Questi file sono specifici per ogni modello di cuffia e vengono utilizzati per regolare la risposta in frequenza dell\'audio riprodotto. L\'obiettivo è neutralizzare la risposta in frequenza delle cuffie, assicurando che bassi, medi e alti vengano riprodotti in modo bilanciato senza eccessiva enfasi su una gamma particolare. Ciò si traduce in un suono più fedele e simile alle cuffie di riferimento, progettate per fornire una riproduzione del suono neutra e accurata.&lt;/p>
 
 &lt;br>
 &lt;p>I file di correzione VDC si basano su filtri di equalizzazione parametrici. Questi filtri consentono regolazioni molto precise della risposta in frequenza modificando diverse bande di frequenza in base alle esigenze specifiche delle cuffie. Oltre alla correzione della risposta in frequenza, i file DDC possono essere utilizzati anche per regolazioni non correttive, come la modifica delle caratteristiche del suono per adattarle alle preferenze personali o ad ambienti specifici.&lt;/p>"</string>
-<string name="description_65548">"&lt;p>Questa funzione migliora la qualità della tua musica, facendola suonare come se avesse una qualità \"lossless\", migliorando in particolare le alte frequenze. Ciò è utile per recuperare dettagli fini nella musica che potrebbero essere persi nei file audio compressi (lossy), come MP3 o AAC.&lt;/p>
+    <string name="description_65548">"&lt;p>Questa funzione migliora la qualità della tua musica, facendola suonare come se avesse una qualità \"lossless\", migliorando in particolare le alte frequenze. Ciò è utile per recuperare dettagli fini nella musica che potrebbero essere persi nei file audio compressi (lossy), come MP3 o AAC.&lt;/p>
 &lt;br>
 &lt;p>Il sistema calcola le frequenze dello spettro audio perse a causa della compressione e tenta di ricostruirle. Abilitando questa funzione, lo spettro audio verrà ricostruito per recuperare le alte frequenze nell\'intervallo da 16 kHz a 22 kHz che potrebbero essere state ridotte o eliminate dalla compressione. Questa tecnica è simile a quella offerta da DSEE (Digital Sound Enhancement Engine) di Sony, che mira anche a migliorare la qualità dell\'audio compresso.&lt;/p>"</string>
-<string name="description_65551">"&lt;p>L\'equalizzatore è un filtro FIR (Finite Impulse Response) lineare a 10 bande con un ordine di 511. Ciò significa che l\'equalizzatore ha 10 bande di frequenza regolabili, ciascuna con risposta precisa, grazie all\'uso di un filtro FIR di ordine elevato.&lt;/p>
+    <string name="description_65551">"&lt;p>L\'equalizzatore è un filtro FIR (Finite Impulse Response) lineare a 10 bande con un ordine di 511. Ciò significa che l\'equalizzatore ha 10 bande di frequenza regolabili, ciascuna con risposta precisa, grazie all\'uso di un filtro FIR di ordine elevato.&lt;/p>
 &lt;br>
 &lt;p>Questo equalizzatore consente di regolare i livelli di amplificazione e attenuazione di ciascuna delle 10 bande di frequenza individualmente. In questo modo, puoi personalizzare la risposta in frequenza dell\'audio in base alle tue preferenze, enfatizzando o riducendo intervalli di frequenza specifici per ottenere la qualità del suono desiderata.&lt;/p>"</string>
-<string name="description_65553">"&lt;p>Questa funzione crea effetti sonori surround, offrendo un\'esperienza di ascolto più immersiva. Il campo sonoro può essere configurato come mono o stereo, a seconda delle tue preferenze e del tipo di audio.&lt;/p>
+    <string name="description_65553">"&lt;p>Questa funzione crea effetti sonori surround, offrendo un\'esperienza di ascolto più immersiva. Il campo sonoro può essere configurato come mono o stereo, a seconda delle tue preferenze e del tipo di audio.&lt;/p>
 
 &lt;br>
 &lt;h5>Intensità surround&lt;/h5>
@@ -105,7 +105,7 @@
 &lt;br>
 
 &lt;p>Questa impostazione regola la chiarezza della vocalizzazione centrale. Con un\'intensità maggiore, il suono centrale, come la voce principale in una canzone o in un film, sarà più chiaro e più prominente. Con un\'intensità inferiore, il suono centrale avrà una qualità più eterea e diffusa.&lt;/p>"</string>
-<string name="description_65557">"&lt;p>Conosciuto anche come effetto precedenza o effetto Haas, questo fenomeno è stato descritto per la prima volta nel 1949. Secondo la legge scoperta, quando un suono è seguito da un altro con un ritardo di circa 40 ms o meno (al di sotto della soglia di eco percepita dall\'orecchio umano), entrambi i suoni vengono percepiti come un singolo suono.&lt;/p>
+    <string name="description_65557">"&lt;p>Conosciuto anche come effetto precedenza o effetto Haas, questo fenomeno è stato descritto per la prima volta nel 1949. Secondo la legge scoperta, quando un suono è seguito da un altro con un ritardo di circa 40 ms o meno (al di sotto della soglia di eco percepita dall\'orecchio umano), entrambi i suoni vengono percepiti come un singolo suono.&lt;/p>
 
 &lt;br>
 &lt;p>Questo effetto è correlato al modo in cui determiniamo la posizione spaziale del suono. Quando due rumori vengono presentati con un ritardo molto breve tra loro, il cervello li percepisce come un\'unica sorgente sonora. La posizione spaziale è determinata in base al primo suono dominante che viene udito, indipendentemente dalla posizione del secondo suono.&lt;/p>
@@ -115,7 +115,7 @@
 &lt;br>
 
 &lt;p>Questa impostazione definisce il ritardo tra i canali sinistro e destro. Maggiore è il ritardo, più ampio è l\'effetto spaziale del suono, creando un senso di maggiore profondità e separazione tra i canali sinistro e destro.&lt;/p>"</string>
-<string name="description_65559">"&lt;p>Il riverbero è un fenomeno sonoro che si verifica quando il suono si riflette sulle superfici di un ambiente, creando più ripetizioni che raggiungono l\'orecchio in momenti leggermente diversi, dando l\'impressione che il suono persista per un certo periodo dopo che la sorgente sonora originale si è fermata. Nell\'ingegneria del suono, la simulazione del riverbero viene utilizzata per replicare la sensazione acustica di diversi ambienti, come auditorium, salotti, bagni, tra gli altri.&lt;/p>
+    <string name="description_65559">"&lt;p>Il riverbero è un fenomeno sonoro che si verifica quando il suono si riflette sulle superfici di un ambiente, creando più ripetizioni che raggiungono l\'orecchio in momenti leggermente diversi, dando l\'impressione che il suono persista per un certo periodo dopo che la sorgente sonora originale si è fermata. Nell\'ingegneria del suono, la simulazione del riverbero viene utilizzata per replicare la sensazione acustica di diversi ambienti, come auditorium, salotti, bagni, tra gli altri.&lt;/p>
 
 &lt;br>
 &lt;h5>Dimensioni della stanza&lt;/h5>
@@ -148,8 +148,8 @@
 &lt;p>Regola il volume del suono originale senza effetti di riverbero. Un segnale dry più alto mantiene la chiarezza e la definizione della sorgente sonora.&lt;/p>
 
 &lt;p>Per ambienti a bassa umidità, come salotti o auditorium, utilizzare un fattore di smorzamento basso e regolare le dimensioni della stanza e il campo sonoro in base alle esigenze. Per ambienti con elevata umidità, come i bagni, aumentare il fattore di smorzamento per simulare un maggiore assorbimento dell\'eco.&lt;/p>"</string>
-<string name="description_65565">&lt;p>Utilizzato principalmente per controllare, amplificare o attenuare dinamicamente il volume audio.&lt;/p>&lt;br/> &lt;p>&lt;h5>Rapporto di guadagno&lt;/h5>&lt;/p>&lt;p>Il rapporto di guadagno è la velocità di amplificazione o attenuazione, più è forte, più è veloce e più alto è il volume finale. Più è debole, più è lenta la velocità, più ci si avvicina al volume originale.&lt;/p>&lt;br/> &lt;p>&lt;h5>Guadagno massimo&lt;/h5>&lt;/p>&lt;p>Quando il volume è troppo basso, utilizzare questo parametro per aumentare il livello del suono, potrebbe esserci un ingrandimento molto grande. Più alto è il valore, più alto è il volume. Ma anche large amplificherà anche il rumore all\'interno della canzone.&lt;/p>&lt;br/> &lt;p>&lt;h5>Uscita massima&lt;/h5>&lt;/p>&lt;p>Questo valore definisce il volume massimo del suono AGC di riproduzione in dB, maggiore è il valore maggiore è il volume; 0 dB è il massimo.&lt;/p></string>
-<string name="description_65569">"&lt;p>Questa funzione manipola la gamma dinamica del suono, ovvero regola l\'ampiezza dei bassi, degli acuti e la limitazione audio complessiva. Ciò aiuta a bilanciare e controllare le diverse frequenze sonore, garantendo una riproduzione più appropriata e coerente.&lt;/p>
+    <string name="description_65565">&lt;p>Utilizzato principalmente per controllare, amplificare o attenuare dinamicamente il volume audio.&lt;/p>&lt;br/> &lt;p>&lt;h5>Rapporto di guadagno&lt;/h5>&lt;/p>&lt;p>Il rapporto di guadagno è la velocità di amplificazione o attenuazione, più è forte, più è veloce e più alto è il volume finale. Più è debole, più è lenta la velocità, più ci si avvicina al volume originale.&lt;/p>&lt;br/> &lt;p>&lt;h5>Guadagno massimo&lt;/h5>&lt;/p>&lt;p>Quando il volume è troppo basso, utilizzare questo parametro per aumentare il livello del suono, potrebbe esserci un ingrandimento molto grande. Più alto è il valore, più alto è il volume. Ma anche large amplificherà anche il rumore all\'interno della canzone.&lt;/p>&lt;br/> &lt;p>&lt;h5>Uscita massima&lt;/h5>&lt;/p>&lt;p>Questo valore definisce il volume massimo del suono AGC di riproduzione in dB, maggiore è il valore maggiore è il volume; 0 dB è il massimo.&lt;/p></string>
+    <string name="description_65569">"&lt;p>Questa funzione manipola la gamma dinamica del suono, ovvero regola l\'ampiezza dei bassi, degli acuti e la limitazione audio complessiva. Ciò aiuta a bilanciare e controllare le diverse frequenze sonore, garantendo una riproduzione più appropriata e coerente.&lt;/p>
 
 &lt;br>
 &lt;h5>Tipo dispositivo&lt;/h5>
@@ -162,7 +162,7 @@
 &lt;br>
 
 &lt;p>Definisce l\'intensità dei bassi dinamici. Maggiore è l\'intensità impostata, più forti e pronunciati saranno i bassi. Ciò consente di regolare la profondità e l\'impatto dei suoni bassi nell\'audio.&lt;/p>"</string>
-<string name="description_65574">"&lt;p>ViPER Bass sostituisce la funzionalità di ricostruzione audio XHiFi, concentrandosi sul potenziamento dei bassi alle frequenze più basse. Questa tecnologia è progettata per migliorare la profondità e la presenza dei bassi nell\'audio.&lt;/p>
+    <string name="description_65574">"&lt;p>ViPER Bass sostituisce la funzionalità di ricostruzione audio XHiFi, concentrandosi sul potenziamento dei bassi alle frequenze più basse. Questa tecnologia è progettata per migliorare la profondità e la presenza dei bassi nell\'audio.&lt;/p>
 
 &lt;br>
 &lt;h5>Modalità bassi&lt;/h5>
@@ -193,7 +193,7 @@
 &lt;br>
 
 &lt;p>Definisce il volume del potenziamento dei bassi fornito da ViPER Bass. Regola questa impostazione per aumentare o diminuire l\'intensità dei bassi nella riproduzione audio.&lt;/p>"</string>
-<string name="description_65578">"&lt;p>ViPER Clarity sostituisce la funzionalità XHiFi Audio Reconstruction, offrendo un miglioramento della chiarezza audio. Questa tecnologia mira a migliorare la definizione e la nitidezza delle alte frequenze e delle voci nel suono.&lt;/p>
+    <string name="description_65578">"&lt;p>ViPER Clarity sostituisce la funzionalità XHiFi Audio Reconstruction, offrendo un miglioramento della chiarezza audio. Questa tecnologia mira a migliorare la definizione e la nitidezza delle alte frequenze e delle voci nel suono.&lt;/p>
 
 &lt;br>
 &lt;h5>Modalità chiarezza&lt;/h5>
@@ -218,31 +218,31 @@
 &lt;br>
 
 &lt;p>Definisce il volume dell\'effetto di nitidezza fornito da ViPER Clarity. Regola questa impostazione per aumentare o diminuire l\'intensità della chiarezza del tuo audio.&lt;/p>"</string>
-<string name="description_65581">"&lt;p>Questa opzione è progettata per proteggere il sistema uditivo aiutando a prevenire i danni causati da livelli di volume elevati e da un\'esposizione prolungata all\'audio.&lt;/p>
+    <string name="description_65581">"&lt;p>Questa opzione è progettata per proteggere il sistema uditivo aiutando a prevenire i danni causati da livelli di volume elevati e da un\'esposizione prolungata all\'audio.&lt;/p>
 
 &lt;br>
 &lt;h5>Livello binaurale&lt;/h5>
 &lt;br>
 
 &lt;p>Definisce la forza della protezione binaurale. Regola questa impostazione per controllare il livello di protezione fornito alle orecchie, riducendo il potenziale impatto dei suoni forti e migliorando la sicurezza uditiva.&lt;/p>"</string>
-<string name="description_65583">"&lt;p>Questa opzione definisce se l\'effetto del simulatore di valvole è abilitato. Il simulatore di valvole utilizza una simulazione matematica semplificata per emulare l\'effetto sonoro di un amplificatore a valvole, noto per il suo carattere distintivo.&lt;/p>
+    <string name="description_65583">"&lt;p>Questa opzione definisce se l\'effetto del simulatore di valvole è abilitato. Il simulatore di valvole utilizza una simulazione matematica semplificata per emulare l\'effetto sonoro di un amplificatore a valvole, noto per il suo carattere distintivo.&lt;/p>
 
 &lt;br>
 &lt;p>Quando abilitato, il simulatore di valvole ridurrà significativamente le distorsioni armoniche di ordine dispari alle alte frequenze, che sono generalmente associate a un suono più ruvido e meno piacevole. Al contrario, aumenterà le distorsioni armoniche di ordine pari, che sono spesso percepite come più fluide e piacevoli, con conseguente suono più caldo e musicale.&lt;/p>"</string>
-<string name="description_65584">"&lt;p>Questa opzione definisce se è abilitato un effetto amplificatore a transistor a effetto di campo (FET).&lt;/p>
+    <string name="description_65584">"&lt;p>Questa opzione definisce se è abilitato un effetto amplificatore a transistor a effetto di campo (FET).&lt;/p>
 
 &lt;br>
 &lt;h5>AnalogX&lt;/h5>
 &lt;br>
 
 Uses a simplified mathematical simulation to emulate the behavior of a field-effect transistor. This effect is designed to replicate the typical sound characteristics of FET amplifiers, providing a sound that may include a slight harmonic distortion and a distinct tonal quality.&lt;/p>"</string>
-<string name="description_65603">"&lt;p>Ottimizza la qualità audio dell\'altoparlante interno dello smartphone.&lt;/p>
+    <string name="description_65603">"&lt;p>Ottimizza la qualità audio dell\'altoparlante interno dello smartphone.&lt;/p>
 
 &lt;br>
 &lt;p>Questa impostazione equalizza l\'altoparlante interno per fornire un suono più neutro e bilanciato. Regola le frequenze per migliorare la chiarezza e la fedeltà, riducendo le distorsioni e migliorando la qualità complessiva della riproduzione del suono.&lt;/p>"</string>
-<string name="description_65610">&lt;p>Il transistor a effetto di campo (FET) è un tipo di transistor che utilizza un campo elettrico per controllare il flusso di corrente. I FET sono dispositivi con tre terminali: sorgente, gate e drain. I FET controllano il flusso di corrente mediante l\'applicazione di una tensione al gate, che a sua volta altera la conduttività tra drain e sorgente.&lt;/p> &lt;p>ViPER è in grado di simulare questo sistema.&lt;/p>&lt;br/> &lt;p>&lt;h5>Soglia&lt;/h5>&lt;/p>&lt;p>Il controllo della soglia imposta il livello a cui viene attivato l\'effetto di compressione. Solo quando un livello supera la soglia verrà compresso. Se il livello della soglia è impostato a -10 dB, solo i picchi del segnale che si estendono oltre tale livello verrà compresso. Per il resto del tempo, non verrà eseguita alcuna compressione.&lt;/p>&lt;br/> &lt;p>&lt;h5>Rapporto&lt;/h5>&lt;/p>&lt;p>Il rapporto di compressione specifica la quantità di attenuazione da applicare al segnale.&lt;/p>&lt;br/> &lt;p>&lt;h5>Ginocchio&lt;/h5>&lt;/p>&lt;p>Il "ginocchio" si riferisce al modo in cui il compressore passa dallo stato non compresso a quello compresso di un segnale audio che lo attraversa.&lt;/p>&lt;br/> &lt;p>&lt;h5>Attacco&lt;/h5>&lt;/p>&lt;p>Questo si riferisce al tempo necessario al segnale per essere completamente compresso dopo aver superato il livello di soglia.&lt;/p>&lt;br/> &lt;p>&lt;h5>Release&lt;/h5>&lt;/p>&lt;p>Questo è letteralmente l\'opposto del tempo di attacco. Più specificamente, è il tempo che impiega il segnale per passare dallo stato compresso, o attenuato, al segnale originale non compresso. I tempi di rilascio saranno considerevolmente più lunghi dei tempi di attacco.&lt;/p>&lt;br/> &lt;p>&lt;h5>Guadagno&lt;/h5>&lt;/p>&lt;p>Aumenta il volume del risultato&lt;/p>&lt;br/> &lt;p>&lt;h5>Cresta&lt;/h5>&lt;/p>&lt;p>Distanza tra l\'audio più alto e quello elettricamente medio&lt;/p>&lt;br/> &lt;p>&lt;h5>Adattamento&lt;/h5>&lt;/p>&lt;p>Tempo per la media&lt;/p>&lt;br/> &lt;p>&lt;h5>Prevenzione del clipping&lt;/h5>&lt;/p>&lt;p>Per prevenire artefatti di tipo statico quando il volume è troppo alto per lavorare&lt;/p></string>
+    <string name="description_65610">&lt;p>Il transistor a effetto di campo (FET) è un tipo di transistor che utilizza un campo elettrico per controllare il flusso di corrente. I FET sono dispositivi con tre terminali: sorgente, gate e drain. I FET controllano il flusso di corrente mediante l\'applicazione di una tensione al gate, che a sua volta altera la conduttività tra drain e sorgente.&lt;/p> &lt;p>ViPER è in grado di simulare questo sistema.&lt;/p>&lt;br/> &lt;p>&lt;h5>Soglia&lt;/h5>&lt;/p>&lt;p>Il controllo della soglia imposta il livello a cui viene attivato l\'effetto di compressione. Solo quando un livello supera la soglia verrà compresso. Se il livello della soglia è impostato a -10 dB, solo i picchi del segnale che si estendono oltre tale livello verrà compresso. Per il resto del tempo, non verrà eseguita alcuna compressione.&lt;/p>&lt;br/> &lt;p>&lt;h5>Rapporto&lt;/h5>&lt;/p>&lt;p>Il rapporto di compressione specifica la quantità di attenuazione da applicare al segnale.&lt;/p>&lt;br/> &lt;p>&lt;h5>Ginocchio&lt;/h5>&lt;/p>&lt;p>Il "ginocchio" si riferisce al modo in cui il compressore passa dallo stato non compresso a quello compresso di un segnale audio che lo attraversa.&lt;/p>&lt;br/> &lt;p>&lt;h5>Attacco&lt;/h5>&lt;/p>&lt;p>Questo si riferisce al tempo necessario al segnale per essere completamente compresso dopo aver superato il livello di soglia.&lt;/p>&lt;br/> &lt;p>&lt;h5>Release&lt;/h5>&lt;/p>&lt;p>Questo è letteralmente l\'opposto del tempo di attacco. Più specificamente, è il tempo che impiega il segnale per passare dallo stato compresso, o attenuato, al segnale originale non compresso. I tempi di rilascio saranno considerevolmente più lunghi dei tempi di attacco.&lt;/p>&lt;br/> &lt;p>&lt;h5>Guadagno&lt;/h5>&lt;/p>&lt;p>Aumenta il volume del risultato&lt;/p>&lt;br/> &lt;p>&lt;h5>Cresta&lt;/h5>&lt;/p>&lt;p>Distanza tra l\'audio più alto e quello elettricamente medio&lt;/p>&lt;br/> &lt;p>&lt;h5>Adattamento&lt;/h5>&lt;/p>&lt;p>Tempo per la media&lt;/p>&lt;br/> &lt;p>&lt;h5>Prevenzione del clipping&lt;/h5>&lt;/p>&lt;p>Per prevenire artefatti di tipo statico quando il volume è troppo alto per lavorare&lt;/p></string>
     <string name="device_bt_a2dp">Bluetooth</string>
-	<string name="device_headphone">Cuffia</string>
+	    <string name="device_headphone">Cuffia</string>
     <string name="device_hearing_aid">Apparecchio acustico</string>
     <string name="device_speaker">Altoparlante</string>
     <string name="device_unknown">Sconosciuto</string>
@@ -288,6 +288,7 @@ Frequenza di campionamento: %5$d"</string>
     <string name="eq_preset_classical">Classico</string>
     <string name="eq_preset_deep">Profondo</string>
     <string name="eq_preset_flat">Piatto</string>
+    <string name="eq_preset_rnb">R&amp;B</string>
     <string name="eq_preset_rock">Rock</string>
     <string name="eq_preset_small_speakers">Piccoli altoparlanti</string>
     <string name="eq_preset_treble_booster">Amplificatore degli alti</string>
@@ -481,7 +482,7 @@ Frequenza di campionamento: %5$d"</string>
     <string name="viper_devs">ViPER4Android FX</string>
     <string name="wstxda">WSTxda</string>
     <string name="iscle">Iscle</string>
-    <string name="iscle_desc">Driver di reverse engineering</string>
+    <string name="iscle_desc">Driver di decrittazione</string>
     <string name="legacy_mode_summary">Cambia la modalità operativa audio, abilitala se hai problemi con lo stato del driver</string>
     <string name="app_name_launcher">ViperFX</string>
     <string name="processing">Elaborazione</string>

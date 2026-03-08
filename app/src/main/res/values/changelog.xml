@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ThemeChangelog">
-        <item>Version 6.7.0</item>
+        <item>Versione 6.8.0</item>
         <item>ADDED:</item>
         <item>---</item>
         <item>UPDATED:</item>
-        <item>OnePlus Compass v16.1.16</item>
-        <item>Google Authenticator v7.0</item>
-        <item>OnePlus Smartsidebar v16.7.5</item>
-        <item>BoxSync v7.5.6</item>
-        <item>DriveSync v7.5.6</item>
-        <item>DropSync v7.5.6</item>
-        <item>MegaSync v7.5.6</item>
-        <item>OneSync v7.5.6</item>
-        <item>Call Recorder by Skvalex v3.7.0</item>
-        <item>Wa Enhancer v1.5.3-DEV (7786BC4)</item>
-        <item>SwitchAI v3.4.1</item>
+        <item>UI Sistem OOS Numbers and BG PIN Keypad</item>
+        <item>UI Sistem OOS Button Delete Notifications BG</item>
+        <item>Safe v27.3.14</item>
+        <item>Payload Dumper v1.5</item>
+        <item>Google Calendar v2026.08.1</item>
+        <item>REMOVED:</item>
+        <item>TikTok v43.9.3</item>
     </string-array>
 </resources>
