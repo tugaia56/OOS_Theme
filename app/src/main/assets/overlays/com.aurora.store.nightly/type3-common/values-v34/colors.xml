@@ -18,7 +18,7 @@
     <color name="m3_sys_color_dynamic_dark_primary">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_primary_container">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_secondary">@*android:color/accent_material_dark</color>
-    <color name="m3_sys_color_dynamic_dark_secondary_container">@*android:color/accent_material_dark</color>
+    <color name="m3_sys_color_dynamic_dark_secondary_container">@*android:color/ripple_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_surface">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_dark_surface_bright">#43a047</color>
     <color name="m3_sys_color_dynamic_dark_surface_container">@*android:color/background_dark</color>

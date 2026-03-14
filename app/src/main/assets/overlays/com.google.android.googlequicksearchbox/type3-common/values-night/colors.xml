@@ -189,7 +189,7 @@
     <color name="banner_background_attention_medium">#ff333121</color>
     <color name="bud_type_6_dark_haze_background">@*android:color/background_dark</color>
     <color name="bud_type_6_dark_haze_on_background">#ffe3e3e3</color>
-    <color name="bud_type_6_dark_haze_on_primary">@*android:color/accent_material_dark</color>
+    <color name="bud_type_6_dark_haze_on_primary">#ffffffff</color>
     <color name="bud_type_6_dark_haze_on_primary_container">#ffffffff</color>
     <color name="bud_type_6_dark_haze_on_secondary">#ff003355</color>
     <color name="bud_type_6_dark_haze_on_surface">#ffe3e3e3</color>
@@ -212,7 +212,7 @@
     <color name="bud_type_6_mojito_surface_variant">#ff434841</color>
     <color name="bud_type_6_porcelain_white_background">@*android:color/background_dark</color>
     <color name="bud_type_6_porcelain_white_on_background">#ffe3e3e3</color>
-    <color name="bud_type_6_porcelain_white_on_primary">#ff062e6f</color>
+    <color name="bud_type_6_porcelain_white_on_primary">#ffffffff</color>
     <color name="bud_type_6_porcelain_white_on_primary_container">#ffffffff</color>
     <color name="bud_type_6_porcelain_white_on_secondary">#ff003355</color>
     <color name="bud_type_6_porcelain_white_on_surface">#ffe3e3e3</color>
@@ -305,6 +305,7 @@
     <color name="recurrence_header_background">@*android:color/background_dark</color>
     <color name="recurrence_picker_background">@*android:color/background_dark</color>
     <color name="recurrence_spinner_text_color_normal">@*android:color/white</color>
+    <color name="sds_sys_color_divider_default">#ff515457</color>
     <color name="searchbox_fusebox_placeholder_text_color">#99e3e3e3</color>
     <color name="searchbox_rich_answer_attribution">@*android:color/background_leanback_dark</color>
     <color name="searchbox_rich_answer_container_background">@*android:color/background_dark</color>

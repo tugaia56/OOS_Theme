@@ -304,7 +304,7 @@
     <string name="external_cache_str">Cache esterne</string>
     <string name="external_data_backup_service_notification_channel_desc">Notifica relativa al processo di backup auto(pianificato) di pacchetti di dati esterni.</string>
     <string name="external_data_backup_service_notification_channel_name">Notifica di backup dei dati esterni pianificata</string>
-    <string name="extras_group_name"><font color="#666666">Extra</font></string>
+    <string name="extras_group_name"><font color="#908dff">Extra</font></string>
     <string name="facebook_str">Facebook</string>
     <string name="file_too_large">File troppo grande</string>
     <string name="files_or_data_encrypted_with_current_pin_can_not_be_restored_or_decrypted_with_another_pin">I file o dati crittografati con il PIN corrente non sono ripristinabili né decrittografabili con altri PIN.</string>
@@ -701,7 +701,7 @@ Dopo aver completato il ripristino, ti chiederemo nuovamente di cambiarlo nell'a
     <string name="tmi1_title">Cerca</string>
     <string name="tmi2_title">Ordine/Ordina opzioni</string>
     <string name="tmi3_title">Opzioni di filtro</string>
-    <string name="tools_group_name"><font color="#666666">Strumenti</font></string>
+    <string name="tools_group_name"><font color="#908dff">Strumenti</font></string>
     <string name="total_src_size_str">Dimensione totale della sorgente</string>
     <string name="translations_str">Traduzioni</string>
     <string name="ttl_additional_settings">Impostazioni aggiuntive</string>

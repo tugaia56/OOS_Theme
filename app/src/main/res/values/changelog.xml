@@ -3,13 +3,13 @@
     <string-array name="ThemeChangelog">
         <item>Versione 6.8.0</item>
         <item>ADDED:</item>
-        <item>---</item>
+        <item>Revanced Xposed v1.0.41 (Italian translation)</item>
         <item>UPDATED:</item>
         <item>UI Sistem OOS Numbers and BG PIN Keypad</item>
         <item>UI Sistem OOS Button Delete Notifications BG</item>
         <item>Safe v27.3.14</item>
-        <item>Payload Dumper v1.5</item>
         <item>Google Calendar v2026.08.1</item>
+        <item>Google App v17.9.53</item>
         <item>REMOVED:</item>
         <item>TikTok Overlay</item>
     </string-array>

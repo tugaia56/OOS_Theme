@@ -38,10 +38,6 @@
     <color name="ai_mode_sys_color_brand_surface_container">#fff0f2f5</color>
     <color name="ai_mode_sys_color_brand_surface_container_high">#ffe9ebf0</color>
     <color name="ai_mode_sys_color_brand_surface_container_highest">#ffe1e3e8</color>
-    <color name="ai_mode_sys_color_constant_brand_blue">#ff4285f4</color>
-    <color name="ai_mode_sys_color_constant_brand_green">#ff34a853</color>
-    <color name="ai_mode_sys_color_constant_brand_red">#ffea4335</color>
-    <color name="ai_mode_sys_color_constant_brand_yellow">#fffbbc04</color>
     <color name="ai_mode_sys_color_constant_light">#ffffffff</color>
     <color name="ai_mode_sys_color_on_primary">#ffffffff</color>
     <color name="ai_mode_sys_color_on_scrim">#ffffffff</color>
@@ -170,6 +166,7 @@
     <color name="assistant_gem_ref_palette_green80">#ff80da88</color>
     <color name="assistant_gem_ref_palette_green90">#ffbeefbb</color>
     <color name="assistant_gem_ref_palette_green95">#ffddf8d8</color>
+    <color name="assistant_gem_ref_palette_neutral90">#ffe3e3e3</color>
     <color name="assistant_gem_ref_palette_orange10">#ff321200</color>
     <color name="assistant_gem_ref_palette_orange20">#ff522302</color>
     <color name="assistant_gem_ref_palette_orange30">#ff753403</color>
@@ -179,7 +176,7 @@
     <color name="assistant_gem_ref_palette_orange95">#ffffede1</color>
     <color name="assistant_gem_ref_palette_primary10">#ff041e49</color>
     <color name="assistant_gem_ref_palette_primary100">#ffffffff</color>
-    <color name="assistant_gem_ref_palette_primary20">@*android:color/accent_material_dark</color>
+    <color name="assistant_gem_ref_palette_primary20">#ffffffff</color>
     <color name="assistant_gem_ref_palette_primary40">@*android:color/accent_material_dark</color>
     <color name="assistant_gem_ref_palette_primary80">@*android:color/accent_material_dark</color>
     <color name="assistant_gem_ref_palette_primary95">#ffecf3fe</color>
@@ -197,7 +194,7 @@
     <color name="assistant_gem_sys_color_dark_inverse_surface">#ffe3e3e3</color>
     <color name="assistant_gem_sys_color_dark_on_error">#ffffffff</color>
     <color name="assistant_gem_sys_color_dark_on_error_container">#fff9dedc</color>
-    <color name="assistant_gem_sys_color_dark_on_primary">@*android:color/accent_material_dark</color>
+    <color name="assistant_gem_sys_color_dark_on_primary">#ffffffff</color>
     <color name="assistant_gem_sys_color_dark_on_primary_container">#ffffffff</color>
     <color name="assistant_gem_sys_color_dark_on_primary_container_emphasis_1">#ffbbc3ff</color>
     <color name="assistant_gem_sys_color_dark_on_primary_emphasis_1">#ff311f77</color>
@@ -319,6 +316,9 @@
     <color name="assistant_hotword_sensitivity_seek_bar_tick_mark_color">#ff7ca8ea</color>
     <color name="assistant_hotword_sensitivity_seek_bar_tick_mark_color_disabled">#ffc8c8c8</color>
     <color name="assistant_interpreter_header_theme">#ffffb94e</color>
+    <color name="assistant_labs_gradient_end_color">#ffe6d5fe</color>
+    <color name="assistant_labs_gradient_start_color">#ffd2e3ff</color>
+    <color name="assistant_labs_icon_tint_color">#ff7048e8</color>
     <color name="assistant_light_color">#ffffffff</color>
     <color name="assistant_line_chart_background_color">@*android:color/transparent</color>
     <color name="assistant_line_chart_gradient_end_color">#001e8e3e</color>
@@ -358,6 +358,8 @@
     <color name="assistant_robin_error_icon_background_color">#fff9dedc</color>
     <color name="assistant_robin_error_icon_color">@*android:color/accent_material_dark</color>
     <color name="assistant_robin_extensions_consent_logo_divider_color">#ffd9d9d9</color>
+    <color name="assistant_robin_fab_shadow_ambient_color">@*android:color/background_dark</color>
+    <color name="assistant_robin_fab_shadow_spot_color">@*android:color/background_dark</color>
     <color name="assistant_robin_floaty_background_preview_scrim_color_dark">#ff878787</color>
     <color name="assistant_robin_floaty_background_preview_scrim_color_light">@*android:color/background_dark</color>
     <color name="assistant_robin_floaty_live_page_button_background">#66131314</color>
@@ -366,9 +368,9 @@
     <color name="assistant_robin_gemini_live_video_animation_blue80">#ff4e8ff8</color>
     <color name="assistant_robin_gemini_live_video_animation_blue90">#ff76acff</color>
     <color name="assistant_robin_gemini_live_video_animation_blue98">#ffd0e4ff</color>
-    <color name="assistant_robin_ic_activity_background">#ffffffff</color>
     <color name="assistant_robin_imagepreview_drawing_stroke_color">@*android:color/white</color>
-    <color name="assistant_robin_imagepreview_region_mask_color">#661b2029</color>
+    <color name="assistant_robin_imagepreview_region_mask_color">#66202124</color>
+    <color name="assistant_robin_in_chat_stroke">@*android:color/accent_material_dark</color>
     <color name="assistant_robin_live_default_background_color">@*android:color/accent_material_dark</color>
     <color name="assistant_robin_screen_edge_glow_aurora_blue">#ff60c1ff</color>
     <color name="assistant_robin_screen_edge_glow_aurora_green">#ff00af57</color>
@@ -400,17 +402,11 @@
     <color name="assistant_settings_window_background">@*android:color/white</color>
     <color name="assistant_text_color">#ffffffff</color>
     <color name="assistant_text_shadow">#dd000000</color>
-    <color name="assistant_tky_black_8p">#14000000</color>
-    <color name="assistant_tky_white_10p">#19ffffff</color>
-    <color name="assistant_weather_widget_button_background">@*android:color/system_accent1_200</color>
-    <color name="assistant_weather_widget_button_text_color">@*android:color/system_accent1_900</color>
     <color name="assistant_widget_main_window_bg">#a8ffffff</color>
     <color name="assistant_widget_main_window_solid_bg">#ffffffff</color>
     <color name="assistant_widget_side_panel_bg">#ff004c69</color>
     <color name="assistant_widget_side_panel_text">#ffc1e8ff</color>
     <color name="assistant_widget_transparent_bg_outline">#ff70777c</color>
-    <color name="asst_tablet_sys_color_overlay_white_opacity_20">#33ffffff</color>
-    <color name="asst_tablet_sys_color_transparent">#00000000</color>
     <color name="background_floating_material_light">@*android:color/white</color>
     <color name="banner_accent_attention_high">#ffbb3322</color>
     <color name="banner_accent_attention_low">#ff1d7233</color>
@@ -770,7 +766,7 @@
     <color name="gm3_ref_palette_neutral_variant90">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_primary10">#ff041e49</color>
     <color name="gm3_ref_palette_primary100">#ffffffff</color>
-    <color name="gm3_ref_palette_primary20">@*android:color/accent_material_dark</color>
+    <color name="gm3_ref_palette_primary20">#ffffffff</color>
     <color name="gm3_ref_palette_primary30">#ff0842a0</color>
     <color name="gm3_ref_palette_primary40">@*android:color/accent_material_dark</color>
     <color name="gm3_ref_palette_primary50">#ff1b6ef3</color>
@@ -957,7 +953,7 @@
     <color name="kitt_greeting_color_2">#ff987be9</color>
     <color name="kitt_greeting_color_3">#ffd96570</color>
     <color name="kitt_mic_disabled">@*android:color/ripple_material_dark</color>
-    <color name="kitt_mic_enabled">@*android:color/accent_material_dark</color>
+    <color name="kitt_mic_enabled">#ffffffff</color>
     <color name="kitt_processing_color_1">#ff2e64de</color>
     <color name="kitt_processing_color_2">#ff3c8fe3</color>
     <color name="kitt_processing_color_3">#ff7882e7</color>
@@ -996,9 +992,9 @@
     <color name="legacy_sds_sys_color_brand_on_surface_light">#ff001d35</color>
     <color name="legacy_sds_sys_color_brand_outline_variant_dark">#ff757fa4</color>
     <color name="legacy_sds_sys_color_brand_outline_variant_light">#ff638ed4</color>
-    <color name="legacy_sds_sys_color_brand_surface_container_high_dark">#ff2c303d</color>
+    <color name="legacy_sds_sys_color_brand_surface_container_high_dark">@*android:color/background_dark</color>
     <color name="legacy_sds_sys_color_brand_surface_container_high_light">#ffe5edff</color>
-    <color name="legacy_sds_sys_color_brand_surface_container_highest_dark">#ff3a3f50</color>
+    <color name="legacy_sds_sys_color_brand_surface_container_highest_dark">@*android:color/background_dark</color>
     <color name="legacy_sds_sys_color_brand_surface_container_highest_light">#ffffffff</color>
     <color name="legacy_sds_sys_color_brand_surface_container_light">#fff5f8ff</color>
     <color name="legacy_sds_sys_color_divider_default_dark">#ff313335</color>
@@ -1033,14 +1029,14 @@
     <color name="legacy_sds_sys_color_sentiment_negative_light">#ffb3261e</color>
     <color name="legacy_sds_sys_color_shadow_light">#293c4043</color>
     <color name="legacy_sds_sys_color_surface_container_dark">@*android:color/button_material_dark</color>
-    <color name="legacy_sds_sys_color_surface_container_fallback_brand_dark">#ff242832</color>
+    <color name="legacy_sds_sys_color_surface_container_fallback_brand_dark">@*android:color/button_material_dark</color>
     <color name="legacy_sds_sys_color_surface_container_fallback_brand_light">#fff5f8ff</color>
     <color name="legacy_sds_sys_color_surface_container_high_dark">@*android:color/button_material_dark</color>
     <color name="legacy_sds_sys_color_surface_container_high_fallback_brand_dark">#ff2c303d</color>
     <color name="legacy_sds_sys_color_surface_container_high_fallback_brand_light">#ffe5edff</color>
     <color name="legacy_sds_sys_color_surface_container_high_light">#fff3f5f6</color>
-    <color name="legacy_sds_sys_color_surface_container_highest_dark">#ff3a3f50</color>
-    <color name="legacy_sds_sys_color_surface_container_highest_fallback_brand_dark">#ff3a3f50</color>
+    <color name="legacy_sds_sys_color_surface_container_highest_dark">@*android:color/background_dark</color>
+    <color name="legacy_sds_sys_color_surface_container_highest_fallback_brand_dark">@*android:color/background_dark</color>
     <color name="legacy_sds_sys_color_surface_container_highest_fallback_brand_light">#ffffffff</color>
     <color name="legacy_sds_sys_color_surface_container_highest_light">#ffdee1e3</color>
     <color name="legacy_sds_sys_color_surface_container_light">#fff3f5f6</color>
@@ -1609,7 +1605,10 @@
     <color name="xgads_sys_color_constant_brand_red">#ffea4335</color>
     <color name="xgads_sys_color_constant_brand_yellow">#fffbbc04</color>
     <color name="xgads_sys_color_constant_dark">@*android:color/background_dark</color>
+    <color name="xgads_sys_color_constant_light">#ffffffff</color>
     <color name="xgads_sys_color_constant_on_dark">#ffffffff</color>
+    <color name="xgads_sys_color_constant_on_light">@*android:color/background_dark</color>
+    <color name="xgads_sys_color_gradient_scrim_end">#bf171717</color>
     <color name="xgads_sys_color_on_primary">#ffffffff</color>
     <color name="xgads_sys_color_on_scrim">#ffffffff</color>
     <color name="xgads_sys_color_on_surface_de_emphasis">@*android:color/button_material_dark</color>
@@ -1640,4 +1639,5 @@
     <color name="xgads_sys_color_surface_container_highest_ice_vibrant">#ffc6e8f5</color>
     <color name="xgads_sys_color_surface_elevated">#ffffffff</color>
     <color name="xgads_sys_color_surface_inverted">@*android:color/background_dark</color>
+    <color name="xgads_sys_color_transparent">#00000000</color>
 </resources>
