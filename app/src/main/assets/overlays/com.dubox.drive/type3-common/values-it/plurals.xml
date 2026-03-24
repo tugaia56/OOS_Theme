@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avanzamento rapido di %d secondi</item>
+        <item quantity="one">Avanzamento rapido di %d secondi</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Riavvolgi %d secondi</item>
+        <item quantity="one">Riavvolgi %d secondi</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nuove notifiche</item>
+        <item quantity="one">%d nuova notifica</item>
+    </plurals>
+    <plurals name="quantity_strings">
+        <item quantity="other">altro</item>
+        <item quantity="zero">zero</item>
+        <item quantity="one">uno</item>
+        <item quantity="two">due</item>
+        <item quantity="few">pochi</item>
+        <item quantity="many">molti</item>
+    </plurals>
+</resources>

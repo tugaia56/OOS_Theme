@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string-array name="ThemeChangelog">
         <item>Versione 6.8.0</item>
         <item>ADDED:</item>
         <item>Revanced Xposed v1.0.41 (Italian translation)</item>
+        <item>TeraBox v4.13.1</item>
         <item>UPDATED:</item>
         <item>UI Sistem OOS Numbers and BG PIN Keypad</item>
         <item>UI Sistem OOS Button Delete Notifications BG</item>
@@ -12,5 +14,6 @@
         <item>Google App v17.9.53</item>
         <item>REMOVED:</item>
         <item>TikTok Overlay</item>
+        <item>MEGA Overlay</item>
     </string-array>
 </resources>
