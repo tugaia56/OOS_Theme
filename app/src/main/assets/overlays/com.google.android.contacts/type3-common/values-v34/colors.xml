@@ -13,10 +13,10 @@
     <color name="settingslib_materialColorSurfaceContainerHigh">#0d47a1</color>
     <color name="settingslib_materialColorSurfaceContainerHighest">#00ff00</color>
     <color name="settingslib_materialColorSurfaceVariant">#1e88e5</color>
-    <color name="gm3_sys_color_dynamic_dark_background">@*android:color/background_dark</color>
+    <color name="gm3_sys_color_dynamic_dark_background">#00ff00</color>
     <color name="gm3_sys_color_dynamic_dark_inverse_on_surface">@*android:color/ripple_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_inverse_surface">@*android:color/button_material_dark</color>
-    <color name="gm3_sys_color_dynamic_dark_on_background">@*android:color/accent_material_dark</color>
+    <color name="gm3_sys_color_dynamic_dark_on_background">#ffffff</color>											<!-- testo -->
     <color name="gm3_sys_color_dynamic_dark_on_primary">#ffffffff</color>
     <color name="gm3_sys_color_dynamic_dark_on_primary_container">#ffffffff</color>
     <color name="gm3_sys_color_dynamic_dark_on_secondary">#a1887f</color>
@@ -31,12 +31,12 @@
     <color name="gm3_sys_color_dynamic_dark_primary_container">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_secondary">#ffffff</color>
     <color name="gm3_sys_color_dynamic_dark_secondary_container">@*android:color/accent_material_dark</color>
-    <color name="gm3_sys_color_dynamic_dark_surface">@*android:color/background_dark</color>
+    <color name="gm3_sys_color_dynamic_dark_surface">#ff00ff</color>
     <color name="gm3_sys_color_dynamic_dark_surface_bright">@*android:color/button_material_dark</color>
-    <color name="gm3_sys_color_dynamic_dark_surface_container">@*android:color/background_dark</color>
-    <color name="gm3_sys_color_dynamic_dark_surface_container_high">@*android:color/background_dark</color>
-    <color name="gm3_sys_color_dynamic_dark_surface_container_highest">@*android:color/background_dark</color>
-    <color name="gm3_sys_color_dynamic_dark_surface_container_low">@*android:color/background_dark</color>
+    <color name="gm3_sys_color_dynamic_dark_surface_container">@*android:color/background_dark</color>				<!-- sfondo -->
+    <color name="gm3_sys_color_dynamic_dark_surface_container_high">@*android:color/ripple_material_dark</color>
+    <color name="gm3_sys_color_dynamic_dark_surface_container_highest">@*android:color/button_material_dark</color>	<!-- search e navbar -->
+    <color name="gm3_sys_color_dynamic_dark_surface_container_low">#00ffff</color>
     <color name="gm3_sys_color_dynamic_dark_surface_container_lowest">@*android:color/button_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_dim">#ffe57f</color>
     <color name="gm3_sys_color_dynamic_dark_surface_variant">@*android:color/ripple_material_dark</color>
@@ -56,7 +56,7 @@
     <color name="gm3_sys_color_dynamic_light_on_tertiary_container">#f9a825</color>
     <color name="gm3_sys_color_dynamic_light_outline">#fbc02d</color>
     <color name="gm3_sys_color_dynamic_light_outline_variant">#fdd835</color>
-    <color name="gm3_sys_color_dynamic_light_primary">@*android:color/accent_material_dark</color>
+    <color name="gm3_sys_color_dynamic_light_primary">#ff0000</color>
     <color name="gm3_sys_color_dynamic_light_primary_container">#ffee58</color>
     <color name="gm3_sys_color_dynamic_light_secondary">#fff176</color>
     <color name="gm3_sys_color_dynamic_light_secondary_container">#fff59d</color>
@@ -73,7 +73,7 @@
     <color name="gm3_sys_color_dynamic_light_tertiary_container">#d4e157</color>
     <color name="gm3_sys_color_dynamic_on_primary_fixed">#dce775</color>
     <color name="gm3_sys_color_dynamic_on_primary_fixed_variant">#e6ee9c</color>
-    <color name="gm3_sys_color_dynamic_on_secondary_fixed">@*android:color/accent_material_dark</color>
+    <color name="gm3_sys_color_dynamic_on_secondary_fixed">#ff00ff</color>
     <color name="gm3_sys_color_dynamic_on_secondary_fixed_variant">#64dd17</color>
     <color name="gm3_sys_color_dynamic_on_tertiary_fixed">#76ff03</color>
     <color name="gm3_sys_color_dynamic_on_tertiary_fixed_variant">#b2ff59</color>
@@ -83,7 +83,7 @@
     <color name="gm3_sys_color_dynamic_secondary_fixed_dim">#689f38</color>
     <color name="gm3_sys_color_dynamic_tertiary_fixed">#7cb342</color>
     <color name="gm3_sys_color_dynamic_tertiary_fixed_dim">#8bc34a</color>
-    <color name="m3_sys_color_dynamic_dark_background">@*android:color/background_dark</color>
+    <color name="m3_sys_color_dynamic_dark_background">#1b5e20</color>
     <color name="m3_sys_color_dynamic_dark_inverse_on_surface">#aed581</color>
     <color name="m3_sys_color_dynamic_dark_inverse_primary">#c5e1a5</color>
     <color name="m3_sys_color_dynamic_dark_inverse_surface">#dcedc8</color>
@@ -96,7 +96,7 @@
     <color name="m3_sys_color_dynamic_dark_on_surface_variant">#388e3c</color>
     <color name="m3_sys_color_dynamic_dark_on_tertiary">#43a047</color>
     <color name="m3_sys_color_dynamic_dark_on_tertiary_container">#4caf50</color>
-    <color name="m3_sys_color_dynamic_dark_outline">@*android:color/background_dark</color>
+    <color name="m3_sys_color_dynamic_dark_outline">#e65100</color>
     <color name="m3_sys_color_dynamic_dark_outline_variant">#81c784</color>
     <color name="m3_sys_color_dynamic_dark_primary">#a5d6a7</color>
     <color name="m3_sys_color_dynamic_dark_primary_container">#c8e6c9</color>
@@ -155,7 +155,7 @@
     <color name="m3_sys_color_dynamic_secondary_fixed_dim">#ffffffff</color>
     <color name="m3_sys_color_dynamic_tertiary_fixed">#3d5afe</color>
     <color name="m3_sys_color_dynamic_tertiary_fixed_dim">@*android:color/holo_red_dark</color>
-    <color name="settingslib_text_color_primary_device_default">@*android:color/accent_material_dark</color>
+    <color name="settingslib_text_color_primary_device_default">#00ff00</color>
     <color name="settingslib_text_color_secondary_device_default">#ff00ff</color>
     <color name="settingslib_thumb_off_color">#8c9eff</color>
     <color name="settingslib_track_off_color">@*android:color/background_dark</color>

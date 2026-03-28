@@ -7,7 +7,7 @@
     <color name="people_chip_selected_state_background_color">#1eeeeaed</color>
     <color name="photos_assistant_cardui_overlay">#42ffffff</color>
     <color name="photos_cloudstorage_g1notification_styles_alert_background_color">@*android:color/accent_material_dark</color>
-    <color name="photos_cloudstorage_g1notification_styles_alert_filled_button_background_color">#fff2b8b5</color>
+    <color name="photos_cloudstorage_g1notification_styles_alert_filled_button_background_color">@*android:color/accent_material_dark</color>
     <color name="photos_cloudstorage_g1notification_styles_alert_filled_button_text_color">#ff601410</color>
     <color name="photos_cloudstorage_g1notification_styles_alert_outlined_button_text_color">#fff9dedc</color>
     <color name="photos_cloudstorage_g1notification_styles_alert_text_color">#fff9dedc</color>

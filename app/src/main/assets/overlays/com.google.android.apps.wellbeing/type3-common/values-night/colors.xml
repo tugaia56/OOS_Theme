@@ -6,7 +6,7 @@
     <color name="medium_circle_color">#ffa3abc1</color>
     <color name="medium_circle_text_color">@*android:color/background_dark</color>
     <color name="settingslib_materialColorBackground">@*android:color/background_dark</color>
-    <color name="settingslib_materialColorError">#fff2b8b5</color>
+    <color name="settingslib_materialColorError">@*android:color/accent_material_dark</color>
     <color name="settingslib_materialColorErrorContainer">#ff8c1d18</color>
     <color name="settingslib_materialColorOnBackground">#ffe5e2e1</color>
     <color name="settingslib_materialColorOnError">#ff601410</color>

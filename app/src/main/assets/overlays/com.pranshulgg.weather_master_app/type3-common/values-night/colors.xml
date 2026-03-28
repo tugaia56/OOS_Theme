@@ -23,11 +23,11 @@
     <color name="colorTertiary">#ffddbce0</color>
     <color name="colorTertiaryContainer">#ff573e5c</color>
     <color name="glance_colorBackground">#ff1c1b1f</color>
-    <color name="glance_colorError">#fff2b8b5</color>
+    <color name="glance_colorError">@*android:color/accent_material_dark</color>
     <color name="glance_colorErrorContainer">#ff8c1d18</color>
     <color name="glance_colorOnBackground">#ffe6e1e5</color>
     <color name="glance_colorOnError">#ff601410</color>
-    <color name="glance_colorOnErrorContainer">#fff2b8b5</color>
+    <color name="glance_colorOnErrorContainer">@*android:color/accent_material_dark</color>
     <color name="glance_colorOnPrimary">#ff381e72</color>
     <color name="glance_colorOnPrimaryContainer">#ffeaddff</color>
     <color name="glance_colorOnSecondary">#ff332d41</color>

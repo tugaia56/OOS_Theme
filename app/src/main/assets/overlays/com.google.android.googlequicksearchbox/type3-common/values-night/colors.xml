@@ -284,7 +284,7 @@
     <color name="lensient_translate_button_icon_color">@*android:color/background_dark</color>
     <color name="material_google_red_500">@*android:color/accent_material_dark</color>
     <color name="material_grey_white_1000">@*android:color/background_dark</color>
-    <color name="og_consent_color_error">#fff2b8b5</color>
+    <color name="og_consent_color_error">@*android:color/accent_material_dark</color>
     <color name="omnient_education_dialog_scroll_divider">#ff747775</color>
     <color name="permissions_image_hills_color">#ff4b3c73</color>
     <color name="permissions_image_hills_foreground_color_1">#ff3a325b</color>
@@ -366,7 +366,7 @@
     <color name="xgads_sys_color_sentiment_negative_container">#ff8c1d18</color>
     <color name="xgads_sys_color_sentiment_on_negative">@*android:color/accent_material_dark</color>
     <color name="xgads_sys_color_sentiment_on_negative_container">#fff9dedc</color>
-    <color name="xgads_sys_color_sentiment_on_surface_negative">#fff2b8b5</color>
+    <color name="xgads_sys_color_sentiment_on_surface_negative">@*android:color/accent_material_dark</color>
     <color name="xgads_sys_color_shadow">#99171717</color>
     <color name="xgads_sys_color_surface">@*android:color/background_dark</color>
     <color name="xgads_sys_color_surface_container">@*android:color/background_dark</color>

@@ -1,8 +1,12 @@
-OOS Tastiera PIN
-(Predefinito: Bianco e Accento Semitrasparente)\n
+OOS Numeri Tastiera PIN
+(Predefinito: Bianco)\n
+OOS Sfondo Tastiera PIN
+(Predefinito: Accent Semitrasparente)\n
 OOS Icone Attività Statusbar In-Out
 (Predefinito Stock)\n\n\n
-OOS PIN Keypad
-(Default: White and Semi-Transparent Accent)\n
+OOS Numbers PIN Keypad
+(Default: White)\n
+OOS BG PIN Keypad
+(Default: Semi-Transparent Accent)\n
 OOS Task Icons Status Bar In-Out
 (Default: Stock)

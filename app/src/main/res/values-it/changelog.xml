@@ -3,8 +3,9 @@
     <string-array name="ThemeChangelog">
         <item>Versione 6.8.0</item>
         <item>AGGIUNTO:</item>
-        <item>Revanced Xposed v1.0.41 (traduzione Italiano)</item>
+        <item>Revanced Xposed (traduzione Italiano)</item>
         <item>TeraBox v4.13.1</item>
+        <item>HMA-OSS</item>
         <item>MODIFICATO:</item>
         <item>UI Sistem OOS Numbers and BG PIN Keypad</item>
         <item>UI Sistem OOS Button Delete Notifications BG</item>
@@ -14,5 +15,6 @@
         <item>RIMOSSO:</item>
         <item>Sovrapposizione TikTok</item>
         <item>Sovrapposizione MEGA</item>
+        <item>Sovrapposizione APKUpdater</item>
     </string-array>
 </resources>

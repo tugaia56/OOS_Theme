@@ -669,7 +669,7 @@
     <color name="sud_system_background_light">#fff9faf8</color>
     <color name="sud_system_error_container_dark">#ff8c1d18</color>
     <color name="sud_system_error_container_light">#fff9dedc</color>
-    <color name="sud_system_error_dark">#fff2b8b5</color>
+    <color name="sud_system_error_dark">@*android:color/accent_material_dark</color>
     <color name="sud_system_error_light">@*android:color/accent_material_dark</color>
     <color name="sud_system_neutral1_0">#ffffffff</color>
     <color name="sud_system_neutral1_10">#fff0f0f0</color>

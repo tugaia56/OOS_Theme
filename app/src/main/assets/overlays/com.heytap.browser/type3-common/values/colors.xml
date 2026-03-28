@@ -342,7 +342,7 @@
     <color name="barcode_result_weixin_textcolor_nightmd">#ff565656</color>
     <color name="barcode_viewfinder_mask">#7f000000</color>
     <color name="baseline_error_40">#ffb3261e</color>
-    <color name="baseline_error_80">#fff2b8b5</color>
+    <color name="baseline_error_80">@*android:color/accent_material_dark</color>
     <color name="baseline_neutral_0">@*android:color/black</color>
     <color name="baseline_neutral_0_alpha_10">#19000000</color>
     <color name="baseline_neutral_10">@*android:color/background_dark</color>
@@ -2210,7 +2210,7 @@
     <color name="m3_ref_palette_error50">#ffdc362e</color>
     <color name="m3_ref_palette_error60">#ffe46962</color>
     <color name="m3_ref_palette_error70">#ffec928e</color>
-    <color name="m3_ref_palette_error80">#fff2b8b5</color>
+    <color name="m3_ref_palette_error80">@*android:color/accent_material_dark</color>
     <color name="m3_ref_palette_error90">#fff9dedc</color>
     <color name="m3_ref_palette_error95">#fffceeee</color>
     <color name="m3_ref_palette_error99">#fffffbf9</color>

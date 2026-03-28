@@ -1025,7 +1025,7 @@
     <color name="legacy_sds_sys_color_primary_fallback_brand_dark">@*android:color/accent_material_dark</color>
     <color name="legacy_sds_sys_color_primary_fallback_brand_light">@*android:color/accent_material_dark</color>
     <color name="legacy_sds_sys_color_primary_light">@*android:color/accent_material_dark</color>
-    <color name="legacy_sds_sys_color_sentiment_negative_dark">#fff2b8b5</color>
+    <color name="legacy_sds_sys_color_sentiment_negative_dark">@*android:color/accent_material_dark</color>
     <color name="legacy_sds_sys_color_sentiment_negative_light">#ffb3261e</color>
     <color name="legacy_sds_sys_color_shadow_light">#293c4043</color>
     <color name="legacy_sds_sys_color_surface_container_dark">@*android:color/button_material_dark</color>

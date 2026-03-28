@@ -219,7 +219,7 @@
     <color name="gmp_ref_palette_primary95">#ffd2f7ff</color>
     <color name="gmp_ref_palette_primary_tonal">#ff1c2b42</color>
     <color name="gmp_ref_palette_red50">@*android:color/accent_material_dark</color>
-    <color name="gmp_ref_palette_red80">#fff2b8b5</color>
+    <color name="gmp_ref_palette_red80">@*android:color/accent_material_dark</color>
     <color name="gmp_ref_palette_tertiary50">#ff198639</color>
     <color name="gmp_ref_palette_tertiary80">#ff6dd58c</color>
     <color name="gmp_ref_palette_tertiary90">#ffc4eed0</color>
@@ -655,7 +655,7 @@
     <color name="sud_system_background_light">#fff9faf8</color>
     <color name="sud_system_error_container_dark">#ff8c1d18</color>
     <color name="sud_system_error_container_light">#fff9dedc</color>
-    <color name="sud_system_error_dark">#fff2b8b5</color>
+    <color name="sud_system_error_dark">@*android:color/accent_material_dark</color>
     <color name="sud_system_error_light">@*android:color/accent_material_dark</color>
     <color name="sud_system_neutral1_0">#ffffffff</color>
     <color name="sud_system_neutral1_10">#fff0f0f0</color>
