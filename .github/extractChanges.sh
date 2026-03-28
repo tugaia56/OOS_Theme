@@ -37,9 +37,9 @@ head -n -2 < changeLog.md | tee changeLog.md
 # now create telegram msg
 cp changeLog.md telegram.md
 sed -i 's\##\\g' telegram.md
-sed -i 's\Added\**Added**\g' telegram.md
-sed -i 's\Updated\**Updated**\g' telegram.md
-sed -i 's\Removed\**Removed**\g' telegram.md
+sed -i 's\Added\**ADDED:**\g' telegram.md
+sed -i 's\Updated\**UPDATED:**\g' telegram.md
+sed -i 's\Removed\**REMOVED:**\g' telegram.md
 
 echo "*Dark Shadow Theme v$NEWVERNAME released!*" > body.msg
 echo "  " >> body.msg
