@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ThemeChangelog">
-        <item>Versione 6.8.0</item>
+        <item>Versione 6.9.0</item>
         <item>ADDED:</item>
-        <item>Revanced Xposed (Italian translation)</item>
-        <item>TeraBox v4.13.1</item>
-        <item>HMA-OSS</item>
+        <item>AI Painter v16.0.20</item>
+        <item>Multi Windows v2.0.0</item>
+        <item>Content portal v16.5.1</item>
         <item>UPDATED:</item>
-        <item>UI Sistem OOS Numbers and BG PIN Keypad</item>
-        <item>UI Sistem OOS Button Delete Notifications BG</item>
-        <item>Safe v27.3.14</item>
-        <item>Google Calendar v2026.08.1</item>
-        <item>Google App v17.9.53</item>
-        <item>REMOVED:</item>
-        <item>TikTok Overlay</item>
-        <item>MEGA Overlay</item>
-        <item>APKUpdater Overlay</item>
+        <item>System UI Headers OOS 15 BUG FIX</item>
+        <item>SwitchAI v4.0</item>
+        <item>Translate Italian TeraBox</item>
     </string-array>
 </resources>

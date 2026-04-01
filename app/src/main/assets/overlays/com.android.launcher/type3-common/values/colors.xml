@@ -277,7 +277,7 @@
     <color name="chip_unchecked_text_disable_color">#42000000</color>
     <color name="color_background_widget_sheet">#fffafafa</color>
     <color name="color_black">@*android:color/background_dark</color>
-    <color name="color_dialog_root_view_background">#fff0f1f2</color>
+    <color name="color_dialog_root_view_background">@*android:color/background_dark</color>
     <color name="color_effect_anim_view_background">#ffffffff</color>
     <color name="color_lock_setting_popup_background">#fa191919</color>
     <color name="color_lock_setting_popup_color">@*android:color/accent_material_dark</color>
@@ -873,12 +873,12 @@
     <color name="coui_color_blue_variant_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_blue_variant_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_bottom_bar">@*android:color/background_dark</color>
-    <color name="coui_color_card">@*android:color/background_dark</color>
-        <color name="coui_color_card_background">@*android:color/background_dark</color>
-    <color name="coui_color_card_background_dark">@*android:color/background_dark</color>
-    <color name="coui_color_card_background_light">@*android:color/background_dark</color>
-    <color name="coui_color_card_dark">@*android:color/background_dark</color>
-    <color name="coui_color_card_light">@*android:color/background_dark</color>
+    <color name="coui_color_card">@*android:color/button_material_dark</color>
+        <color name="coui_color_card_background">@*android:color/button_material_dark</color>
+    <color name="coui_color_card_background_dark">@*android:color/button_material_dark</color>
+    <color name="coui_color_card_background_light">@*android:color/button_material_dark</color>
+    <color name="coui_color_card_dark">@*android:color/button_material_dark</color>
+    <color name="coui_color_card_light">@*android:color/button_material_dark</color>
     <color name="coui_color_card_pressed">@*android:color/ripple_material_dark</color>
     <color name="coui_color_card_pressed_dark">@*android:color/ripple_material_dark</color>
     <color name="coui_color_card_pressed_light">@*android:color/ripple_material_dark</color>
@@ -1226,7 +1226,7 @@
     <color name="coui_dialog_follow_hand_spot_shadow_color">#52000000</color>
     <color name="coui_dialog_list_background_color_above_blur">@*android:color/transparent</color>
     <color name="coui_dialog_list_background_color_no_blur">#ffffffff</color>
-    <color name="coui_dialog_list_blend_blur">#ff4d4d4d</color>
+    <color name="coui_dialog_list_blend_blur">@*android:color/background_leanback_dark</color>
     <color name="coui_dialog_list_blend_blur_dark">#ff7a7a7a</color>
     <color name="coui_dialog_list_blend_blur_light">@*android:color/button_material_dark</color>
     <color name="coui_dialog_list_mix_blur">#ccb2b2b2</color>
@@ -1368,7 +1368,7 @@
     <color name="coui_popup_list_background_color_no_blur">#ffffffff</color>
     <color name="coui_popup_list_blend_blur">@*android:color/background_leanback_dark</color>
     <color name="coui_popup_list_blend_blur_dark">@*android:color/button_material_dark</color>
-    <color name="coui_popup_list_blend_blur_light">#ff4d4d4d</color>
+    <color name="coui_popup_list_blend_blur_light">@*android:color/background_leanback_dark</color>
     <color name="coui_popup_list_group_divider_color">#14000000</color>
     <color name="coui_popup_list_mix_blur">#ccb2b2b2</color>
     <color name="coui_popup_list_mix_blur_dark">#cc404040</color>
@@ -1543,7 +1543,7 @@
     <color name="coui_transparence">#00000000</color>
     <color name="custom_dialog_negative_button_text_color">@*android:color/background_dark</color>
     <color name="custom_dialog_neutral_button_text_color">@*android:color/accent_material_dark</color>
-    <color name="dark_bg_color_one">#ff383838</color>
+    <color name="dark_bg_color_one">@*android:color/background_dark</color>
     <color name="dark_bg_color_two">#ff151515</color>
     <color name="dark_fg_color_one">#33262c40</color>
     <color name="dark_fg_color_two">#33181c29</color>
@@ -1736,7 +1736,7 @@
     <color name="item_resize_handle_bright_color">#ff808080</color>
     <color name="item_resize_handle_dark_color">#ffffffff</color>
     <color name="item_togglebar_dialog_layout_bg_color">#14000000</color>
-    <color name="item_togglebar_dialog_layout_stroke_color">#ff0066ff</color>
+    <color name="item_togglebar_dialog_layout_stroke_color">@*android:color/accent_material_dark</color>
     <color name="item_togglebar_dialog_layout_text_color">#e6000000</color>
     <color name="launcher_activity_background_color">#fff5f5f5</color>
     <color name="launcher_add_item_text_color">@*android:color/background_dark</color>
@@ -2209,7 +2209,7 @@
     <color name="recommend_dialog_current_text">#8a000000</color>
     <color name="recommend_dialog_icon_color">@*android:color/background_dark</color>
     <color name="recommend_dialog_message_text">@*android:color/background_dark</color>
-    <color name="remind_blend_blur">#ff4d4d4d</color>
+    <color name="remind_blend_blur">@*android:color/background_leanback_dark</color>
     <color name="remind_mixnd_blur">#ccb2b2b2</color>
     <color name="responsive_ui_column_container_color">#26ffbb0e</color>
     <color name="responsive_ui_column_hint_column">#1aff0000</color>
@@ -2284,7 +2284,7 @@
     <color name="tablet_card_selected_background_dark_wallpaper">#66ffffff</color>
     <color name="task_header_menu_hint_point_bg">@*android:color/accent_material_dark</color>
     <color name="taskbar_all_apps_blend_color">@*android:color/button_material_dark</color>
-    <color name="taskbar_all_apps_container_background_color">#fff0f1f2</color>
+    <color name="taskbar_all_apps_container_background_color">@*android:color/background_dark</color>
     <color name="taskbar_all_apps_container_background_color_light">#fff5f5f5</color>
     <color name="taskbar_all_apps_mix_color">#b3ababab</color>
     <color name="taskbar_all_apps_panel_stroke_color">#14000000</color>

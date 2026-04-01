@@ -114,7 +114,7 @@
     <color name="Yellow40Opacity20">#33e5a100</color>
     <color name="Yellow40Opacity25">#40e5a100</color>
     <color name="Yellow40Opacity40">#66e5a100</color>
-    <color name="Yellow50">#ffffb200</color>
+    <color name="Yellow50">@*android:color/accent_material_dark</color>
     <color name="Yellow50Opacity12">#1fffb200</color>
     <color name="Yellow50Opacity15">#26ffb200</color>
     <color name="Yellow50Opacity30">#4dffb200</color>
@@ -547,7 +547,7 @@
     <color name="couiYellowTintColorFocusNormal">#1fffb200</color>
     <color name="couiYellowTintColorFocusOutlineNormal">#66ffb200</color>
     <color name="couiYellowTintControlDisabled">#26000000</color>
-    <color name="couiYellowTintControlNormal">#ffffb200</color>
+    <color name="couiYellowTintControlNormal">@*android:color/accent_material_dark</color>
     <color name="couiYellowTintControlNormalFg">#fffac000</color>
     <color name="couiYellowTintControlPressed">#ffe09d00</color>
     <color name="couiYellowTintLightNormal">#26fac000</color>
@@ -684,9 +684,9 @@
     <color name="coui_color_additional_violet">#ff5a47ff</color>
     <color name="coui_color_additional_violet_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_additional_violet_light">#ff5a47ff</color>
-    <color name="coui_color_additional_yellow">#ffffb200</color>
+    <color name="coui_color_additional_yellow">@*android:color/accent_material_dark</color>
     <color name="coui_color_additional_yellow_dark">@*android:color/accent_material_dark</color>
-    <color name="coui_color_additional_yellow_light">#ffffb200</color>
+    <color name="coui_color_additional_yellow_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_assist_azure">#ff45abe5</color>
     <color name="coui_color_assist_azure_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_assist_azure_light">#ff45abe5</color>
@@ -823,9 +823,9 @@
     <color name="coui_color_container_theme_red">@*android:color/accent_material_dark</color>
     <color name="coui_color_container_theme_red_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_container_theme_red_light">@*android:color/accent_material_dark</color>
-    <color name="coui_color_container_theme_yellow">#ffffb200</color>
+    <color name="coui_color_container_theme_yellow">@*android:color/accent_material_dark</color>
     <color name="coui_color_container_theme_yellow_dark">@*android:color/accent_material_dark</color>
-    <color name="coui_color_container_theme_yellow_light">#ffffb200</color>
+    <color name="coui_color_container_theme_yellow_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_container_violet">#ffd6d5ee</color>
     <color name="coui_color_container_violet_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_container_violet_light">#ffd6d5ee</color>
@@ -1022,9 +1022,9 @@
     <color name="coui_color_primary_text_yellow">#ffdb9a00</color>
     <color name="coui_color_primary_text_yellow_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_text_yellow_light">#ffdb9a00</color>
-    <color name="coui_color_primary_yellow">#ffffb200</color>
+    <color name="coui_color_primary_yellow">@*android:color/accent_material_dark</color>
     <color name="coui_color_primary_yellow_dark">@*android:color/accent_material_dark</color>
-    <color name="coui_color_primary_yellow_light">#ffffb200</color>
+    <color name="coui_color_primary_yellow_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_purple">#ffa723ff</color>
     <color name="coui_color_purple_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_purple_light">#ffa723ff</color>
@@ -1088,9 +1088,9 @@
     <color name="coui_color_white">#ffffffff</color>
     <color name="coui_color_white_dark">#ffffffff</color>
     <color name="coui_color_white_light">#ffffffff</color>
-    <color name="coui_color_yellow">#ffffb200</color>
+    <color name="coui_color_yellow">@*android:color/accent_material_dark</color>
     <color name="coui_color_yellow_dark">@*android:color/accent_material_dark</color>
-    <color name="coui_color_yellow_light">#ffffb200</color>
+    <color name="coui_color_yellow_light">@*android:color/accent_material_dark</color>
     <color name="coui_color_yellow_variant">#ffe5af2e</color>
     <color name="coui_color_yellow_variant_dark">@*android:color/accent_material_dark</color>
     <color name="coui_color_yellow_variant_light">#ffe5af2e</color>

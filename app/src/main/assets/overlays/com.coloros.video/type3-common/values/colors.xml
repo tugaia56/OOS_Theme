@@ -453,7 +453,7 @@
     <color name="couiYellowTintColorDisableNormal">#4dffb200</color>
     <color name="couiYellowTintColorFocusNormal">#1fffb200</color>
     <color name="couiYellowTintColorFocusOutlineNormal">#66ffb200</color>
-    <color name="couiYellowTintControlNormal">#ffffb200</color>
+    <color name="couiYellowTintControlNormal">@*android:color/accent_material_dark</color>
     <color name="couiYellowTintLightNormal">#26fac000</color>
     <color name="coui_alert_dialog_button_color_tiny">#ffe6e6e6</color>
     <color name="coui_alert_dialog_button_text_color_tiny">@*android:color/background_dark</color>
@@ -595,7 +595,7 @@
     <color name="coui_color_violet">#ff5a47ff</color>
     <color name="coui_color_violet_variant">#ff7e73e5</color>
     <color name="coui_color_white">#ffffffff</color>
-    <color name="coui_color_yellow">#ffffb200</color>
+    <color name="coui_color_yellow">@*android:color/accent_material_dark</color>
     <color name="coui_color_yellow_variant">#ffe5af2e</color>
     <color name="coui_dialog_follow_hand_spot_shadow_color">#52000000</color>
     <color name="coui_dialog_list_blend_blur_dark">#ff737373</color>

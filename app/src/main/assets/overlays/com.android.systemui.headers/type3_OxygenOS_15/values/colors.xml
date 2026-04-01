@@ -38,7 +38,7 @@
     <color name="notification_primary_text_color">#d9000000</color>
     <color name="notification_ripple_tinted_color">#00ff00</color>
     <color name="notification_ripple_untinted_color">#ff00ff</color>
-    <color name="notification_scrim_base">@*android::color/system_accent1_100</color>
+    <color name="notification_scrim_base">@*android:color/system_accent1_100</color>
     <color name="notification_scrim_bg_mask_color">@*android:color/background_dark</color>
     <color name="notification_scrim_bg_mask_color_in_low_gauss_level">#ffe6e6e6</color>
     <color name="notification_scrim_fallback">@*android:color/system_surface_dim_light</color>
