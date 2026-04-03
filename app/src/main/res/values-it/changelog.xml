@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ThemeChangelog">
-        <item>Versione 6.9.0</item>
+        <item>Versione 7.0.0</item>
         <item>AGGIUNTO:</item>
-        <item>AI Painter v16.0.20</item>
-        <item>Multi Windows v2.0.0</item>
-        <item>Portale contenuti v16.5.1</item>
+        <item>. . .</item>
         <item>MODIFICATO:</item>
-        <item>System UI Headers OOS 15 BUG FIX</item>
-        <item>SwitchAI v4.0</item>
-        <item>Traduzione Italiana TeraBox</item>
+        <item>. . .</item>
+        <item>RINOSSO:</item>
+        <item>. . .</item>
     </string-array>
 </resources>
