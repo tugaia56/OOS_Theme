@@ -39,7 +39,7 @@
     <color name="box_browsesdk_primary_dark">#ff9e9e9e</color>
     <color name="box_browsesdk_primary_text">#de000000</color>
     <color name="box_browsesdk_shadow">#88333333</color>
-    <color name="box_dark_gray_3">@*android:color/background_dark</color>
+    <color name="box_dark_gray_3">@*android:color/button_material_dark</color>
     <color name="box_dark_gray_4">@*android:color/background_dark</color>
     <color name="box_gray">@*android:color/background_dark</color>
     <color name="box_gray3">#ffa7a7a7</color>
@@ -50,7 +50,7 @@
     <color name="box_gray_20">#ffd3d3d3</color>
     <color name="box_gray_30">#ffbcbcbc</color>
     <color name="box_gray_40">#ffa7a7a7</color>
-    <color name="box_gray_50">#ff909090</color>
+    <color name="box_gray_50">#ffffff</color>
     <color name="box_gray_62">#ff767676</color>
     <color name="box_gray_65">#ff6f6f6f</color>
     <color name="box_gray_80">@*android:color/holo_primary</color>
