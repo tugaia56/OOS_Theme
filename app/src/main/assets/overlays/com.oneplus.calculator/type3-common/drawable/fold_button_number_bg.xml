@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:antialias="true">
+            <gradient android:startColor="@color/fold_button_number_gradient_bg_start_color" android:endColor="@color/fold_button_number_gradient_bg_end_color" android:angle="270.0" android:type="linear" />
+            <corners android:radius="85.0dp" />
+        </shape>
+    </item>
+    <item>
+        <shape android:antialias="true" android:shape="rectangle">
+            <corners android:radius="85.0dp" />
+            <solid android:color="@color/number_button_foreground_color" />
+        </shape>
+    </item>
+</layer-list>
