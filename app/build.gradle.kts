@@ -49,7 +49,7 @@ android {
     defaultConfig {
         applicationId="tugaia56.dark.shadow.theme"
         minSdk=33
-        versionCode =700
+        versionCode = 700
         versionName = "7.0.0"
 
         // Themers: DO NOT MODIFY
@@ -112,7 +112,7 @@ android {
         variant.outputs
             .map { it as com.android.build.gradle.internal.api.BaseVariantOutputImpl }
             .forEach { output ->
-                val outputFileName = "Dark_Shadow_Theme_v6.9.0.apk"
+                val outputFileName = "Dark_Shadow_Theme_v7.0.0.apk"
                 output.outputFileName = outputFileName
             }
     }
