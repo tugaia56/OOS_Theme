@@ -225,7 +225,7 @@
     <color name="design_default_color_primary_dark">#ff3700b3</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
     <color name="design_default_color_secondary">@*android:color/accent_material_dark</color>
-    <color name="design_default_color_secondary_variant">#ff018786</color>
+    <color name="design_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_fab_shadow_end_color">@*android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>
@@ -1640,7 +1640,7 @@
     <color name="teal_10_static_opacity_7">#b366d9e8</color>
     <color name="teal_10_static_opacity_8">#cc66d9e8</color>
     <color name="teal_10_static_opacity_9">#e666d9e8</color>
-    <color name="teal_200">#ff03dac5</color>
+    <color name="teal_200">@*android:color/accent_material_dark</color>
     <color name="teal_20_static">#ff3bc9db</color>
     <color name="teal_20_static_opacity_1">#1a3bc9db</color>
     <color name="teal_20_static_opacity_2">#333bc9db</color>
@@ -1722,7 +1722,7 @@
     <color name="teal_60_static_opacity_8">#cc0c8599</color>
     <color name="teal_60_static_opacity_9">#e60c8599</color>
     <color name="teal_70">#ff0b7285</color>
-    <color name="teal_700">#ff018786</color>
+    <color name="teal_700">@*android:color/accent_material_dark</color>
     <color name="teal_70_opacity_1">#1a0b7285</color>
     <color name="teal_70_opacity_2">#330b7285</color>
     <color name="teal_70_opacity_3">#4d0b7285</color>

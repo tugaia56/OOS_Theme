@@ -944,7 +944,7 @@
     <color name="switch_unchecked_inner_circle_disabled_color">#fff2f2f2</color>
     <color name="tablayout_indicator_background">#0f000000</color>
     <color name="tablayout_small_tabtext_color">#80000000</color>
-    <color name="teal_200">#ff03dac5</color>
+    <color name="teal_200">@*android:color/accent_material_dark</color>
     <color name="teal_700">@*android:color/accent_material_dark</color>
     <color name="test_color">@*android:color/background_dark</color>
     <color name="text_ripple_bg_solid_color">#ffffffff</color>

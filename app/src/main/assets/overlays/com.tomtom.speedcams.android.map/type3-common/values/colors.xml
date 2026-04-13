@@ -63,7 +63,7 @@
     <color name="design_default_color_primary_dark">#ff3700b3</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
     <color name="design_default_color_secondary">#ff03dac6</color>
-    <color name="design_default_color_secondary_variant">#ff018786</color>
+    <color name="design_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_fab_shadow_end_color">@*android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>
@@ -275,7 +275,7 @@
     <color name="tomtom_navigation_blue_90">#ffeef2f6</color>
     <color name="tomtom_navigation_blue_purple">#ff5728aa</color>
     <color name="tomtom_navigation_charcoal_grey">#ff3a4855</color>
-    <color name="tomtom_navigation_color_accent">#ff03dac5</color>
+    <color name="tomtom_navigation_color_accent">@*android:color/accent_material_dark</color>
     <color name="tomtom_navigation_color_arrival_info_background">#ffeeeeee</color>
     <color name="tomtom_navigation_color_primary">#ff6200ee</color>
     <color name="tomtom_navigation_color_primary_dark">#ff3700b3</color>

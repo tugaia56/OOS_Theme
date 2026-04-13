@@ -418,7 +418,7 @@
     <color name="coui_jump_preference_btn_next_color">#80ffffff</color>
     <color name="coui_jump_preference_normal_color">#ffffffff</color>
     <color name="coui_list_color_pressed">#ff545454</color>
-    <color name="coui_list_dialog_background_color_no_blur">#ff1e1e1e</color>
+    <color name="coui_list_dialog_background_color_no_blur">@*android:color/background_dark</color>
     <color name="coui_list_selector_color_pressed">#1affffff</color>
     <color name="coui_list_text_color_large_disabled">#26ffffff</color>
     <color name="coui_list_text_color_large_normal">#ffffffff</color>

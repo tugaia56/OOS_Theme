@@ -2757,8 +2757,8 @@
     <color name="table_span_text_dark">#ffababab</color>
     <color name="table_span_text_light">@*android:color/background_dark</color>
     <color name="table_title_theme_color">#ff2dc84e</color>
-    <color name="teal_200">#ff03dac5</color>
-    <color name="teal_700">#ff018786</color>
+    <color name="teal_200">@*android:color/accent_material_dark</color>
+    <color name="teal_700">@*android:color/accent_material_dark</color>
     <color name="text_alarm_time_color">@*android:color/accent_material_dark</color>
     <color name="text_black">#e6000000</color>
     <color name="text_color_alpha_85">#d9000000</color>

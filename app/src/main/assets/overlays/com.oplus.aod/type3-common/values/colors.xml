@@ -112,7 +112,7 @@
     <color name="cardview_shadow_start_color">#37000000</color>
     <color name="chip_checked_text_color">#d9ffffff</color>
     <color name="chip_unchecked_background_color">#0a000000</color>
-    <color name="colorAccent">#ff03dac5</color>
+    <color name="colorAccent">@*android:color/accent_material_dark</color>
     <color name="colorPrimary">#ff6200ee</color>
     <color name="colorPrimaryDark">#ff3700b3</color>
     <color name="color_divide">#ff888888</color>

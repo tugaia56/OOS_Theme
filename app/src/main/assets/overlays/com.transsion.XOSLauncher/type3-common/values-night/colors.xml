@@ -208,7 +208,7 @@
     <color name="os_foot_bar_popup_bg">@*android:color/background_dark</color>
     <color name="os_footactionbar_bg_end">#f71e1e1e</color>
     <color name="os_footactionbar_bg_start">#f71e1e1e</color>
-    <color name="os_footoperationbar_bg_end">#ff1e1e1e</color>
+    <color name="os_footoperationbar_bg_end">@*android:color/background_dark</color>
     <color name="os_footoperationbar_bg_start">#f21e1e1e</color>
     <color name="os_footoperationbar_popup_bg">#ff2c2c2c</color>
     <color name="os_foreground_material_light">@*android:color/background_dark</color>
@@ -376,7 +376,7 @@
     <color name="setting_item_summary_disable_color">#36dedede</color>
     <color name="setting_item_title_state_disabled">#66dedede</color>
     <color name="setting_item_title_state_enabled">#ffdedede</color>
-    <color name="setting_navigation_bar">#ff1e1e1e</color>
+    <color name="setting_navigation_bar">@*android:color/background_dark</color>
     <color name="setting_notification_tip_bg">@*android:color/background_dark</color>
     <color name="setting_notification_tip_text_color">#ffdedede</color>
     <color name="support_text_color">#66dedede</color>
@@ -402,9 +402,9 @@
     <color name="th_local_wp_head_color">#ffdedede</color>
     <color name="th_local_wp_item_color">#ffdedede</color>
     <color name="th_main_tab_normal_color">#b3dedede</color>
-    <color name="th_navigation_background_color">#ff1e1e1e</color>
+    <color name="th_navigation_background_color">@*android:color/background_dark</color>
     <color name="th_normal_dialog_title_text_color">#87dedede</color>
-    <color name="th_oled_navigation_background_color">#ff1e1e1e</color>
+    <color name="th_oled_navigation_background_color">@*android:color/background_dark</color>
     <color name="th_price_line_color">#33ffffff</color>
     <color name="th_pull_down_arrow_color">#ffdedede</color>
     <color name="th_rank_normal_bg_color">@*android:color/button_material_dark</color>
@@ -437,13 +437,13 @@
     <color name="theme_fcm_des_color">#7fffffff</color>
     <color name="theme_fcm_title_color">#ffffffff</color>
     <color name="theme_notification_text_color">#ffdedede</color>
-    <color name="theme_oled_tab_background_color">#ff1e1e1e</color>
+    <color name="theme_oled_tab_background_color">@*android:color/background_dark</color>
     <color name="theme_pop_bg_color">#ff363636</color>
     <color name="theme_pop_text_disable_color">#66dedede</color>
     <color name="theme_pop_text_normal_color">#99dedede</color>
     <color name="theme_purple_highlight">#99908dff</color>
     <color name="theme_status_bar_color">@*android:color/background_dark</color>
-    <color name="theme_tab_background_color">#ff1e1e1e</color>
+    <color name="theme_tab_background_color">@*android:color/background_dark</color>
     <color name="theme_title_tab_card">#1affffff</color>
     <color name="theme_wp_widget_back_color">#ffffffff</color>
     <color name="title_background_color">@*android:color/background_dark</color>

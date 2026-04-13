@@ -337,8 +337,8 @@
     <color name="local_play_list_item_bg_color">#ff4c4c4c</color>
     <color name="local_tab_indicator_color">@*android:color/accent_material_dark</color>
     <color name="local_tab_select_text_color">@*android:color/accent_material_dark</color>
-    <color name="local_tab_un_select_text_color">#8affffff</color>
-    <color name="local_title_color">#e5ffffff</color>
+    <color name="local_tab_un_select_text_color">#ffffffff</color>
+    <color name="local_title_color">#ffffffff</color>
     <color name="me_item_bg_color">#1affffff</color>
     <color name="mix_ad_bg_divide">#ffffffff</color>
     <color name="mix_ad_dialog_bg">#ff383838</color>

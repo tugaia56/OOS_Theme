@@ -72,7 +72,7 @@
     <color name="design_default_color_primary_dark">#ff3700b3</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
     <color name="design_default_color_secondary">#ff03dac6</color>
-    <color name="design_default_color_secondary_variant">#ff018786</color>
+    <color name="design_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_fab_stroke_end_inner_color">#0a000000</color>
     <color name="design_fab_stroke_end_outer_color">#0f000000</color>

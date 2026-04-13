@@ -107,7 +107,7 @@
     <color name="clear_button_opacity_focused">#36ffffff</color>
     <color name="clear_button_opacity_normal">#57ffffff</color>
     <color name="clear_button_opacity_pressed">#19ffffff</color>
-    <color name="colorAccent">#ff03dac5</color>
+    <color name="colorAccent">@*android:color/accent_material_dark</color>
     <color name="colorPrimary">#ff6200ee</color>
     <color name="colorPrimaryDark">#ff3700b3</color>
     <color name="comm_blue_10">#ff2b88d8</color>
@@ -168,7 +168,7 @@
     <color name="design_default_color_primary_dark">#ff3700b3</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
     <color name="design_default_color_secondary">@*android:color/accent_material_dark</color>
-    <color name="design_default_color_secondary_variant">#ff018786</color>
+    <color name="design_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_fab_shadow_end_color">@*android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>
@@ -1362,7 +1362,7 @@
     <color name="op_bottom_sheet_row_secondary_text">#ff6e6e6e</color>
     <color name="op_bottom_sheet_title">@*android:color/button_material_dark</color>
     <color name="op_card_view_focused_state_stroke_color">#ff6e6e6e</color>
-    <color name="op_color_accent">#ff03dac5</color>
+    <color name="op_color_accent">@*android:color/accent_material_dark</color>
     <color name="op_color_primary">#ff6264a7</color>
     <color name="op_color_primary_dark">#ff464775</color>
     <color name="op_controls_header_background_overlay_portrait">#66000000</color>
@@ -1662,8 +1662,8 @@
     <color name="xiaomi_purple_200">#ffbb86fc</color>
     <color name="xiaomi_purple_500">#ff6200ee</color>
     <color name="xiaomi_purple_700">#ff3700b3</color>
-    <color name="xiaomi_teal_200">#ff03dac5</color>
-    <color name="xiaomi_teal_700">#ff018786</color>
+    <color name="xiaomi_teal_200">@*android:color/accent_material_dark</color>
+    <color name="xiaomi_teal_700">@*android:color/accent_material_dark</color>
     <color name="xiaomi_white">#ffffffff</color>
     <color name="yubikit_dialog_background">#ffffffff</color>
     <color name="yubikit_text_color_primary">#de000000</color>

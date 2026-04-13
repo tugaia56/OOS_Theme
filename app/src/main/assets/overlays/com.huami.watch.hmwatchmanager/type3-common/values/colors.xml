@@ -338,7 +338,7 @@
     <color name="cl_switch_checked">#ffff5353</color>
     <color name="cl_switch_unchecked">#ffb0b9c3</color>
     <color name="color333">@*android:color/holo_light_primary_dark</color>
-    <color name="colorAccent">#ff03dac5</color>
+    <color name="colorAccent">@*android:color/accent_material_dark</color>
     <color name="colorPrimary">#ff6200ee</color>
     <color name="colorPrimaryDark">#ff3700b3</color>
     <color name="color_00bbff">#ff00bbff</color>

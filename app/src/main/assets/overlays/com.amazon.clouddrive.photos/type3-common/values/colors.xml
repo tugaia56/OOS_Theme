@@ -28,7 +28,7 @@
     <color name="cardview_shadow_start_color">#37000000</color>
     <color name="catalyst_logbox_background">#ffffffff</color>
     <color name="catalyst_redbox_background">#eecc0000</color>
-    <color name="colorAccent">#ff03dac5</color>
+    <color name="colorAccent">@*android:color/accent_material_dark</color>
     <color name="colorPrimary">#ffffffff</color>
     <color name="colorPrimaryDark">@*android:color/background_dark</color>
     <color name="common_google_signin_btn_text_dark_default">@*android:color/white</color>
@@ -65,7 +65,7 @@
     <color name="design_default_color_primary_dark">#ff3700b3</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
     <color name="design_default_color_secondary">@*android:color/accent_material_dark</color>
-    <color name="design_default_color_secondary_variant">#ff018786</color>
+    <color name="design_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_fab_shadow_end_color">@*android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>

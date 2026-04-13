@@ -279,7 +279,7 @@
     <color name="design_default_color_primary_dark">#ff3700b3</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
     <color name="design_default_color_secondary">@*android:color/accent_material_dark</color>
-    <color name="design_default_color_secondary_variant">#ff018786</color>
+    <color name="design_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_fab_shadow_end_color">@*android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>
@@ -718,8 +718,8 @@
     <color name="mbridge_reward_title_textcolor">#ff282828</color>
     <color name="mbridge_reward_white">#ffffffff</color>
     <color name="mbridge_splash_count_time_skip_text_color">#ffffffff</color>
-    <color name="mbridge_teal_200">#ff03dac5</color>
-    <color name="mbridge_teal_700">#ff018786</color>
+    <color name="mbridge_teal_200">@*android:color/accent_material_dark</color>
+    <color name="mbridge_teal_700">@*android:color/accent_material_dark</color>
     <color name="mbridge_video_common_alertview_bg">#ffffffff</color>
     <color name="mbridge_video_common_alertview_cancel_button_bg_default">#ff27ae5f</color>
     <color name="mbridge_video_common_alertview_cancel_button_bg_pressed">#b327ae5f</color>

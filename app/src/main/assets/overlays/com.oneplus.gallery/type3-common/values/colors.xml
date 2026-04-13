@@ -147,7 +147,7 @@
     <color name="albumsetpage_selection_preview_text_pressed_color">#3c908dff</color>
     <color name="androidx_core_ripple_material_light">#1f000000</color>
     <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
-    <color name="app_colorAccent">#ff03dac5</color>
+    <color name="app_colorAccent">@*android:color/accent_material_dark</color>
     <color name="app_colorPrimary">#ff6200ee</color>
     <color name="app_colorPrimaryDark">#ff3700b3</color>
     <color name="background_color">@*android:color/group_button_dialog_pressed_holo_light</color>
@@ -3158,7 +3158,7 @@
     <color name="tab_layout_select_color">#d8000000</color>
     <color name="tablayout_indicator_background">#0f000000</color>
     <color name="tablayout_small_tabtext_color">@*android:color/group_button_dialog_pressed_holo_light</color>
-    <color name="teal_200">#ff03dac5</color>
+    <color name="teal_200">@*android:color/accent_material_dark</color>
     <color name="teal_700">@*android:color/accent_material_dark</color>
     <color name="text_ripple_bg_solid_color">#ffffffff</color>
     <color name="theme_color_oneplus">@*android:color/accent_material_dark</color>

@@ -249,7 +249,7 @@
     <color name="design_default_color_primary_dark">#ff3700b3</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
     <color name="design_default_color_secondary">#ff03dac6</color>
-    <color name="design_default_color_secondary_variant">#ff018786</color>
+    <color name="design_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_fab_shadow_end_color">@*android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>
@@ -412,7 +412,7 @@
     <color name="lau_az_letter_select_color_night">#ffcdcdcd</color>
     <color name="lau_az_search_bg_solid_white">#e0ffffff</color>
     <color name="lau_os_altitude_primary_color_day">#fff7f7f7</color>
-    <color name="lau_os_altitude_primary_color_night">#ff1e1e1e</color>
+    <color name="lau_os_altitude_primary_color_night">@*android:color/background_dark</color>
     <color name="lau_os_altitude_secondary_color_day">#ffffffff</color>
     <color name="lau_os_altitude_secondary_color_night">@*android:color/button_material_dark</color>
     <color name="lau_os_altitude_tertiary_color_day">#ffffffff</color>
@@ -756,7 +756,7 @@
     <color name="os_accent_activated_color">#ff0096ff</color>
     <color name="os_actionbar_background_color">#fffafafa</color>
     <color name="os_altitude_primary_color">#fff7f7f7</color>
-    <color name="os_altitude_primary_ims_color">#ff1e1e1e</color>
+    <color name="os_altitude_primary_ims_color">@*android:color/background_dark</color>
     <color name="os_altitude_primary_oled_color">#fff0f0f0</color>
     <color name="os_altitude_quaternary_color">#ffffffff</color>
     <color name="os_altitude_quaternary_color_solid">#ffffffff</color>
@@ -1238,8 +1238,8 @@
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <color name="task_view_menu_option_bg_color">#42b5b0bb</color>
-    <color name="teal_200">#ff03dac5</color>
-    <color name="teal_700">#ff018786</color>
+    <color name="teal_200">@*android:color/accent_material_dark</color>
+    <color name="teal_700">@*android:color/accent_material_dark</color>
     <color name="team_text_color">@*android:color/background_dark</color>
     <color name="test_color">@*android:color/background_dark</color>
     <color name="text_color_primary_dark">#ffffffff</color>

@@ -1479,7 +1479,7 @@
     <color name="coui_userfollow_default_image_bg">#ffebebeb</color>
     <color name="coui_userfollow_default_image_stroke_bg">#1f000000</color>
     <color name="country_black">@*android:color/background_dark</color>
-    <color name="country_colorAccent">#ff03dac5</color>
+    <color name="country_colorAccent">@*android:color/accent_material_dark</color>
     <color name="country_colorPrimary">#ff6200ee</color>
     <color name="country_colorPrimaryDark">#ff3700b3</color>
     <color name="country_color_black_12">#1e000000</color>
@@ -1518,7 +1518,7 @@
     <color name="design_default_color_primary_dark">#ff3700b3</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
     <color name="design_default_color_secondary">@*android:color/accent_material_dark</color>
-    <color name="design_default_color_secondary_variant">#ff018786</color>
+    <color name="design_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_fab_shadow_end_color">@*android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>

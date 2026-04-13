@@ -790,7 +790,7 @@
     <color name="mbridge_reward_title_textcolor">#ff282828</color>
     <color name="mbridge_reward_white">#ffffffff</color>
     <color name="mbridge_splash_count_time_skip_text_color">#ffffffff</color>
-    <color name="mbridge_teal_200">#ff03dac5</color>
+    <color name="mbridge_teal_200">@*android:color/accent_material_dark</color>
     <color name="mbridge_teal_700">@*android:color/accent_material_dark</color>
     <color name="mbridge_video_common_alertview_bg">#ffffffff</color>
     <color name="mbridge_video_common_alertview_cancel_button_bg_default">#ff27ae5f</color>

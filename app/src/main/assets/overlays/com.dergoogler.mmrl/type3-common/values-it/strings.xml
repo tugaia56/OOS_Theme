@@ -32,6 +32,8 @@
     <string name="allow_cancel_installation">Consenti Annulla Installazione</string>
     <string name="allow_filesystem_api">Consentire l\'API del file system?</string>
     <string name="allow_filesystem_api_desc">"Consentire a questo modulo di accedere all\'API FileSystem? Se non ti senti sicuro con questo modulo, non consentirglielo!"</string>
+    <string name="allow_root_access">Abilita l\'accesso root</string>
+    <string name="allow_root_access_desc">Concedere l\'accesso root consente a quest\'app di esercitare un controllo avanzato sul dispositivo, inclusi i file di sistema e le impostazioni.</string>
     <string name="app_name">MMRL</string>
     <string name="app_theme_dark_theme">Tema scuro</string>
     <string name="app_theme_dark_theme_auto">Automatico</string>

@@ -41,7 +41,7 @@
     <color name="amoled_agenda_item_text_secondary">#ffe5e5e5</color>
     <color name="amoled_am_pm_text_color">#ffffffff</color>
     <color name="amoled_card_background">#ff191919</color>
-    <color name="amoled_clock_background">#ff1e1e1e</color>
+    <color name="amoled_clock_background">@*android:color/background_dark</color>
     <color name="amoled_color_control_highlight">#ffe5e5e5</color>
     <color name="amoled_dark_numbers_text_color">#ffffffff</color>
     <color name="amoled_detail_card_headline">#ffcccccc</color>
@@ -429,7 +429,7 @@
     <color name="design_default_color_primary_dark">#ff3700b3</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
     <color name="design_default_color_secondary">#ff03dac6</color>
-    <color name="design_default_color_secondary_variant">#ff018786</color>
+    <color name="design_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_fab_shadow_end_color">@*android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>

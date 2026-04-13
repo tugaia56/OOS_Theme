@@ -121,7 +121,7 @@
     <color name="certIssuerTitle">@*android:color/background_dark</color>
     <color name="chip_background_color">@*android:color/white</color>
     <color name="choose_folder_icon">#ff959ba3</color>
-    <color name="colorAccent">#ff03dac5</color>
+    <color name="colorAccent">@*android:color/accent_material_dark</color>
     <color name="colorPrimary">#ff6200ee</color>
     <color name="colorPrimaryDark">#ff3700b3</color>
     <color name="color_accent_arctic">#ff5376b0</color>
@@ -930,7 +930,7 @@
     <color name="op_bottom_sheet_row_secondary_text">#fff1f1f1</color>
     <color name="op_bottom_sheet_title">@*android:color/background_dark</color>
     <color name="op_card_view_focused_state_stroke_color">#fff1f1f1</color>
-    <color name="op_color_accent">#ff03dac5</color>
+    <color name="op_color_accent">@*android:color/accent_material_dark</color>
     <color name="op_color_primary">#ff6264a7</color>
     <color name="op_color_primary_dark">#ff464775</color>
     <color name="op_controls_header_background_overlay_portrait">#66000000</color>

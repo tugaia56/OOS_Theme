@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="background">@*android:color/background_dark</color>
-    <color name="colorPositive">@*android:color/accent_material_dark</color>
-    <color name="colorPrimary">@*android:color/accent_material_dark</color>
-    <color name="foreground">@*android:color/white</color>
-    <color name="splashBackgroundColor">@*android:color/background_dark</color>
-</resources>

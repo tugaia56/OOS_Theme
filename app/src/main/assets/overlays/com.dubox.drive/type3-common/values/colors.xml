@@ -964,7 +964,7 @@
     <color name="design_default_color_primary_dark">#ff3700b3</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
     <color name="design_default_color_secondary">#ff03dac6</color>
-    <color name="design_default_color_secondary_variant">#ff018786</color>
+    <color name="design_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_fab_shadow_end_color">@*android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>
@@ -987,7 +987,7 @@
     <color name="dn_333_to_dbdb">#ffdbdbdb</color>
     <color name="dn_blue_black_40p_transparent">#ff999999</color>
     <color name="dn_dn_add_frind_verify_edit_bg">#fffbfbfb</color>
-    <color name="dn_f1f1_to_1e1e">#ff1e1e1e</color>
+    <color name="dn_f1f1_to_1e1e">@*android:color/background_dark</color>
     <color name="dn_send_rich_content">#ff9bdbff</color>
     <color name="doc_img_border">#ffe6e6e6</color>
     <color name="doc_tools_annotation_markup_default_black_color">@*android:color/background_dark</color>
@@ -1381,8 +1381,8 @@
     <color name="mbridge_reward_title_textcolor">#ff282828</color>
     <color name="mbridge_reward_white">#ffffffff</color>
     <color name="mbridge_splash_count_time_skip_text_color">#ffffffff</color>
-    <color name="mbridge_teal_200">#ff03dac5</color>
-    <color name="mbridge_teal_700">#ff018786</color>
+    <color name="mbridge_teal_200">@*android:color/accent_material_dark</color>
+    <color name="mbridge_teal_700">@*android:color/accent_material_dark</color>
     <color name="mbridge_video_common_alertview_bg">#ffffffff</color>
     <color name="mbridge_video_common_alertview_cancel_button_bg_default">#ff27ae5f</color>
     <color name="mbridge_video_common_alertview_cancel_button_bg_pressed">#b327ae5f</color>
@@ -1790,8 +1790,8 @@
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <color name="teal_200">#ff03dac5</color>
-    <color name="teal_700">#ff018786</color>
+    <color name="teal_200">@*android:color/accent_material_dark</color>
+    <color name="teal_700">@*android:color/accent_material_dark</color>
     <color name="test_color">@*android:color/background_dark</color>
     <color name="text_assist_color">#ff999999</color>
     <color name="text_content_color">@*android:color/background_dark</color>

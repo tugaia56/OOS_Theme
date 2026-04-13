@@ -88,7 +88,7 @@
     <color name="color_notification_GC49">#1fffffff</color>
     <color name="color_notification_GC50">#ff333333</color>
     <color name="color_notification_GC51">#ff434140</color>
-    <color name="color_notification_GC52">#ff1e1e1e</color>
+    <color name="color_notification_GC52">@*android:color/background_dark</color>
     <color name="color_pay_after_excess">#fff230a1</color>
     <color name="color_pay_after_excess2">#ffe575b9</color>
     <color name="color_pay_front_excess">#ff3859ff</color>

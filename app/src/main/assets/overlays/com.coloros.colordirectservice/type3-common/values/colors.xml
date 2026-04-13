@@ -1105,7 +1105,7 @@
     <color name="design_default_color_primary_dark">#ff3700b3</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
     <color name="design_default_color_secondary">@*android:color/accent_material_dark</color>
-    <color name="design_default_color_secondary_variant">#ff018786</color>
+    <color name="design_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_fab_shadow_end_color">@*android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>
@@ -1328,8 +1328,8 @@
     <color name="switch_unchecked_inner_circle_disabled_color">#fff2f2f2</color>
     <color name="tablayout_indicator_background">#0f000000</color>
     <color name="tablayout_small_tabtext_color">#80000000</color>
-    <color name="teal_200">#ff03dac5</color>
-    <color name="teal_700">#ff018786</color>
+    <color name="teal_200">@*android:color/accent_material_dark</color>
+    <color name="teal_700">@*android:color/accent_material_dark</color>
     <color name="text_black">@*android:color/background_dark</color>
     <color name="text_black_color">@*android:color/background_dark</color>
     <color name="text_retry_primary_button">@*android:color/accent_material_dark</color>

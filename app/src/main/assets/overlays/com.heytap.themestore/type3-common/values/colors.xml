@@ -1736,7 +1736,7 @@
     <color name="country_ac_os12_background">#fffafafa</color>
     <color name="country_activity_bg">#ffffffff</color>
     <color name="country_black">@*android:color/background_dark</color>
-    <color name="country_colorAccent">#ff03dac5</color>
+    <color name="country_colorAccent">@*android:color/accent_material_dark</color>
     <color name="country_colorPrimary">#ff6200ee</color>
     <color name="country_colorPrimaryDark">#ff3700b3</color>
     <color name="country_color_0D000000">#0f000000</color>

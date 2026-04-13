@@ -188,7 +188,7 @@
     <color name="design_default_color_primary_dark">#ff3700b3</color>
     <color name="design_default_color_primary_variant">#ff3700b3</color>
     <color name="design_default_color_secondary">#ff03dac6</color>
-    <color name="design_default_color_secondary_variant">#ff018786</color>
+    <color name="design_default_color_secondary_variant">@*android:color/accent_material_dark</color>
     <color name="design_default_color_surface">#ffffffff</color>
     <color name="design_fab_stroke_end_inner_color">#0a000000</color>
     <color name="design_fab_stroke_end_outer_color">#0f000000</color>
@@ -1320,7 +1320,7 @@
     <color name="top_entry_grey">#ffeeeeee</color>
     <color name="tos_body_0_color">@*android:color/background_dark</color>
     <color name="tos_body_1_color">@*android:color/background_dark</color>
-    <color name="tos_cancel_button_color">#ff1e1e1e</color>
+    <color name="tos_cancel_button_color">@*android:color/background_dark</color>
     <color name="tos_header_1_color">@*android:color/background_dark</color>
     <color name="tp_global_action_card_balance_text">#ff5e5e5e</color>
     <color name="tp_global_action_cta_background">#80000000</color>
