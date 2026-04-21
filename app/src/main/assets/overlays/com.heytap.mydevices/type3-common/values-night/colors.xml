@@ -377,7 +377,7 @@
     <color name="preview_card_bg">@*android:color/background_dark</color>
     <color name="preview_card_fg">#1affffff</color>
     <color name="search_view_window_mask">#b3000000</color>
-    <color name="small_card_bg_device_center">#ff1d1e22</color>
+    <color name="small_card_bg_device_center">@*android:color/button_material_dark</color>
     <color name="small_card_bg_remote">@*android:color/background_dark</color>
     <color name="state_msg">#8cffffff</color>
     <color name="switch_outer_circle_check_disable_color">#29ffffff</color>
