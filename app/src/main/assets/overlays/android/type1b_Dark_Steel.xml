@@ -37,12 +37,12 @@
     <color name="darker_gray">#9ca1ad</color>
 	
     <!--Trasparenze background-->
-    <color name="group_button_dialog_focused_holo_dark">#e6202026</color>	<!-- 10% -->
-    <color name="group_button_dialog_focused_holo_light">#cc202026</color>	<!-- 20% -->
-    <color name="group_button_dialog_pressed_holo_dark">#a6202026</color>	<!-- 40% -->
-    <color name="group_button_dialog_pressed_holo_light">#80202026</color>	<!-- 50% -->
-    <color name="car_blue_grey_800">#33202026</color>						<!-- 80% -->
-    <color name="car_blue_grey_900">#1a202026</color>						<!-- 90% -->
+    <color name="group_button_dialog_focused_holo_dark">#e63b4250</color>	<!-- 10% -->
+    <color name="group_button_dialog_focused_holo_light">#cc3b4250</color>	<!-- 20% -->
+    <color name="group_button_dialog_pressed_holo_dark">#a63b4250</color>	<!-- 40% -->
+    <color name="group_button_dialog_pressed_holo_light">#803b4250</color>	<!-- 50% -->
+    <color name="car_blue_grey_800">#333b4250</color>						<!-- 80% -->
+    <color name="car_blue_grey_900">#1a3b4250</color>						<!-- 90% -->
 	
     <color name="system_neutral1_0">#ffffff</color>
     <color name="system_neutral1_10">#ffffff</color>

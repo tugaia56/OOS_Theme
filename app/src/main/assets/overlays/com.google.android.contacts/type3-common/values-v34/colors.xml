@@ -31,12 +31,12 @@
     <color name="gm3_sys_color_dynamic_dark_primary_container">@*android:color/accent_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_secondary">#ffffff</color>
     <color name="gm3_sys_color_dynamic_dark_secondary_container">@*android:color/accent_material_dark</color>
-    <color name="gm3_sys_color_dynamic_dark_surface">#ff00ff</color>
+    <color name="gm3_sys_color_dynamic_dark_surface">@*android:color/background_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_bright">@*android:color/button_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_container">@*android:color/background_dark</color>				<!-- sfondo -->
     <color name="gm3_sys_color_dynamic_dark_surface_container_high">@*android:color/ripple_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_container_highest">@*android:color/button_material_dark</color>	<!-- search e navbar -->
-    <color name="gm3_sys_color_dynamic_dark_surface_container_low">#00ffff</color>
+    <color name="gm3_sys_color_dynamic_dark_surface_container_low">@*android:color/button_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_container_lowest">@*android:color/button_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_dim">#ffe57f</color>
     <color name="gm3_sys_color_dynamic_dark_surface_variant">@*android:color/ripple_material_dark</color>
