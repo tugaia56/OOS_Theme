@@ -2,6 +2,10 @@
 <resources>
     <style name="SwitchOffDarkerStyle">
         <item name="colorControlActivated">@*android:color/accent_material_dark</item>
-        <item name="colorSwitchThumbNormal">#ffaaaaaa</item>
+        <item name="colorSwitchThumbNormal">@*android:color/darker_gray</item>
     </style>
+    <style name="SwitchOffWhite">
+        <item name="colorControlActivated">@*android:color/accent_material_dark</item>
+        <item name="colorSwitchThumbNormal">@*android:color/darker_gray</item>
+    </style>	
 </resources>

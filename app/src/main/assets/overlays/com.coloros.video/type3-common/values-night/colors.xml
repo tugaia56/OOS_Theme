@@ -352,7 +352,7 @@
     <color name="search_view_window_mask">#b3000000</color>
     <color name="switch_outer_circle_check_disable_color">#29ffffff</color>
     <color name="switch_outer_circle_disable_color">#29ffffff</color>
-    <color name="switch_unchecked_bar_color">#ff757575</color>
+    <color name="switch_unchecked_bar_color">@*android:color/button_material_dark</color>
     <color name="switch_unchecked_bar_disabled_color">#4d757575</color>
     <color name="switch_unchecked_inner_circle_disabled_color">#99232323</color>
     <color name="tab_indicator_color">@*android:color/accent_material_dark</color>

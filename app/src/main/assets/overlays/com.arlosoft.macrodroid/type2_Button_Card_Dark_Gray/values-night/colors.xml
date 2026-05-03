@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">@*android:color/background_dark</color>															<!-- 1° pulsante - statusbar e navbar -->
+    <color name="actions_primary">@*android:color/button_material_dark</color>												<!-- 2° pulsante -->
+    <color name="forum_primary">@*android:color/button_material_dark</color>												<!-- 3°	pulsante -->
+    <color name="export_import_primary">@*android:color/button_material_dark</color>										<!-- 4°	pulsante -->
+    <color name="md_cyan_800">@*android:color/button_material_dark</color>													<!-- 5°	pulsante -->
+    <color name="stopwatches_primary">@*android:color/button_material_dark</color>											<!-- 6°	pulsante -->
+    <color name="geofences_primary">@*android:color/button_material_dark</color>											<!-- 7°	pulsante -->
+    <color name="md_blue_grey_600">@*android:color/button_material_dark</color>												<!-- 8°	pulsante -->
+    <color name="system_log_primary">@*android:color/button_material_dark</color>											<!-- 9°	pulsante -->
+    <color name="videos_primary">@*android:color/button_material_dark</color>												<!-- 10° pulsante -->
+    <color name="blue_600">@*android:color/button_material_dark</color>														<!-- 11° pulsante -->
+    <color name="plugins_primary">@*android:color/button_material_dark</color>												<!-- 12° pulsante -->
+    <color name="home_screen_tile_last_edited_macro">@*android:color/button_material_dark</color>							<!-- 13° pulsante -->
+    <color name="favourites_primary">@*android:color/button_material_dark</color>											<!-- 14° pulsante -->
+    <color name="home_screen_tile_quick_run_macro">@*android:color/button_material_dark</color>								<!-- 15° pulsante -->
+    <color name="user_log_primary">@*android:color/button_material_dark</color>												<!-- 16° pulsante -->
+    <color name="auto_backup_primary">@*android:color/button_material_dark</color>											<!-- 17° pulsante -->
+    <color name="drawer_primary">@*android:color/button_material_dark</color>												<!-- 18° pulsante -->
+    <color name="quick_settings_config_primary">@*android:color/button_material_dark</color>								<!-- 19° pulsante -->
+	<color name="md_indigo_400">@*android:color/button_material_dark</color>												<!-- 20° pulsante -->
+	<color name="notification_bar_primary">@*android:color/button_material_dark</color>										<!-- 21° pulsante -->
+	<color name="ai_macro_builder_primary">@*android:color/button_material_dark</color>										<!-- 22° pulsante -->
+
+</resources>

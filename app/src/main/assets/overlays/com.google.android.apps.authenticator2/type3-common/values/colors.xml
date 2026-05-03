@@ -202,12 +202,12 @@
     <color name="m3_ref_palette_tertiary40">#ff7d5260</color>
     <color name="m3_ref_palette_tertiary80">#ffefb8c8</color>
     <color name="m3_ref_palette_tertiary90">#ffffd8e4</color>
-    <color name="material_deep_teal_200">#ff80cbc4</color>
-    <color name="material_deep_teal_500">#ff008577</color>
+    <color name="material_deep_teal_200">@*android:color/accent_material_dark</color>
+    <color name="material_deep_teal_500">@*android:color/accent_material_dark</color>
     <color name="material_grey_100">#fff5f5f5</color>
     <color name="material_grey_300">#ffe0e0e0</color>
     <color name="material_grey_50">#fffafafa</color>
-    <color name="material_grey_600">#ff757575</color>
+    <color name="material_grey_600">@*android:color/button_material_dark</color>
     <color name="material_grey_800">@*android:color/background_dark</color>
     <color name="material_grey_850">@*android:color/background_dark</color>
     <color name="material_grey_900">@*android:color/background_dark</color>

@@ -455,7 +455,7 @@
     <color name="coui_userfollow_default_image_stroke_bg">#33ffffff</color>
     <color name="default_panel_background">@*android:color/background_dark</color>
     <color name="fb_loading_container_background_color">@*android:color/background_dark</color>
-    <color name="game_board_switch_second_level_color">#ff757575</color>
+    <color name="game_board_switch_second_level_color">@*android:color/button_material_dark</color>
     <color name="game_manager_search_bottom_line">#26ffffff</color>
     <color name="game_plus_board_eighty_five_percent_color">#d9ffffff</color>
     <color name="game_plus_board_vibration_mask_bg_color">#99000000</color>
