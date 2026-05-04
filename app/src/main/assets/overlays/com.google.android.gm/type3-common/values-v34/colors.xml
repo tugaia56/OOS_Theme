@@ -130,7 +130,7 @@
     <color name="gm3_sys_color_dynamic_dark_surface_container_high">@*android:color/background_dark</color>		<!-- navbar -->
     <color name="gm3_sys_color_dynamic_dark_surface_container_highest">#e53935</color>
     <color name="gm3_sys_color_dynamic_dark_surface_container_low">#311b92</color>
-    <color name="gm3_sys_color_dynamic_dark_surface_container_lowest">#673ab7</color>
+    <color name="gm3_sys_color_dynamic_dark_surface_container_lowest">@*android:color/button_material_dark</color>
     <color name="gm3_sys_color_dynamic_dark_surface_dim">#ffe57f</color>
     <color name="gm3_sys_color_dynamic_dark_surface_variant">@*android:color/button_material_dark</color>		<!-- Sfondo messaggio spam -->
     <color name="gm3_sys_color_dynamic_dark_tertiary">#ff8f00</color>
