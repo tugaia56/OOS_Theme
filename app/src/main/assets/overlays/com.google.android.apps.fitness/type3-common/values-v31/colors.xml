@@ -16,7 +16,7 @@
     <color name="sud_dynamic_color_accent_glif_v3_light">#d32f2f</color>
     <color name="sud_system_accent1_100">#e53935</color>
     <color name="sud_system_accent1_300">#f44336</color>
-    <color name="sud_system_accent1_600">#ef5350</color>
+    <color name="sud_system_accent1_600">@*android:color/accent_material_dark</color>
     <color name="sud_system_neutral1_400">#e57373</color>
     <color name="sud_system_neutral1_50">#ef9a9a</color>
     <color name="sud_system_neutral1_700">#ffcdd2</color>
