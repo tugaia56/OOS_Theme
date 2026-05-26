@@ -29,7 +29,7 @@
     <color name="md_theme_surfaceContainerHigh">@*android:color/button_material_dark</color>
     <color name="md_theme_surfaceContainerHighest">@*android:color/background_dark</color>
     <color name="md_theme_surfaceContainerLow">@*android:color/button_material_dark</color>
-    <color name="md_theme_surfaceContainerLowest">#ff0c0e13</color>
+    <color name="md_theme_surfaceContainerLowest">@*android:color/background_dark</color>
     <color name="md_theme_surfaceDim">@*android:color/background_dark</color>
     <color name="md_theme_surfaceVariant">@*android:color/accent_material_dark</color>
     <color name="md_theme_tertiary">#ffdbbde2</color>

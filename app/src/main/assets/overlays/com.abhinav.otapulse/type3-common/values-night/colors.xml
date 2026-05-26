@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBackground">#201a19</color>
+    <color name="colorError">#ffb4a9</color>
+    <color name="colorErrorContainer">#930006</color>
+    <color name="colorOnBackground">#ede0de</color>
+    <color name="colorOnError">#690005</color>
+    <color name="colorOnErrorContainer">#ffdad5</color>
+    <color name="colorOnPrimary">#690005</color>
+    <color name="colorOnPrimaryContainer">#ffdad5</color>
+    <color name="colorOnSecondary">#442926</color>
+    <color name="colorOnSecondaryContainer">#ffdad5</color>
+    <color name="colorOnSuccessContainer">#b7f1ba</color>
+    <color name="colorOnSurface">#ede0de</color>
+    <color name="colorOnSurfaceVariant">#d8c2be</color>
+    <color name="colorOnTertiary">#3f2d04</color>
+    <color name="colorOnTertiaryContainer">#fde1a7</color>
+    <color name="colorOutline">#a08c89</color>
+    <color name="colorOutlineVariant">#534341</color>
+    <color name="colorPrimary">#ffb4a9</color>
+    <color name="colorPrimaryContainer">#930006</color>
+    <color name="colorSecondary">#e7bdb7</color>
+    <color name="colorSecondaryContainer">#5d3f3b</color>
+    <color name="colorSuccessContainer">#24512b</color>
+    <color name="colorSurface">#201a19</color>
+    <color name="colorSurfaceContainer">#271d1c</color>
+    <color name="colorSurfaceContainerHigh">#322726</color>
+    <color name="colorSurfaceContainerHighest">#3d3231</color>
+    <color name="colorSurfaceContainerLow">#231918</color>
+    <color name="colorSurfaceContainerLowest">#0c0807</color>
+    <color name="colorSurfaceVariant">#534341</color>
+    <color name="colorTertiary">#e0c38c</color>
+    <color name="colorTertiaryContainer">#584419</color>
+    <color name="glass_panel_background">#4d000000</color>
+    <color name="material_green_500">#81c784</color>
+    <color name="material_red_500">#e57373</color>
+</resources>

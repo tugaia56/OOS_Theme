@@ -1104,9 +1104,9 @@
     <color name="md_theme_material_green_dark_outline">@*android:color/accent_material_dark</color>
     <color name="md_theme_material_green_dark_outlineVariant">#ff454743</color>
     <color name="md_theme_material_green_dark_primary">@*android:color/accent_material_dark</color>
-    <color name="md_theme_material_green_dark_primaryContainer">@*android:color/ripple_material_dark</color>	<!--statusbar e tab attivo -->
+    <color name="md_theme_material_green_dark_primaryContainer">@*android:color/accent_material_dark</color>		<!--statusbar e tab navbar attivo -->
     <color name="md_theme_material_green_dark_primaryInverse">#ff006e1a</color>
-    <color name="md_theme_material_green_dark_secondary">#ffbaccb3</color>
+    <color name="md_theme_material_green_dark_secondary">@*android:color/accent_material_dark</color>				<!-- pallino check -->
     <color name="md_theme_material_green_dark_secondaryContainer">@*android:color/accent_material_dark</color>
     <color name="md_theme_material_green_dark_surface">@*android:color/background_dark</color>
     <color name="md_theme_material_green_dark_surfaceBright">#ff383a36</color>

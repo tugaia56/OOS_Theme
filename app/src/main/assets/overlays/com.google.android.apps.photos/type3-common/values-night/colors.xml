@@ -34,11 +34,6 @@
     <color name="photos_daynight_white_elevation_3dp">@*android:color/background_dark</color>
     <color name="photos_daynight_white_elevation_8dp">@*android:color/background_dark</color>
     <color name="photos_draganddrop_drop_overlay_background">#f0000000</color>
-    <color name="photos_ellmann_ui_gradient_color_1">#ffdc5961</color>
-    <color name="photos_ellmann_ui_gradient_color_2">#ff937ce2</color>
-    <color name="photos_ellmann_ui_gradient_color_3">#ff528ddd</color>
-    <color name="photos_ellmann_ui_gradient_color_4">#ff3b63d6</color>
-    <color name="photos_ellmann_ui_gradient_color_5">#ff987be9</color>
     <color name="photos_flyingsky_confirm_suggestion_edit_text_cursor_color">#ff0f84ff</color>
     <color name="photos_flyingsky_confirm_suggestion_edit_text_hint_color">#ff707378</color>
     <color name="photos_photofragment_mediadetails_scrim_start_color">#33000000</color>
@@ -67,6 +62,7 @@
     <color name="settingslib_materialColorSurfaceContainerHigh">@*android:color/background_dark</color>
     <color name="settingslib_materialColorSurfaceContainerHighest">@*android:color/background_dark</color>
     <color name="settingslib_materialColorSurfaceVariant">#ff474747</color>
+    <color name="sud_glif_expressive_footer_secondary_button_disable_text_color">#ffcac4d0</color>
     <color name="survey_disabled_state_color">@*android:color/ripple_material_dark</color>
     <color name="survey_surface_color_elevation_2">@*android:color/background_dark</color>
     <color name="survey_surface_color_elevation_3">@*android:color/background_dark</color>

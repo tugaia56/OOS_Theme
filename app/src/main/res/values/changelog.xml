@@ -3,10 +3,14 @@
     <string-array name="ThemeChangelog">
         <item>Version 7.2.0</item>
         <item>ADDED:</item>
-        <item>- - -</item>
+        <item>OnePlus Calendar v16.11.0</item>
+        <item>Universal Installer v1.7.1</item>
+        <item>OTA Pulse X v3.0.5</item>
         <item>UPDATED:</item>
         <item>Google Gmail v2026.4.13</item>
-        <item>- - -</item>
+        <item>Google Photo v7.76.0.913939682</item>
+        <item>Alarm Clock Xtreme v26.06.0</item>
+        <item>HMA-OSS voos-161</item>
         <item>REMOVED:</item>
         <item>APKMirror Installer</item>
     </string-array>

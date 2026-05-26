@@ -33,7 +33,7 @@
     <color name="common_google_signin_btn_text_light_disabled">#1f000000</color>
     <color name="common_google_signin_btn_text_light_focused">#90000000</color>
     <color name="common_google_signin_btn_text_light_pressed">#de000000</color>
-    <color name="dark_colorAmber">@*android:color/accent_material_dark</color>
+    <color name="dark_colorAmber">#f7c040</color>
     <color name="dark_colorBlack">@*android:color/background_dark</color>
     <color name="dark_colorBlue">#ff3b82f6</color>
     <color name="dark_colorBrand">@*android:color/accent_material_dark</color>
@@ -43,7 +43,7 @@
     <color name="dark_colorCtaButtonDisabled">@*android:color/accent_material_dark</color>
     <color name="dark_colorCyan">#ff81d0fb</color>
     <color name="dark_colorDigit">#ff3da2ff</color>
-    <color name="dark_colorError">@*android:color/accent_material_dark</color>
+    <color name="dark_colorError">#eb5545</color>
     <color name="dark_colorErrorContainer">@*android:color/ripple_material_dark</color>
     <color name="dark_colorGray">#ff8e8e93</color>
     <color name="dark_colorGray2">#ff636365</color>
@@ -51,13 +51,13 @@
     <color name="dark_colorGray4">#ff3a3a3c</color>
     <color name="dark_colorGray5">#ff2c2c2e</color>
     <color name="dark_colorGray6">#ff1c1c1e</color>
-    <color name="dark_colorGreen">#ff67ce67</color>
+    <color name="dark_colorGreen">@*android:color/accent_material_dark</color>
     <color name="dark_colorIndigo">#ff5e5cde</color>
     <color name="dark_colorMint">#ff82d1ce</color>
     <color name="dark_colorNotes">#ff4a4528</color>
     <color name="dark_colorOnBrand">#fff9f9f9</color>
     <color name="dark_colorOnBrandContainer">#ffffe8cc</color>
-    <color name="dark_colorOnCtaButton">#ffffffff</color>			<!-- add fab -->                   
+    <color name="dark_colorOnCtaButton">#ffffffff</color>								<!-- add fab -->                   
     <color name="dark_colorOnError">@*android:color/background_dark</color>
     <color name="dark_colorOnErrorContainer">#fffafafa</color>
     <color name="dark_colorOnErrorContainerVariant">#ffff453a</color>
@@ -71,7 +71,7 @@
     <color name="dark_colorRed">@*android:color/accent_material_dark</color>
     <color name="dark_colorSuccessContainer">@*android:color/accent_material_dark</color>
     <color name="dark_colorSymbol">#ffe08300</color>
-    <color name="dark_colorTeal">@*android:color/accent_material_dark</color>
+    <color name="dark_colorTeal">@*android:color/ripple_material_dark</color>
     <color name="dark_colorTransparent">#00000000</color>
     <color name="dark_colorWhite">#ffffffff</color>
     <color name="dark_colorYellow">#fff9d84a</color>
@@ -349,8 +349,8 @@
     <color name="md_dark_onTertiaryContainer">@*android:color/button_material_dark</color>
     <color name="md_dark_onTertiaryFixed">@*android:color/background_dark</color>
     <color name="md_dark_onTertiaryFixedVariant">#ff474747</color>
-    <color name="md_dark_outline">@*android:color/darker_gray</color>
-    <color name="md_dark_outlineVariant">#ff4c4546</color>
+    <color name="md_dark_outline">#909090</color>
+    <color name="md_dark_outlineVariant">@*android:color/accent_material_dark</color>
     <color name="md_dark_primary">#fff2f2f2</color>
     <color name="md_dark_primaryContainer">@*android:color/background_dark</color>
     <color name="md_dark_primaryFixed">#ffe2e2e2</color>
@@ -367,7 +367,7 @@
     <color name="md_dark_surfaceContainerLow">@*android:color/background_dark</color>
     <color name="md_dark_surfaceContainerLowest">@*android:color/background_dark</color>
     <color name="md_dark_surfaceDim">@*android:color/background_dark</color>
-    <color name="md_dark_surfaceVariant">#ff4c4546</color>
+    <color name="md_dark_surfaceVariant">@*android:color/accent_material_dark</color>
     <color name="md_dark_tertiary">#ffc6c6c6</color>
     <color name="md_dark_tertiaryContainer">@*android:color/background_dark</color>
     <color name="md_dark_tertiaryFixed">#ffe2e2e2</color>
