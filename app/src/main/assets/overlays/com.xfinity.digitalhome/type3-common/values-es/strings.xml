@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="settings_off_biometrics_des">Para permitir notificaciones, ve a <font fgcolor="#ffffff"><b>Configuración > Seguridad.</b></font></string>
-    <string name="settings_off_notification_des">Para permitir notificaciones, ve a <font fgcolor="#ffffff"><b>Configuración > Notificaciones > Xfinity.</b></font></string>
-</resources>

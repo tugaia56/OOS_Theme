@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="minSdk">Minimum SDK</string>
-    <string name="targetSdk">Targeted SDK</string>
-    <string name="new_version">New version</string>
-    <string name="old_version">Old Version</string>
-</resources>
