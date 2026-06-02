@@ -143,11 +143,16 @@
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">@*android:color/background_dark</color>
+    <color name="disabled_gray">#44888888</color>
     <color name="error_color_material_dark">@*android:color/accent_material_dark</color>
     <color name="error_color_material_light">@*android:color/accent_material_dark</color>
     <color name="fordblue">@*android:color/accent_material_dark</color>
     <color name="foreground_material_dark">@*android:color/white</color>
     <color name="foreground_material_light">@*android:color/black</color>
+    <color name="graphColor1">#3daee9</color>
+    <color name="graphColor2">#aee93d</color>
+    <color name="graphColor3">#e9783d</color>
+    <color name="gray600">#757575</color>
     <color name="green">#7700ff00</color>
     <color name="highlighted_text_material_dark">@*android:color/ripple_material_dark</color>
     <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
@@ -660,7 +665,7 @@
     <color name="search_box_text_primary_night">#a6ffffff</color>
     <color name="search_box_text_secondary_day">#8a000000</color>
     <color name="search_box_text_secondary_night">#66ffffff</color>
-    <color name="secondaryColor">#cc0051b5</color>
+    <color name="secondaryColor">@*android:color/holo_red_light</color>
     <color name="secondaryDarkColor">#cc11206c</color>
     <color name="secondaryLightColor">#cc658dbd</color>
     <color name="secondaryTextColor">@*android:color/background_dark</color>
