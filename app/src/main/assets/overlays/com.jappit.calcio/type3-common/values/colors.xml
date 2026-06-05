@@ -7,8 +7,6 @@
     <color name="abc_search_url_text_selected">@*android:color/black</color>
     <color name="accent">#ff385592</color>
     <color name="accent_dark">@*android:color/accent_material_dark</color>
-												
-																			
     <color name="accent_light">@*android:color/accent_material_dark</color>
     <color name="accent_secondary">#ff5a73a8</color>
     <color name="accent_secondary_dark">@*android:color/background_dark</color>

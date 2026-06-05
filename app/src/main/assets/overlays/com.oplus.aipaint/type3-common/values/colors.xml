@@ -817,8 +817,8 @@
     <color name="responsive_ui_column_container_color">#26ffbb0e</color>
     <color name="responsive_ui_column_hint_column">#1aff0000</color>
     <color name="responsive_ui_column_hint_margin">#262dc84e</color>
-    <color name="ripple_material_dark">#33ffffff</color>
-    <color name="ripple_material_light">#1f000000</color>
+    <color name="ripple_material_dark">@*android:color/ripple_material_dark</color>
+    <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="scanning_view_middle_color">#ccffffff</color>
     <color name="scanning_view_start_color">#00ffffff</color>
     <color name="search_view_window_mask">#66000000</color>

@@ -2573,8 +2573,8 @@
     <color name="responsive_ui_column_container_color">#26ffbb0e</color>
     <color name="responsive_ui_column_hint_column">#1aff0000</color>
     <color name="responsive_ui_column_hint_margin">#262dc84e</color>
-    <color name="ripple_material_dark">#33ffffff</color>
-    <color name="ripple_material_light">#1f000000</color>
+    <color name="ripple_material_dark">@*android:color/ripple_material_dark</color>
+    <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="scroll_bar_bg">#0c000000</color>
     <color name="scroll_bar_bg_night">#0c000000</color>
     <color name="search_dark_words_text_color">#e5000000</color>

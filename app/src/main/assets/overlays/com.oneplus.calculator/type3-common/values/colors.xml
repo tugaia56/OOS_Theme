@@ -2334,8 +2334,8 @@
     <color name="responsive_ui_column_hint_column">#1aff0000</color>
     <color name="responsive_ui_column_hint_margin">#262dc84e</color>
     <color name="ripple_bg_color">#0d000000</color>
-    <color name="ripple_material_dark">#33ffffff</color>
-    <color name="ripple_material_light">#1f000000</color>
+    <color name="ripple_material_dark">@*android:color/ripple_material_dark</color>
+    <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="search_view_window_mask">#66000000</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
     <color name="secondary_text_default_material_light">#8a000000</color>

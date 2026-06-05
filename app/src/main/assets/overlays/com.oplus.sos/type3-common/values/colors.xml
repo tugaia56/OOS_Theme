@@ -724,7 +724,7 @@
     <color name="protocol_word_color">#d8000000</color>
     <color name="responsive_ui_column_hint_column">#1aff0000</color>
     <color name="responsive_ui_column_hint_margin">#262dc84e</color>
-    <color name="ripple_material_light">#1f000000</color>
+    <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="second_display_emergencycall_detial_bg">#fff5f5f5</color>
     <color name="second_display_emergencycall_item_color">#d9000000</color>
     <color name="second_display_emergencycall_item_title_color">#8c000000</color>

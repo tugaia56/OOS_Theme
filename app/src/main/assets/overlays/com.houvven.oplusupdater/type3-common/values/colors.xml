@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="androidx_core_ripple_material_light">#00ff00</color>
-    <color name="androidx_core_secondary_text_default_material_light">#ff00ff</color>
-    <color name="white">#ffffffff</color>
-</resources>

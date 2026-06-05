@@ -985,8 +985,8 @@
     <color name="reply_view_background_color">#00ffffff</color>
     <color name="ring_button_disabled_bg_color">#ffe1e3e1</color>
     <color name="ripple_dark_green">#ff1b3815</color>
-    <color name="ripple_material_dark">#33ffffff</color>
-    <color name="ripple_material_light">#1f000000</color>
+    <color name="ripple_material_dark">@*android:color/ripple_material_dark</color>
+    <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="sass_connecting_background">@*android:color/background_dark</color>
     <color name="sass_connecting_text_subtitle">#ffffffff</color>
     <color name="sass_connecting_text_title">#ffe6ff7b</color>

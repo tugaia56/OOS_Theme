@@ -954,8 +954,8 @@
     <color name="red_a400">#ff1744</color>
     <color name="red_a700">#d50000</color>
     <color name="report_bug_blocker">#eef4f4f4</color>
-    <color name="ripple_material_dark">#33ffffff</color>
-    <color name="ripple_material_light">#1f000000</color>
+    <color name="ripple_material_dark">@*android:color/ripple_material_dark</color>
+    <color name="ripple_material_light">@*android:color/ripple_material_dark</color>
     <color name="rsb_trackDefaultColor">#cccccc</color>
     <color name="rsb_trackSelectedDefaultColor">#fefefe</color>
     <color name="scene_item_error">@*android:color/accent_material_dark</color>
