@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="toggle_bar_apply_btn_enabled_color">@*android:color/ripple_material_dark</color>
-</resources>

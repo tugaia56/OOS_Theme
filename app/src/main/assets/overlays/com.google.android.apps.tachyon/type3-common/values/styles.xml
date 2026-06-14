@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="MainSwitchText.Settingslib" parent="@*android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title">
-        <item name="*android:textSize">20.0sp</item>
-        <item name="*android:textColor">@*android:color/white</item>
-        <item name="*android:fontFamily">google_sans_text_medium</item>
-    </style>	
-</resources>

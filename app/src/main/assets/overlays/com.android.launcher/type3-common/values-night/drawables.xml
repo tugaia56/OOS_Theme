@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item type="drawable" name="system_shortcut_item_bg_pressed">@*android:color/ripple_material_dark</item>
-    <item type="drawable" name="system_shortcut_item_bg_unpress">@*android:color/button_material_dark</item>
-</resources>

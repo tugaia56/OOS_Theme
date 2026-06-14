@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="survey_disabled_state_color">@*android:color/ripple_material_dark</color>
-    <color name="survey_surface_color_elevation_2">@*android:color/background_dark</color>
-    <color name="survey_surface_color_elevation_3">@*android:color/background_dark</color>
-</resources>
