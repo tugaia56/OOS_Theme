@@ -430,7 +430,7 @@
     <color name="mbridge_common_white">#ffffff</color>
     <color name="mbridge_cpb_blue">#ff0099cc</color>
     <color name="mbridge_cpb_blue_dark">#ff00719b</color>
-    <color name="mbridge_cpb_green">#ff99cc00</color>
+    <color name="mbridge_cpb_green">@*android:color/accent_material_dark</color>
     <color name="mbridge_cpb_green_dark">#ff6d9b00</color>
     <color name="mbridge_cpb_grey">#ffdedede</color>
     <color name="mbridge_cpb_red">#ffff4444</color>

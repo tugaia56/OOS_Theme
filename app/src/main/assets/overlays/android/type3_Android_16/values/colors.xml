@@ -256,7 +256,7 @@
     <color name="holo_gray_bright">#ffdddddd</color>
     <color name="holo_gray_light">#ffa8acb0</color>
     <color name="holo_green_dark">@*android:color/legacy_control_activated</color>
-    <color name="holo_green_light">#ff00b32c</color>
+    <color name="holo_green_light">@*android:color/accent_material_dark</color>
     <color name="holo_light_button_normal">#cc777777</color>
     <color name="holo_light_button_pressed">#c3777777</color>
     <color name="holo_light_control_activated">#ffd8511e</color>

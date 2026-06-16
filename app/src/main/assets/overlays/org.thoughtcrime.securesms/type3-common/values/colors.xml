@@ -157,7 +157,7 @@
     <color name="core_yellow">#ffffd624</color>
     <color name="cpb_blue">@*android:color/accent_material_dark</color>
     <color name="cpb_blue_dark">#ff00719b</color>
-    <color name="cpb_green">#ff99cc00</color>
+    <color name="cpb_green">@*android:color/accent_material_dark</color>
     <color name="cpb_green_dark">#ff6d9b00</color>
     <color name="cpb_grey">#ffdedede</color>
     <color name="cpb_red">#ffff4444</color>

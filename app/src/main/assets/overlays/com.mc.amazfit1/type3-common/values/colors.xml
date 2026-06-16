@@ -140,7 +140,7 @@
     <color name="grayDivisorColor">#fff5f5f5</color>
     <color name="grayDivisorLight">#ffdddddd</color>
     <color name="grayText">#ff848798</color>
-    <color name="green">#ff99cc00</color>
+    <color name="green">@*android:color/accent_material_dark</color>
     <color name="greenLight">#ffa5d6a7</color>
     <color name="haid_landing_app_down_pre_scan_bg">#0d000000</color>
     <color name="haid_masking_bg">#80000000</color>
@@ -526,7 +526,7 @@
     <color name="widget_battery_bg">#ffc5e1a5</color>
     <color name="workoutBg">@*android:color/accent_material_dark</color>
     <color name="workoutMoreOptions">#ffff9800</color>
-    <color name="workoutPaceGreen">#ff99cc00</color>
+    <color name="workoutPaceGreen">@*android:color/accent_material_dark</color>
     <color name="workoutPaceGreenBg">#ff5d7b00</color>
     <color name="workoutPaceOrange">#ffffbb33</color>
     <color name="workoutPaceOrangeBg">#ffaf7603</color>

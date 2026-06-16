@@ -162,7 +162,7 @@
     <color name="highlighted_text_material_light">@*android:color/ripple_material_dark</color>
     <color name="holo_blue_light">#ff33b5e5</color>
     <color name="holo_blue_light_transparent">#9933b5e5</color>
-    <color name="holo_green_light">#ff99cc00</color>
+    <color name="holo_green_light">@*android:color/accent_material_dark</color>
     <color name="holo_orange_dark">#ffff8800</color>
     <color name="holo_orange_light">#ffffbb33</color>
     <color name="holo_purple">#ffaa66cc</color>
