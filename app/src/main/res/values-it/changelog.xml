@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ThemeChangelog">
-        <item>Versione 7.4.0</item>
+        <item>Version 7.4.0</item>
         <item>AGGIUNTO:</item>
         <item>- - -</item>
         <item>AGGIORNATO:</item>
         <item>- - -</item>
         <item>RIMOSSO:</item>
         <item>- - -</item>
+    </string-array>
 </resources>

@@ -170,7 +170,7 @@
     <color name="cyan_a200">#18ffff</color>
     <color name="cyan_a400">#00e5ff</color>
     <color name="cyan_a700">#00b8d4</color>
-    <color name="dark_window_background">#303030</color>
+    <color name="dark_window_background">@*android:color/background_dark</color>
     <color name="darker_gray">#aaa</color>
     <color name="darker_white">#eeeeee</color>
     <color name="deep_orange_100">#ffccbc</color>
