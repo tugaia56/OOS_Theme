@@ -25,5 +25,6 @@
     <dimen name="thermometer_width">0.0dip</dimen>       											<!-- 8.0dip -->
     <dimen name="thermometer_height">0.0dip</dimen>       											<!-- 16.0dip -->
     <dimen name="smart_forecast_range_bar_condition_bar_height">2.0dip</dimen>       				<!-- 4.0dip -->
+    <dimen name="widget_location_alert_size">20.0sp</dimen>											<!-- 12.0sp -->
 	
 </resources>
